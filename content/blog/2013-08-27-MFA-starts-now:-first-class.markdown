@@ -1,0 +1,33 @@
+---
+categories: null
+comments: true
+date: '2013-08-27T18:41:00-06:00'
+layout: post
+title: 'MFA starts now: first class!'
+---
+
+Holy crap. I mean, really.... Holy crap. Today I had my first class... And I might have felt *every* emotion that one can possibly feel.... 
+
+Woke up early, knot in my stomach. Got the kids up, dressed, and fed. I tried to eat, but that knot in my stomach made it hard. Dropped off my little boy, Jonah, off at pre-school, then ran errands with my little girl, Audrey, until late morning. My neighbor graciously stepped in to watch her while I had class today (kindergarten doesn't start until tomorrow and my babysitter forgot and had made other plans). Right before I took off for class, I checked my student email (for some reason they won't let me forward that to my normal email, so I never get information when I should), and hey, there was an email from my craft of translation class. I check it.... An essay to read... Groovy. I started to read it and I realize that the class isn't the type of translation I'm thinking.
+
+I thought it meant translating one type of literature and translating into another... Not from one language to the other. And reading the essay it quickly became clear that was what the class was about. CRAP! I drop off Audrey, and race to school, hoping to meet the teacher before class and find out what the deal was. My stomach went into a tighter knot... I started to worry that all of my careful planning for childcare was going to be for nothing, AND that I was going to end up with a class I wasn't as interested in. CRAP!
+
+On the ride there, I sat in traffic. Traffic that made me nervous about being able to find parking and have time to check in about the class... But it was fine! Elation! I found a parking spot! Even more joy! I had plenty of time to do all the things. Yes!
+
+First stop at school was the creative writing office. I missed orientation yesterday (because of my lame babysitter) and they had a packet for me to pick up. I asked them about the class and was told no second language required. English to english was just fine. Finally the knot in my stomach had loosened enough for me to be hungry, I had a little snack (the knot wasn't as tight, but it was still there!) and headed for class...
+
+Class. The craft of translation.... Guess what? It's taught by a poet, and filled with poets! We're *mostly* translating poetry! I was expected to write a poem today AND THEN READ IT OUT LOUD. The knot came back with a vengeance. I know squat diddly about writing poetry. And while knowing another language wasn't a requirement, I was one of the few students who only spoke English. Most spoke two or three languages, one woman spoke FIVE. But I got through all of it, and while we talked about theories surrounding translation, I started to feel less lost. I even made an smarty-pants statement when we started discussing the essay that had sent me running for the hill earlier that day, and the teacher said that I was right on the money. 
+
+I was feeling pretty good after class. I even spent a moment looking through the packet I'd gotten from the creative writing office. There was a flier for school writing competitions, and one of them is just for playwrights, and the theme is pretty perfect for *Under The Gods' Golden Cleats*, so I'll be entering that very soon (there are cash prizes!). Hooray for cash prizes!
+
+So yeah, by this time I was feeling great. Got into the car and I had 1.5 hours before I had to pick up Jonah from preschool. Awesomesauce. I might even have time to start in on that reading assignment, I thought. I was jazzed, excited, turned on Tom Petty and hit the road. That's when the hunger came in... Followed by hunger pains. That's what I get for not eating. I thought I'd eat when I got home. Then I got on the 101 N from the 280. Traffic. Not like before traffic. Worse traffic. Terrible traffic. SO much traffic that I thought I wouldn't get my kid in time. The knot returned, tighter than ever, and with it the hunger pains. It took me nearly the entire 1.5 hours to get from SFSU to my kid's preschool in Berkeley. 
+
+So I raced at an excruciatingly slow pace to Berkeley, got the boy with 10 minutes to spare, drove home, collected the girl just in time for the second big event of the day... Audrey's school was hosting a dinner for incoming kindergarten families.... And it was starting... NOW!
+
+Put my bag down, make everyone use the potty and we march/ride bikes to the school. Husband was working late, so I was flying solo, and normally this is fine. Not tonight. The school is packed with people. And my kids are very energetic. Very. Audrey is old enough to use her energy for good *most* of the time, but Jonah is still a little devil, and he loves nothing more than running away from me and finding water to thrash in. Every time I turned around, he was gone and nearly every time he escaped he was playing in this disgusting 6 inch pond they had at the school (why do they have a POND?). He thought he was hilarious. Meanwhile, I am *starving*, and Audrey wants me to meet EVERYONE. All the people. All the kids, all the teachers, all the parents. All of them right now. So that's happening, while I'm being handed bags upon bags of things. Apparently at Berkeley they give you all of your school supplies (backpack, pens, crayons, paper, all of it), awesome right? Most of the time, yes, but tonight I needed both hands to be on the boy so that he wouldn't drown himself or another child in the filthy pond.
+
+I spent an hour there, that was all I could do. Jonah tried to get in all the places he wasn't allowed, no one got to eat, and my head was close to exploding. By the way, Jonah was not the only younger sibling there. It seemed like all of the other young children just sat docile in their parent's lap listening to all the important information being given out, that I didn't have time to sit down and listen to. I managed to catch only a tidbit and of course it was enough to make me start crying. Like I said, all of the emotions. Thankfully, I was wearing sunglasses. 
+
+We left. Jonah came home and ate 6 pluots (apricot and plum hybrids), Audrey fought me on a bath until finally she caved. It is now nearly 8pm... Both kids are sleeping (I hope) and I don't know if I feel relived knowing the worst of it is over, or scared because this has all only just begun. I will say that I did love my class, even though I had to write a poem and will probably have to write *more* poems. School is cool, and even though it's hard doing it with the kids, I know that I am very lucky.
+
+Tomorrow I have more school, and with the bridge being closed, I won't have to worry about traffic (hooray?)... MFA WOO!
