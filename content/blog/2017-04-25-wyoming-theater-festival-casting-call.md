@@ -5,9 +5,9 @@ title = "Wyoming Theater Festival Casting Call"
 
 +++
 
-##ATTENTION SALT LAKE ACTORS: [Wyoming Theater Festival](http://www.whitneyarts.org/about-us/wyoming-theater-festival/) is looking for YOU!
+## ATTENTION SALT LAKE ACTORS: [Wyoming Theater Festival](http://www.whitneyarts.org/about-us/wyoming-theater-festival/) is looking for YOU!
 
-###CASTING CALL:
+### CASTING CALL:
 
 The Wyoming Theater Festival is seeking actors for a development production of [Kenneth Jones](http://www.bykennethjones.com/)’s new play, “Hollywood, Nebraska,” directed by Scott Alan Evans, artistic director of off-Broadway’s The Actors Company Theater (TACT). Jones’s play “Alabama Story” premiered at Pioneer Theater Company in 2015 and will have had productions in 10 cities by the spring of 2018. “Hollywood, Nebraska” is his latest play.
 2 Equity contracts and 4 non-Equity contracts are available. Housing is provided for all actors. Rehearsals begin Aug. 21 and the show closes Sept. 17. Please send your headshot/resume to [dhodnett@sheridan.edu](mailto:dhodnett@sheridan.edu) by Friday, May 5th for consideration.
@@ -16,7 +16,7 @@ The Wyoming Theater Festival is seeking actors for a development production of [
 
 Located in beautiful Sheridan, WY, the Wyoming Theater Festival is dedicated to launching new plays and musicals as well as retooling worthy neglected works.
 
-###“*HOLLYWOOD, NEBRASKA*” CASTING BREAKDOWN
+### “*HOLLYWOOD, NEBRASKA*” CASTING BREAKDOWN
 
 JANE, 40s. An attractive, talented L.A.-based actress, twice-divorced and ready for reinvention. Tough exterior, defensive about where she is in her career but has a cool, laid back, independent confidence. The sort of person who is used to being right.
 
