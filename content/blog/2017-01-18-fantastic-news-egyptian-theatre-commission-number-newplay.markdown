@@ -3,6 +3,7 @@ categories: null
 comments: true
 date: '2017-01-18T11:04:52-07:00'
 layout: post
+slug: 'fantastic-news-egyptian-theatre-commission-newplay'
 title: 'Fantastic News: Egyptian Theatre Commission! #newplay'
 ---
 
