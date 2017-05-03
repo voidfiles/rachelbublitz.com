@@ -5,7 +5,7 @@ title = "Updated Casting Call For Wyoming Theater Festival"
 
 +++
 
-Hey hey Salt Lake Actors! The [Wyoming Theater Festival](http://www.whitneyarts.org/about-us/wyoming-theater-festival/) has extended it's casting call to include all three shows for their 2017 Season! Posted below is their updated casting call, for consideration email your headshot and resume to [DannyLee Hodnett](mailto:dhodnett@sheridan.edu) until May 10th. Housing and a stipend included. Get on it!
+Hey hey Salt Lake Actors! The [Wyoming Theater Festival](http://www.whitneyarts.org/about-us/wyoming-theater-festival/) has extended its casting call to include all three shows for their 2017 Season! Posted below is their updated casting call, for consideration email your headshot and resume to [DannyLee Hodnett](mailto:dhodnett@sheridan.edu) until May 10th. Housing and a stipend included. Get on it!
 
 ![Wyoming Theater Festival logo](/images/WTF-Logo-FB-SM-FOR-WEB.jpg)
 
