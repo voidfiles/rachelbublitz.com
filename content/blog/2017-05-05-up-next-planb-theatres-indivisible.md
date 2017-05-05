@@ -1,7 +1,7 @@
 +++
 date = "2017-05-05T11:06:28-06:00"
 layout = "post"
-title = "Up Next"" Plan-B Theatre's (in)divisible"
+title = "Up Next: Plan-B Theatre's (in)divisible"
 
 +++
 
