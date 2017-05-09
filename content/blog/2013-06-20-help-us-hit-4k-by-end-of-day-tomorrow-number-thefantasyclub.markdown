@@ -4,6 +4,7 @@ comments: true
 date: '2013-06-20T07:19:00-06:00'
 layout: post
 title: 'Help Us Hit 4k By End Of Day Tomorrow! #thefantasyclub'
+slug: help-us-hit-4k-by-end-of-day-tomorrow
 ---
 
 We have to raise $1,673 to raise to hit our base goal, and wouldn't it be just *fabulous* if we hit that tomorrow? I think so. Remember our base goal of $4,000 only covers basic costs, and we'll still need to sell advertising and sell out each show to break even. We would ideally like to raise more. And so many of you have already given, and we thank you from the bottom of our hearts. You are helping the independent theatre community here in San Francisco, and that is wonderful. We now need you to go out and tell your friends. Tell your friend's friends. Tell the world. Why? So glad you asked.......

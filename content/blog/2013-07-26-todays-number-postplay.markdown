@@ -4,6 +4,7 @@ comments: true
 date: '2013-07-26T09:33:00-06:00'
 layout: post
 title: 'Today''s #postplay On App.net'
+slug: todays-postplay-on-app-net
 ---
 
 It's day two in [31 Plays in 31 Days](http://31plays31days.com/)'s warm up on [app.net](http://app.net), and the #postplays keep rolling in! I dreamt my play last night, that is my level of dedication...

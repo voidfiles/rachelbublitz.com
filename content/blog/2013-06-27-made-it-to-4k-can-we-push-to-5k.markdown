@@ -4,6 +4,7 @@ comments: true
 date: '2013-06-27T07:01:00-06:00'
 layout: post
 title: 'Made It To 4k! Can We Push To 5k? #thefantasyclub'
+slug: made-it-to-4k-can-we-push-to-5k
 ---
 
 Yesterday was AWESOME! DOMA and Prop 8 were struck down, a woman standing up for what she believes in was victorious in Texas, and on a much smaller scale, WE MADE OUR FUNDRAISING GOAL! Thank you Kristoffer Alberto, Rob Reeves, Karissa George, Bridgette Portman, Nikki DeBraccio, Allison Stensrude, and Patrick Brennan (who, by upping his original pledge, took us up to the 4k mark!). You guys are rock stars!

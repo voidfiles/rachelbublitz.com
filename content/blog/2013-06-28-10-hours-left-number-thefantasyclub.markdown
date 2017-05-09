@@ -4,6 +4,7 @@ comments: true
 date: '2013-06-28T12:30:00-06:00'
 layout: post
 title: '10 Hours Left #thefantasyclub'
+slug: 10-hours-left-thefantasyclub
 ---
 
 Only TEN hours left to donate money for *The Fantasy Club*'s [kickstarter campaign](http://www.kickstarter.com/projects/allterraintheater/the-fantasy-club-by-rachel-bublitz)! 

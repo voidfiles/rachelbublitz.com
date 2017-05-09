@@ -4,6 +4,7 @@ comments: true
 date: '2013-06-22T08:05:00-06:00'
 layout: post
 title: 'Advertise in THE FANTASY CLUB Program #thefantasyclub'
+slug: advertise-in-the-fantasy-club-program
 ---
 
 Interested in advertising in *The Fantasy Club* program? I thought you might, here are all the details from our fearless leaders [Tracy Held Potter](https://www.facebook.com/TracyHeldPotter?fref=ts):

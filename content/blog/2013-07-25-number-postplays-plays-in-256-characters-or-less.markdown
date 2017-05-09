@@ -4,6 +4,7 @@ comments: true
 date: '2013-07-25T10:39:00-06:00'
 layout: post
 title: '#postplays, Plays In 256 Characters Or Less'
+slug: postplays-plays-in-256-characters-or-less
 ---
 
 [31 Plays in 31 Days](http://31plays31days.com/) starts LESS than a week. What am I doing in while I wait for August 1st? Well, honestly like 1,000 things... But one of those things is warming up for the challenge on app.net. For the next 5 days playwrights will be writing one #postplay a day and then posting them onto app.net. These are plays with 256 characters or less (and I'm talking about letters and punctuations, not the *people* that are in the play). There have been some great plays posted so far, you should check them out! Here's mine from today:

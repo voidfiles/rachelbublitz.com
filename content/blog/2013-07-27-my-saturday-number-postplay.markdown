@@ -4,6 +4,7 @@ comments: true
 date: '2013-07-27T09:59:00-06:00'
 layout: post
 title: 'My Saturday #postplay'
+slug: my-saturday-postplay
 ---
 
 Day three of our warm up! Today my play came to me when I was out on a run...
