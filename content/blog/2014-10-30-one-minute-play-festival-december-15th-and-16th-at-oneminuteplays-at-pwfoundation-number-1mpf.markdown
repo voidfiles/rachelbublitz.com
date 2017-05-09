@@ -3,8 +3,7 @@ categories: null
 comments: true
 date: '2014-10-30T14:50:01-06:00'
 layout: post
-title: 'One-Minute Play Festival December 15th and 16th @oneminuteplays @pwfoundation
-  #1MPF'
+title: 'One-Minute Play Festival December 15th and 16th @oneminuteplays @pwfoundation #1MPF'
 slug: one-minute-play-festival-december-15th-and-16th
 ---
 
