@@ -4,6 +4,7 @@ comments: true
 date: '2013-06-15T14:56:00-06:00'
 layout: post
 title: 'Sending Thank You''s And Cyber Kisses #thefantasyclub'
+slug: sending-thank-yous-and-cyber-kisses
 ---
 
 Folks we are 44% funded! A big thank you to the folks who donated yesterday:

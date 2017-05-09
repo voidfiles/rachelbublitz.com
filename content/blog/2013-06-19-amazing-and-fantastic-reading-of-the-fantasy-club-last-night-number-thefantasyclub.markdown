@@ -4,6 +4,7 @@ comments: true
 date: '2013-06-19T13:06:00-06:00'
 layout: post
 title: 'Amazing and Fantastic Reading of THE FANTASY CLUB Last Night #thefantasyclub'
+slug: amazing-and-fantastic-reading-of-the-fantasy-club-last-night
 ---
 
 Last night my terrific cast ([Siobhan Doherty](http://www.siobhanmariedoherty.com/), Tavis Kammet, [Claire Rice](http://claireannrice.blogspot.com/), [Rob Dario](https://sites.google.com/site/thenewrobdariotimes/)) read the updated script of *The Fantasy Club*! What a blast. The new draft is *so* good guys, I am extremely proud of my script, and I am *so* happy with my cast and crew. This show is going to be fantastic! 

@@ -3,7 +3,8 @@ categories: null
 comments: true
 date: '2013-06-25T16:36:00-06:00'
 layout: post
-title: 'We''re Close But We''re Not There Yet! #thefantasyclub'
+title: 'We're Close But We're Not There Yet! #thefantasyclub'
+slug: were-close-but-were-not-there-yet-thefantasyclub
 ---
 
 <iframe width="480" height="360" src="http://www.kickstarter.com/projects/allterraintheater/the-fantasy-club-by-rachel-bublitz/widget/video.html" frameborder="0"> </iframe>

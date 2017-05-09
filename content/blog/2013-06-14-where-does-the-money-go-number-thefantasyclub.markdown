@@ -4,6 +4,7 @@ comments: true
 date: '2013-06-14T09:51:00-06:00'
 layout: post
 title: 'Where Does The Money Go? #thefantasyclub'
+slug: where-does-the-money-go
 ---
 
 A couple of folks have asked me about money, and why we need it, and where it's going. To that I say, *excellent* question! I asked the artistic director of [All Terrain Theater](http://allterraintheater.org/) *and* director of *The Fantasy Club*, [Tracy Held Potter](https://www.facebook.com/TracyHeldPotter?fref=ts), and this is what she told me:

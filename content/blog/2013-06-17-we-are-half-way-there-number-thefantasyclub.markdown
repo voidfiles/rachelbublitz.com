@@ -4,6 +4,7 @@ comments: true
 date: '2013-06-17T13:49:00-06:00'
 layout: post
 title: 'We Are Half Way There #thefantasyclub'
+slug: we-are-half-way-there-thefantasyclub
 ---
 
 We have reached the 1/2 mark in our [kickstarter campaign](http://www.kickstarter.com/projects/allterraintheater/the-fantasy-club-by-rachel-bublitz)!! We are 52% of the way there, and I have some new wonderful people to thank! 
