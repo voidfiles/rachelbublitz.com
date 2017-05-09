@@ -4,6 +4,7 @@ comments: true
 date: '2014-10-10T15:30:25-06:00'
 layout: post
 title: '@PlayGroundSF Topic Announced: IS EARTH F**KED? #newplay #writingweekend'
+slug: playgroundsf-topic-announced-is-earth-fked
 ---
 
 [PlayGround](http://playground-sf.org/) has released the first topic for their 20th Monday Night PlayGround Season! The six plays selected will be the first play in the brand new Planet Earth New Play Festival, brought to us by PlayGround and [Sustainable Earth Coalition](http://swcoalition.org/). Exciting new stuff! And the topic is................................. (insert drum roll here) ...........................

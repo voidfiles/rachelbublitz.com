@@ -4,6 +4,7 @@ comments: true
 date: '2014-10-17T15:07:52-06:00'
 layout: post
 title: 'See My New Play READING BABAR IN 2070 This Monday With @PlayGroundSF #newplay'
+slug: see-my-new-play-reading-babar-in-2070-this-monday
 ---
 
 Exciting news! My play *Reading Babar in 2070* was selected for [PlayGround](http://playground-sf.org/monday/)'s Planet Earth New Play Festival! That means this Monday (October 20th) you, yes you(!), can see it along with five other brand new plays. Isn't it nice to have plans already for those dull Monday nights?

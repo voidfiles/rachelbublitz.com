@@ -4,6 +4,7 @@ comments: true
 date: '2014-10-04T10:01:21-06:00'
 layout: post
 title: 'Announcing THE RED HOUSE MONSTER Cast! @SFolympiansFest #sfolympians5 #newplay'
+slug: announcing-the-red-house-monster-cast
 ---
 
 Oh happy day! *The Red House Monster*, commissioned by the [San Francisco Olympians Festival](http://www.sfolympians.com/) has been cast! Check it out:

@@ -4,6 +4,7 @@ comments: true
 date: '2014-09-22T13:39:03-06:00'
 layout: post
 title: 'Fantastic Final Meeting Before #SFOlympians5 Kicks Off @SFOlympiansFest #newplay'
+slug: fantastic-final-meeting-before-sfolympians5-kicks-off
 ---
 
 Last night was the "White Council" meeting for the [San Francisco Olympians Festival V](sfolympians.com): [The Monster Ball](https://www.facebook.com/events/464860963653893/). All the writers and directors in one room going over festival details, sharing food, drink, and pages from the new plays. Festival VI kicks off on November 1st with the opening night party to be held at [The Exit](http://www.theexit.org/). And then THREE solid weeks of brand new plays!

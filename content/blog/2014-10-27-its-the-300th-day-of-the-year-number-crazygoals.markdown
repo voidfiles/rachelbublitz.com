@@ -3,7 +3,8 @@ categories: null
 comments: true
 date: '2014-10-27T09:12:38-06:00'
 layout: post
-title: 'Its The 300th Day Of The Year #crazygoals'
+title: 'It's The 300th Day Of The Year #crazygoals'
+slug: its-the-300th-day-of-the-year-crazygoals
 ---
 
 Today is the 300th day of 2014! Which, if you've been keeping track, would mean that I should have submitted 300 plays by now. I'm still a bit behind, but I'm hoping that today is the day I catch back up. So far to date I've submitted 291 scripts, I only need to send out 9 more scripts to catch up! 

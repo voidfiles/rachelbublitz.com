@@ -5,6 +5,7 @@ date: '2014-10-30T14:50:01-06:00'
 layout: post
 title: 'One-Minute Play Festival December 15th and 16th @oneminuteplays @pwfoundation
   #1MPF'
+slug: one-minute-play-festival-december-15th-and-16th
 ---
 
 Thrilled to announce that I will be writing for the [San Francisco One-Minute Play Festival](http://playwrightsfoundation.org/index.php?p=227) this year! Produced by [Playwrights Foundation](http://playwrightsfoundation.org) and [Dominic D'Andrea](https://twitter.com/DominicDAndrea)'s [The One-Minute Play Festival](http://oneminuteplays.wordpress.com/), we will be writing the plays over the next two weeks, and you can come and see them December 15th and 16th at [The Brava Theater Center](http://www.brava.org/)!
