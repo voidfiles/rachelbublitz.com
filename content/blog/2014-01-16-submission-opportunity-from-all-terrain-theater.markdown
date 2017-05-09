@@ -4,6 +4,7 @@ comments: true
 date: '2014-01-16T09:50:00-07:00'
 layout: post
 title: 'Submission Opportunity From All Terrain Theater, 2/15/15 deadline, #pwopp'
+slug: submission-opportunity-from-all-terrain-theater
 ---
 
 [All Terrain Theater](http://www.allterraintheater.org/)'s solo showcase Women In Solodarity is gearing up for it's third year! If you'd like to be involved, we're currently accepting submissions, here is everything you need to know:

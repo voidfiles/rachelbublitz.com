@@ -3,8 +3,9 @@ categories: null
 comments: true
 date: '2014-01-03T08:46:00-07:00'
 layout: post
-title: "PlayGround Topic Announced: CALIFORNIA DREAMIN\u2019: Ten-Minute Plays Inspired
+title: "PlayGround Topic Announced: CALIFORNIA DREAMIN': Ten-Minute Plays Inspired
   by the California Experience #playgroundCA"
+slug: playground-topic-announced-california-dreamin-ten-minute-plays-inspired-by-the-california-experience
 ---
 
 [PlayGround](http://www.playground-sf.org/) has announced the topic for Monday's (1/13) reading, and it is...... CALIFORNIA DREAMIN’: Ten-Minute Plays Inspired by the California Experience.

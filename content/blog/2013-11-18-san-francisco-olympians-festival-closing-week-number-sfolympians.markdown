@@ -4,6 +4,7 @@ comments: true
 date: '2013-11-18T11:25:00-07:00'
 layout: post
 title: 'San Francisco Olympians Festival Closing Week #sfolympians'
+slug: san-francisco-olympians-festival-closing-week
 ---
 
 The final four readings for [The San Francisco Olympians Festival IV: Trojan Requiem](https://www.facebook.com/events/688412094520116/) happen this week! If you've made it to see some of the readings earlier in the festival, you already know what a great night of theater these can be, and if you haven't yet made it out, you only have a few chances left!

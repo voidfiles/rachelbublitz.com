@@ -4,6 +4,7 @@ comments: true
 date: '2014-07-01T13:50:11-06:00'
 layout: post
 title: 'Time To Give To The 2015 SF Olympians Festival @SFOlympians #sfolympians'
+slug: time-to-give-to-the-2015-sf-olympians-festival
 ---
 
 Where have you been? It's been weeks! I've been swamped with road trips, summer school, and dental surgery, but the good news is that I'm back now!

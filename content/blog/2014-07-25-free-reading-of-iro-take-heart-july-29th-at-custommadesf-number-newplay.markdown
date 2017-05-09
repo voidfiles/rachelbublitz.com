@@ -4,6 +4,7 @@ comments: true
 date: '2014-07-25T16:37:22-06:00'
 layout: post
 title: 'FREE reading of IRO, TAKE HEART July 29th @CustomMadeSF #newplay'
+slug: free-reading-of-iro-take-heart-july-29th
 ---
 
 ![Picture of Athena and Pegasus.](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/1551613_10152593231889402_1154502583722833221_n.jpg)

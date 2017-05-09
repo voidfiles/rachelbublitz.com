@@ -4,6 +4,7 @@ comments: true
 date: '2014-05-27T12:29:33-06:00'
 layout: post
 title: 'Tickets On Sale For Flashfest in New York @Playsmiths #newplay'
+slug: tickets-on-sale-for-flashfest-in-new-york
 ---
 
 My one-minute play *Peeper* will have it's debut production next month with [Playsmiths](http://www.playsmiths.org/)' [Flashfest](http://www.facebook.com/events/644741568937966/?ref_dashboard_filter=upcoming) in New York! Are you excited? I'm excited! 

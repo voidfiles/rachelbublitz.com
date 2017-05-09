@@ -5,6 +5,7 @@ date: '2014-04-03T13:05:25-06:00'
 layout: post
 title: 'PlayGround''s Young Playwrights Contest Deadline Extended To April 14 @playgroundsf
   #pwopp'
+slug: playgrounds-young-playwrights-contest-deadline-extended-to-april-14
 ---
 
 Attention all high school playwrights, [PlayGround](http://playground-sf.org/index.php) has extended the deadline for their [Young Playwrights Contest](http://playground-sf.org/youngplaywrights/) to April 14th! 

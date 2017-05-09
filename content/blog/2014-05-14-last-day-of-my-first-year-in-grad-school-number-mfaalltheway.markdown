@@ -4,6 +4,7 @@ comments: true
 date: '2014-05-14T11:21:53-06:00'
 layout: post
 title: 'Last Day Of My First Year In Grad School #MFAAllTheWay'
+slug: last-day-of-my-first-year-in-grad-school
 ---
 
 This semester is still a blur, so it's hard for me to wrap my head around the fact that today is my last class in my first year of grad school. But it's true, so my head is just going to have to deal with it.
