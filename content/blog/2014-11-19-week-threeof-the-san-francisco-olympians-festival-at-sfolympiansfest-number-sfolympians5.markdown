@@ -3,7 +3,8 @@ categories: null
 comments: true
 date: '2014-11-19T09:02:45-07:00'
 layout: post
-title: 'Week ThreeOf The San Francisco Olympians Festival @SFOlympiansFest #sfolympians5'
+title: 'Week Three Of The San Francisco Olympians Festival @SFOlympiansFest #sfolympians5'
+slug: week-three-of-the-san-francisco-olympians-festival-sfolympiansfest-sfolympians5
 ---
 
 The third and final week of the 2014 [San Francisco Olympians Festival]() is here! Last chance to get your monster on! Don't miss it!

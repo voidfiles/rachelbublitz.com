@@ -4,6 +4,7 @@ comments: true
 date: '2014-11-05T08:25:42-07:00'
 layout: post
 title: 'Week One Of The San Francisco Olympians Festival @SFOlympiansFest #sfolympians5'
+slug: week-one-of-the-san-francisco-olympians-festival-sfolympiansfest-sfolympians5
 ---
 
 The moment you've been waiting for is finally here! Tonight the [San Francisco Olympians Festival](http://www.sfolympians.com/) V: [The Monster Ball](https://www.facebook.com/pages/San-Francisco-Olympians-Festival/282661841972r) will present the first plays of the festival! And they continue all week! These are all the plays happening this week:

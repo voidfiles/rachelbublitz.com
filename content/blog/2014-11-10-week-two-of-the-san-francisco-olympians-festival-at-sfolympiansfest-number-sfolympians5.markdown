@@ -4,6 +4,7 @@ comments: true
 date: '2014-11-10T10:22:36-07:00'
 layout: post
 title: 'Week Two Of The San Francisco Olympians Festival @SFOlympiansFest #sfolympians5'
+slug: week-two-of-the-san-francisco-olympians-festival-sfolympiansfest-sfolympians5
 ---
 
 Had a stress nightmare last night where I was not only late for my SF Olympians reading, but I had to bring my 4 year old son because no one could watch him, which can really mean only one thing,

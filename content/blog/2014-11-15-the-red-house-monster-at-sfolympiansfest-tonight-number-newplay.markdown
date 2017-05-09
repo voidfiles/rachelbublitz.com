@@ -4,6 +4,7 @@ comments: true
 date: '2014-11-15T09:13:53-07:00'
 layout: post
 title: 'THE RED HOUSE MONSTER @SFOlympiansFest TONIGHT #newplay'
+slug: the-red-house-monster-sfolympianfest-tonight-newplay
 ---
 
 The time has come! THE RED HOUSE MONSTER, a play that I've been developing for the past year will be put in front of an audience for the FIRST TIME! Will you be in that influential audience? Well that's for you to decide. My play is spooky and dark, a play about a small town and the monsters and heroes that inhabit it.

@@ -5,6 +5,7 @@ date: '2014-11-12T10:18:42-07:00'
 layout: post
 title: 'Check out what @SFWeekly has to say about @playgroundsf''s Planet Earth New
   Play Fest #newplay'
+slug: check-out-what-sfweekly-has-to-say-about-playgroundsfs-planet-earth-new-play-fest-newplay
 ---
 
 [Lou Fancher](http://www.sfweekly.com/sanfrancisco/ArticleArchives?author=2825631) from [SF Weekly](http://www.sfweekly.com/) wrote about [PlayGround](playground-sf.org)'s Planet Earth New Play Festival yesterday! You should read it! You should ALSO come out for the next [Monday Night PlayGround](http://playground-sf.org/monday/) happening THIS Monday, 11/17 at Berkeley Rep! The topic is: NICE WORK IF YOU CAN GET IT. They'll be announcing the 6 plays Friday so pay attention!

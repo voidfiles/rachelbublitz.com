@@ -4,6 +4,7 @@ comments: true
 date: '2015-01-05T15:26:26-07:00'
 layout: post
 title: '2014 Submission Mission #365submissionchallenge'
+slug: 2014-submission-mission-365submissionchallenge
 ---
 
 IT'S 2015! AHHHHHHHH!

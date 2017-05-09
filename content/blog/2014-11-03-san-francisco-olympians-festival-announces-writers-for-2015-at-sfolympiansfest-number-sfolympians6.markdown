@@ -5,6 +5,7 @@ date: '2014-11-03T13:49:02-07:00'
 layout: post
 title: 'San Francisco Olympians Festival Announces Writers For 2015 @SFOlympiansFest
   #sfolympians6 #newplay'
+slug: san-francisco-olympians-festival-announces-writers-for-2015
 ---
 
 The [San Francisco Olympians Festival](sfolympians.com) kicked off last Saturday, November 1st, with their annual [Opening Night Party](https://www.facebook.com/media/set/?set=a.10152503367186973.1073741833.282661841972&type=1) and it continues Wednesday, November 5th, the first night of readings for the festival is being presented ([NYMPHS, NYMPHS, NYMPHS!](https://www.facebook.com/events/319921231512458/)), and in the middle of all this excitement the writers for next year have been announced! If you're like me and have been waiting on your computer hitting refresh again and again, the wait is finally over! Here is the full list:

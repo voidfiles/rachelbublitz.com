@@ -4,6 +4,7 @@ comments: true
 date: '2014-11-17T18:13:04-07:00'
 layout: post
 title: 'Monday Night PlayGround Tonight @playgroundsf @berkeleyrep #newplay'
+slug: monday-night-playground-tonight-playgroundsf-berkeleyrep-newplay
 ---
 
 We're only a few hours away from tonight's Monday Night [PlayGround](http://playground-sf.org/monday/) at [Berkeley Rep](http://www.berkeleyrep.org/)! The theme for the plays is: NICE WORK IF YOU CAN GET IT, an evening of Gershwin inspired short musicals. And let me tell you, the line-up looks fantastic:
