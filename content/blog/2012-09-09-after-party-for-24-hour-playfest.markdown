@@ -4,6 +4,7 @@ comments: true
 date: '2012-09-09T16:54:00-06:00'
 layout: post
 title: 'After Party For 24 Hour Playfest #24hourfest'
+slug: after-party-for-24-hour-playfest
 ---
 
 There has been a slight change of plans for [Playwright's Center of San Francisco](http://playwrightscentersf.org/)'s 24 Hour Playfest (coming up on the 15th of September). Instead of two shows, they've opted for one show plus an after party! There will be refreshments for sale, as well as a raffle! 

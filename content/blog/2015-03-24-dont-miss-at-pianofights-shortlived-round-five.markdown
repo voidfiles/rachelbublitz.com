@@ -4,6 +4,7 @@ comments: true
 date: '2015-03-24T15:27:28-06:00'
 layout: post
 title: 'Don''t Miss @PianoFight''s ShortLived Round Five! #newplay'
+slug: dont-miss-pianofights-shortlived-round-five-newplay
 ---
 
 My short play *TO THE MAN WHO SANG BOWIE* has been selected to compete in [Piano Fight](http://www.pianofight.com/)'s [ShortLived](https://www.facebook.com/events/1603983919833826/): [Round 5](http://www.eventbrite.com/e/shortlived-round-5-tickets-15752296543?aff=efbevent)!

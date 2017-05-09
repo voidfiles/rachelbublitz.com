@@ -4,6 +4,7 @@ comments: true
 date: '2015-07-21T17:30:56-06:00'
 layout: post
 title: 'Dramatists Guild of America Conference Wrap Up #writechange'
+slug: dramatists-guild-of-america-conference-wrap-up-writechange
 ---
 
 I am a big ol' liar. I said I'd blog about the Conference each night, and then I did no such thing. It was so much more intense than I thought it could be! I had a great time meeting theater makers from across the country, and learned a TON from the fantastic panels and discussions each day. Want to know what I made it to? Well...
