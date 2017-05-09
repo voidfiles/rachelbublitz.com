@@ -4,6 +4,7 @@ comments: true
 date: '2012-09-15T15:44:00-06:00'
 layout: post
 title: '20 Hours Into The 24 Hour Playfest #24hourfest'
+slug: 20-hours-into-the-24-hour-playfest
 ---
 
 Four hours until show time! I can't wait. It was a trip to write a play in one night. Last night the playwrights each drew a number (I drew #2, and I was so pleased), the number indicated how many actors we'd get. After numbers, we drew the actors (I'm working with  Rob Dario and Scott Ragle), directors (I pulled Diana DiCostanzo), and finally my daughter dressed in a sparkly Vanna White dress picked the theme... *THAT'S NOT TRUE.* That's completely true, by the way... In case the theme led you to believe otherwise.

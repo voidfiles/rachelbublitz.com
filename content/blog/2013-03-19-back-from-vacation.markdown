@@ -4,6 +4,7 @@ comments: true
 date: '2013-03-19T15:03:00-06:00'
 layout: post
 title: 'Back From Vacation, Binge Day #19'
+slug: back-from-vacation-binge-day-19
 ---
 
 It's the 19th of March already! Oy, I am behind on my binge. I went away to Southern California last week, my older sister had a baby girl so I came down to help and cook for a few days. But I'm back now, and trying to catch up! Let's see how far I can get...

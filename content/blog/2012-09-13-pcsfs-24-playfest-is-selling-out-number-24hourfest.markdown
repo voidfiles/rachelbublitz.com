@@ -4,6 +4,7 @@ comments: true
 date: '2012-09-13T10:49:00-06:00'
 layout: post
 title: 'PCSF''s 24 Playfest Is Selling Out #24hourfest'
+slug: pcsfs-24-playfest-is-selling-out
 ---
 
 ###[BUY TICKETS HERE](http://www.brownpapertickets.com/event/267511)

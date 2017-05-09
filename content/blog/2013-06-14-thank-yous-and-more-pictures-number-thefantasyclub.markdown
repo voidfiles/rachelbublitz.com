@@ -3,7 +3,8 @@ categories: null
 comments: true
 date: '2013-06-14T09:51:00-06:00'
 layout: post
-title: 'Thank You''s AND More Pictures #thefantasyclub'
+title: 'Thank You's AND More Pictures #thefantasyclub'
+slug: thank-yous-and-more-pictures-thefantasyclub
 ---
 
 We have some more all-stars joining the list of people donating to our [kickstarter campaign](http://www.kickstarter.com/projects/allterraintheater/the-fantasy-club-by-rachel-bublitz)! We are grateful to have your support, and we thank you for your generosity!
