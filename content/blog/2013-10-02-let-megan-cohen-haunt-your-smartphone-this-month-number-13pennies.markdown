@@ -4,6 +4,7 @@ comments: true
 date: '2013-10-02T11:03:00-06:00'
 layout: post
 title: 'Let Megan Cohen Haunt Your Smartphone This Month #13Pennies'
+slug: let-megan-cohen-haunt-your-smartphone-this-month-13pennies
 ---
 
 There's this fantastic smartphone art project happening all month, and YOU should know about it. [Megan Cohen](http://www.betterthantelevision.com/), master playwright, and artistic mega-mind presents you with [13 Pennies](http://www.betterthantelevision.com/2013/07/31/13-pennies/), an art project that will spook the pants off of you.

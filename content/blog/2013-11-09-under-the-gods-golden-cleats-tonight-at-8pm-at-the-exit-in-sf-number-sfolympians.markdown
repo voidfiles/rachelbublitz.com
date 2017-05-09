@@ -4,6 +4,7 @@ comments: true
 date: '2013-11-09T07:55:00-07:00'
 layout: post
 title: 'UNDER THE GODS'' GOLDEN CLEATS Tonight At 8pm @ The Exit in SF #sfolympians'
+slug: under-the-gods-golden-cleats-tonight-at-8pm
 ---
 
 >Honor the Gods,

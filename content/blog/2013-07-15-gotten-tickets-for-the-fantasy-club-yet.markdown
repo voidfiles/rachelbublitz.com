@@ -4,6 +4,7 @@ comments: true
 date: '2013-07-15T10:36:00-06:00'
 layout: post
 title: 'Gotten Tickets For THE FANTASY CLUB Yet? #thefantasyclub'
+slug: gotten-tickets-for-the-fantasy-club-yet
 ---
 
 It's July 15th! Do you know what that means? Only 18 days until opening night of *The Fantasy Club*! That's right, opening night is August 2nd! So, now that you know the show is almost upon us, here is my next question... *Have you bought your tickets yet?* Because friends, this is NOT a show that you want to miss. Tickets are $18.50 ($15 for students/seniors), and there are only SIX performances of the show. So no more waiting, buy your tickets now!

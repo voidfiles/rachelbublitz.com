@@ -4,6 +4,7 @@ comments: true
 date: '2013-07-29T17:17:00-06:00'
 layout: post
 title: 'THE FANTASY CLUB''s Opening Night Is FRIDAY #thefantasyclub'
+slug: the-fantasy-clubs-opening-night-is-friday
 ---
 
 I can't believe it, but opening night of *The Fantasy Club* is FRIDAY! As in *this* Friday! The show is going to be HILARIOUS. One that you do not want to miss! I mean, look at this cast:
