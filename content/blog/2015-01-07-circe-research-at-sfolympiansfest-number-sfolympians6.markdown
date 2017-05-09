@@ -4,6 +4,7 @@ comments: true
 date: '2015-01-07T14:43:19-07:00'
 layout: post
 title: 'Circe Research @SFOlympiansFest #sfolympians6'
+slug: circe-research-sfolympiansfest-sfolympians6
 ---
 
 I'm knee deep in research at the moment, trying to discover who [Circe](http://en.wikipedia.org/wiki/Circe), the inspiration behind my next [San Francisco Olympians Festival](sfolympians.com) one-act play, is. I picked up a book by [Giovanni Boccaccio](http://en.wikipedia.org/wiki/Giovanni_Boccaccio) called [ON FAMOUS WOMEN](http://smile.amazon.com/Famous-Women-Giovanni-Boccaccio/dp/1599102668/ref=sr_1_1?ie=UTF8&qid=1420667203&sr=8-1&keywords=ON+FAMOUS+WOMEN), and he has some interesting insights:

@@ -4,6 +4,7 @@ comments: true
 date: '2015-02-09T15:18:12-07:00'
 layout: post
 title: 'Local Opportunities For Playwrights! #sftheater #bayarea #pwopp'
+slug: local-opportunities-for-playwrights-sftheater-bayarea-pwopp
 ---
 
 It's come to my attention that there are a number of super rad playwriting opportunities for local Bay Area writers right now, and if you don't know about them, you really should. Take a look:

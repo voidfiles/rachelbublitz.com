@@ -4,6 +4,7 @@ comments: true
 date: '2015-02-01T11:06:47-07:00'
 layout: post
 title: 'NIGHT TERROR to be performed at Ohlone College Playwrights Festival #newplay'
+slug: night-terror-to-be-performed-at-ohlone-college-playwrights-festival-newplay
 ---
 
 Happy Sunday!

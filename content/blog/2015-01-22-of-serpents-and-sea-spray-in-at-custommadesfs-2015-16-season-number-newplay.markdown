@@ -4,6 +4,7 @@ comments: true
 date: '2015-01-22T17:19:55-07:00'
 layout: post
 title: 'OF SERPENTS AND SEA SPRAY In @CustomMadeSF''s 2015/16 Season #newplay'
+slug: of-serpents-and-sea-spray-in-customadesfs-201516-season-newplay
 ---
 
 SO incredibly beyond thrilled and excited to announce that my full-length play OF SERPENTS & SEA SPRAY will be produced in [Custom Made Theatre](custommade.org)'s 2015/16 season! Keep your January and February clear, because now you've got plans. OF SERPENTS & SEA SPRAY will be directed by [Ariel Craft]()!

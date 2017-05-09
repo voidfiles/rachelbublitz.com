@@ -4,6 +4,7 @@ comments: true
 date: '2015-01-28T16:29:12-07:00'
 layout: post
 title: 'FANNY PACK will be performed February 2nd @quiet_lightning #newplay'
+slug: fanny-pack-will-be-performed-february-2nd-quietlightning-newplay
 ---
 
 This Monday February 2nd, my super short, funny, and incredibly creepy play *Fanny Pack* will be performed for [Quiet Lightning](http://quietlightning.org/)! Even better? [Claire Rice](http://claireannrice.blogspot.com/) and [Meg Trowbridge](https://twitter.com/thesinginwriter) are doing the performing!

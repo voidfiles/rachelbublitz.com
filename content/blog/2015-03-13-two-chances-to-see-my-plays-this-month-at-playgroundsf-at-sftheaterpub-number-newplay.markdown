@@ -5,6 +5,7 @@ date: '2015-03-13T11:38:48-06:00'
 layout: post
 title: 'TWO chances to see my plays this month! @PlayGroundSF @SFTheaterPub #newplay
   #womenarts'
+slug: two-chances-to-see-my-plays-this-month-playgroundsf-sftheaterpub-newplay-womenarts
 ---
 
 March is shaping up to be a really big month for me! You have TWO chances now to see plays written by me, and that doesn't happen too often.
