@@ -3,7 +3,7 @@ categories: null
 comments: true
 date: '2013-06-25T16:36:00-06:00'
 layout: post
-title: 'We're Close But We're Not There Yet! #thefantasyclub'
+title: "We're Close But We're Not There Yet! #thefantasyclub"
 slug: were-close-but-were-not-there-yet-thefantasyclub
 ---
 

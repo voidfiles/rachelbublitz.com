@@ -4,6 +4,7 @@ comments: true
 date: '2017-03-23T12:10:29-06:00'
 layout: post
 title: 'Three Great Bay Area Playwright Opportunities #pwopp'
+slug: three-great-bay-area=playwright-opportunities
 ---
 
 If you're a playwright looking to get your plays up on their feet and work with some killer Bay Area talent, your time has come! There are three great opportunities on the horizon (and one isn't an exclusive Bay Area opportunity!), and each come with their own community of artists for you to mingle and create with!

@@ -3,7 +3,7 @@ categories: null
 comments: true
 date: '2013-06-14T09:51:00-06:00'
 layout: post
-title: 'Thank You's AND More Pictures #thefantasyclub'
+title: "Thank You's AND More Pictures #thefantasyclub"
 slug: thank-yous-and-more-pictures-thefantasyclub
 ---
 
