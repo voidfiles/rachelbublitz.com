@@ -7,7 +7,7 @@ title = "Two Pieces Coming Up At PianoFight In San Francisco"
 
 Next month, for one night only, catch staged readings of two of my short plays, *My *Body* and *Swallowed* at [PianoFight](http://www.pianofight.com/) in downtown San Francisco for [Boiling Frog Entertainment](http://www.boilingfrogentertainment.com/)'s [Staged Resistance](https://www.facebook.com/events/1422737501123785/)! My two plays will join two plays by [Kurt Weitzmann](http://www.boilingfrogentertainment.com/about) co-founder of Boiling Frog Entertainment. 
 
-Sara Staley will direct, which is super exciting because I've had my eye on working with her for a while now. More news on casting and other things soon!
+Nara Dahlbacka will direct, which is super exciting because I've had my eye on working with her for a while now. More news on casting and other things soon!
 
 For now, save the date/time: June 5th at 7:30!
 
