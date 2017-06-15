@@ -5,7 +5,7 @@ title = "Writing Writing Rewriting"
 
 +++
 
-It's summer vacation! Yay! Well, it's summer vacation for my kids, so less so for me. Though most weeks they have some sort of camp, so we're back to YAY! This week busy with science camp, and while they're away all day instead of playing I'm working up a storm with TWO rewrites at once! Hooray for good ideas and taking on all the things at once.
+It's summer vacation! Yay! Well, it's summer vacation for my kids, so less so for me. Though most weeks they have some sort of camp, so we're back to YAY! This week busy with science camp, and while they're away all day instead of playing I'm working up a storm with TWO rewrites at once! Hooray for good ideas and taking on all the things!
 
 The plays that I'm currently wrestling with are *Let's Fix Andy*, armed with notes from the last table week of the play, and *Cheerleaders VS. Aliens*, which I'm hoping to have a non-embarrassing draft of any day now.
 
