@@ -18,6 +18,14 @@ Lucy, a freshman in college, is excited by the new people in her life, but confl
 
 Cast of 3; 1 f, 2 m. Approximate runtime of eighty minutes.
 
+### *Let's Fix Andy*
+
+*Let’s Fix Andy* deals with male body images, friendship, and growing into being an adult. Andy’s best friends, Logan, Marcus, and George decide it’s time they step in after he’s been dumped by his long time girlfriend Megan, to snap him out of his funk. All three of them have different ideas of what Andy actually needs, and so Andy is dragged to the gym, the bar, and a cabin in the woods before things come to a head and he declares that he doesn’t need fixing. By the end of the play, with all four playing video games in Andy’s safe place, his couch, they realize that there’s no fixing anyone, and all any of us can really ask for is friendship that is focused on acceptance for who we are.
+
+*Let'S Fix Andy* will have a reading with the 2017 [Wyoming Theater Festival]() and a workshop production in the 2018 Wyoming Theater Festival.
+
+Cast of 4; 4 m. Approximate runtime of ninety minutes.
+
 ### *Of Serpents & Sea Spray*
 
 Of Serpents & Sea Spray, commissioned by Custom Made Theatre Co., tells the story of an orphan named Iro who is the subject of ridicule by other children and punishment by uncaring foster parents. During one of her many tours through solitary confinement in the closet, Iro’s imagination brings the her with a mission: find Pegasus. On her quest, taking with her only books and her imaginary friend Annika, Iro hides herself on an ocean liner, joins a circus, and has many other adventures… and along the way finds the truth about the death of her parents.
