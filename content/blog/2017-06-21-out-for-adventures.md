@@ -1,8 +1,7 @@
 +++
-date = "2017-06-12T11:32:16-06:00"
+date = "2017-06-21T11:32:16-06:00"
 layout = "post"
 title = "Out For Adventures!"
-
 +++
 
 ![Three koalas in a tree.](/images/adventures.jpg)
