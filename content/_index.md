@@ -1,5 +1,5 @@
 
-Rachel Bublitz’s plays include *Ripped*, *Let’s Fix Andy*, *Really Adult*, *Cheerleaders VS Aliens*, and *Toxic*. Her work has been produced by [Playwrights Foundation](playwrightsfoundation.org), [Custom Made Theatre Company](https://www.custommade.org/), [This Is Water Theatre](http://thisiswatertheatre.com/), [Plan-B Theatre](planbtheatre.org), as well as many others. Awards include: [Actors Theatre of Louisville](https://actorstheatre.org/)’s 2017 Heideman Finalist and [PlayGround](playground-sf.org)’s [June Anne Baker Prize](http://playground-sf.org/commissioning.shtml).  
+Rachel Bublitz’s plays include *Ripped*, *Let’s Fix Andy*, *Really Adult*, *Cheerleaders VS Aliens*, and *Toxic*. Her work has been produced by [Playwrights Foundation](http://playwrightsfoundation.org/), [Custom Made Theatre Company](https://www.custommade.org/), [This Is Water Theatre](http://thisiswatertheatre.com/), [Plan-B Theatre](http://planbtheatre.org/), as well as many others. Awards include: [Actors Theatre of Louisville](https://actorstheatre.org/)’s 2017 Heideman Finalist and [PlayGround](http://playground-sf.org/commissioning.shtml)’s [June Anne Baker Prize](http://playground-sf.org/commissioning.shtml).  
 
 ![Picture of author.](/images/site/me_Nov_13.jpg)
 

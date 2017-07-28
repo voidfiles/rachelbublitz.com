@@ -5,7 +5,7 @@ title = "MOMMY DANCES WITH THE DEVIL Table Read Next Week"
 
 +++
 
-The summer train of theater can't stop. It won't stop. Up next I have a table read of my very favorite witch-y comedy *MOMMY DANCES WITH THE DEVIL* at the [Plan-B Theatre Lab](http://planbtheatre.org/the-lab/). This play is fun and silly and pokes fun at how horrible and hard and isolating being a stay at home mom can be. It also has five great and funny roles for women, because guess what? Women are great and funny. I can't wait to dive back into this play, originally commissioned by [PlayGround](playground-sf.org), get feedback from my new local playwright pals, and tinker around in its bizarre and magical. 
+The summer train of theater can't stop. It won't stop. Up next I have a table read of my very favorite witch-y comedy *MOMMY DANCES WITH THE DEVIL* at the [Plan-B Theatre Lab](http://planbtheatre.org/the-lab/). This play is fun and silly and pokes fun at how horrible and hard and isolating being a stay at home mom can be. It also has five great and funny roles for women, because guess what? Women are great and funny. I can't wait to dive back into this play, originally commissioned by [PlayGround](http://playground-sf.org/), get feedback from my new local playwright pals, and tinker around in its bizarre and magical. 
 
 A few months ago the play was pushed back into my brain when I overheard the craziest conversation between two moms at the park, which went something like this:
 
