@@ -7,7 +7,7 @@ title = "BLUE, a monologue, also fuck nazis"
 
 This past January I was asked to write two pieces for [Plan-B Theatre](http://planbtheatre.org/)'s (in)divisible, a response to the response of the election. Here's one of the monologues I wrote:
 
-##BLUE by Rachel Bublitz
+## BLUE by Rachel Bublitz
 
 >"I’m thankful my kids don’t look as Jewish as I do, that was, not the first, but pretty close to my first reaction to this dumpster fire. Now this is a terrible thing to think for a lot of reasons, and surprising to me because I’ve never felt ashamed of being Jewish before. I like the way my heritage is presented in my features; I’ve got a big nose and curly hair, and these things make me stand out. I’ve always like that. But now I’m grateful that my kids missed these things in the genetic milkshake that made them. And it’s stupid. And kinda horrible when you think about it, not only because you shouldn’t be down on where you come from, but way more than that, Jews are not at the top of the shit list. No one is trying to create a Jewish registry. Jewish teens aren’t being shot in the street for wearing hoodies or playing with toys.
 
