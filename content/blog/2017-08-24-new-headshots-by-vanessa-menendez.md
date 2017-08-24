@@ -11,11 +11,13 @@ If you're ever in need of a headshot, I can't recommend Vanessa Menendez more. S
 
 And now, without further ado.... My new headshots!
 
+![Picture of author.](/images/RachelBublitzheadshot.jpg)
+
 ![Picture of author.](/images/Rachel3a-myfav.jpg)
 
 ![Picture of author.](/images/Rachel1.jpg)
 
 ![Picture of author.](/images/Rachel4.jpg)
 
-![Picture of author.](/images/RachelBublitzheadshot.jpg)
+
 
