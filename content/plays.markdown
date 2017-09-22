@@ -14,7 +14,7 @@ Please have "script request" in the subject line of the email. In the body inclu
 
 Lucy, a freshman in college, is excited by the new people in her life, but conflicted by the hard task of saying goodbye to her first love. As she struggles to find balance in her new life, a sexual encounter leaves her confused and concerned that she may have been a victim of rape. As she tries to piece together what brought her to situation, the play moves back and forth through time and space unraveling the events and interactions between Lucy and the two young men she’s torn between. 
 
-*Ripped* was read at the Wyoming Theater Festival in Sheridan Wyoming, in July of 2016, and received a a staged reading with San Francisco Playhouse in October of 2016.
+*Ripped* was a finalist for the 2017 Excellence in Playwriting Award from the Association for Theatre in Higher Education and will have a developmental production in [The Owl and Cat Theatre](https://www.owlandcat.com.au/)'s 2017/18 season. *Ripped* has also had readings with the [Wyoming Theater Festival](http://www.whitneyarts.org/about-us/2017-festival-lineup/), [San Francisco Playhouse](https://www.sfplayhouse.org/sfph/), and [Salt Lake Acting Company](http://www.saltlakeactingcompany.org/).
 
 Cast of 3; 1 f, 2 m. Approximate runtime of eighty minutes.
 
@@ -22,7 +22,7 @@ Cast of 3; 1 f, 2 m. Approximate runtime of eighty minutes.
 
 *Let’s Fix Andy* deals with male body images, friendship, and growing into being an adult. Andy’s best friends, Logan, Marcus, and George decide it’s time they step in after he’s been dumped by his long time girlfriend Megan, to snap him out of his funk. All three of them have different ideas of what Andy actually needs, and so Andy is dragged to the gym, the bar, and a cabin in the woods before things come to a head and he declares that he doesn’t need fixing. By the end of the play, with all four playing video games in Andy’s safe place, his couch, they realize that there’s no fixing anyone, and all any of us can really ask for is friendship that is focused on acceptance for who we are.
 
-*Let'S Fix Andy* will have a reading with the 2017 [Wyoming Theater Festival]() and a workshop production in the 2018 Wyoming Theater Festival.
+*Let'S Fix Andy* will have a reading with the 2017 [Wyoming Theater Festival](http://www.whitneyarts.org/about-us/2017-festival-lineup/).
 
 Cast of 4; 4 m. Approximate runtime of ninety minutes.
 
@@ -162,7 +162,7 @@ A new mom fights with her 13 year-old self about going back to work or staying h
 
 *Lean In With Liz!* was a national semi-finalist for the Kennedy Center's Gary Garrison 10 Minute Play Competition and was read in Denver of 2016 at the regional conference.
 
-*Lean In With Liz!* has been produced with Cutler Bay Community Theater, Lewis-Clark State College, and Greenbrier Valley Theatre.
+*Lean In With Liz!* has been produced with Cutler Bay Community Theater, Lewis-Clark State College, Greenbrier Valley Theatre, and Artistic Vibes.
 
 Cast of 3; 3 f.
 
