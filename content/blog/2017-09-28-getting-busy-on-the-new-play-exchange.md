@@ -1,0 +1,12 @@
++++
+date = "2017-09-28T12:18:51-06:00"
+layout = "post"
+title = "Getting Busy On The New Play Exchange"
+
++++
+
+Last week I was at a Salt Lake [Dramatists Guild](https://www.dramatistsguild.com/) meet-up with a few fierce and awesome playwrights and the topic of conversation was online marketing... Websites, Facebook pages, Twitter accounts, and the like, and the [National New Play Network](http://nnpn.org/)'s site [New Play Exchange](https://newplayexchange.org/dashboard) came up. For those of you who don't know, the New Play Exchange is a place where playwrights like me can upload scripts, so that producers and theaters and festivals can find them. I've been a member for a few years, but it wasn't until last week that I realized that I might have been doing it wrong. 
+
+The idea behind the New Play Network is to give playwrights back a bit of power, they chose what plays to list, how to qualify and describe them, and the site makes them searchable by theme and topic and character and age appropriateness, which in theory makes them easier to find by the folks interested in putting our work up on the stage. I did part of the work, I put my plays up ([you can find me here!](https://newplayexchange.org/users/275/rachel-bublitz)), I'd categorized them, added blurbs and all that, but until I was in my little playwright community discussing the benefits of the site, I hadn't realized that it was an additional community that I hadn't been participating in. If the site wants to get more plays read by more people, and I want to get my plays read by more people, it makes sense that I should *also* be participating in the reading process. One of the really neat features on the New Play Exchange, is that anyone with an account can leave recommendations on plays they've read or seen. And while this is a feature I've for the most part ignored, I'm ready to jump all in now. SO adding on the my #submissionmission and writing SIX new full-length this year, I'm committing to recommending TWO plays a month. I get that's not a ton, but I do have a few other things going on.... 
+
+Anyway, if you're a theater person in any capacity, I recommend giving the New Play Exchange a look at, the site is doing some exciting stuff. And if you're interested at all in new plays, you're not going to find a site with more new plays than the New Play Exchange. 
