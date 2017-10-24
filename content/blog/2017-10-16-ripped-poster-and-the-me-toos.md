@@ -19,6 +19,6 @@ I've been told if I want people to know that it's rape that I should make it mor
 
 And I know there are a lot of people who don't even think a play with rape should happen. I know plenty of actors, directors, and writers who pride themselves on not being involved with any show that shows rape. I understand that. But I also know that art is how we ask questions, have discussions, and sometimes change people's minds. I don't know if *RIPPED* will or can do this, but it is my best effort at trying to make that happen, and I'm proud of this play.
 
-I hope one day it gets produced closer to home so I can share this play with more of you. For now, if you want to give it a read, [email me](mailto:rnbublitz@gmail.com), or you can find it on my the [New Play Exchange](https://newplayexchange.org/plays/70552/ripped). 
+I hope one day it gets produced closer to home so I can share this play with more of you. For now, if you want to give it a read, [email me](mailto:rnbublitz@gmail.com), or you can find it on the [New Play Exchange](https://newplayexchange.org/plays/70552/ripped). 
 
 Finally, to all those posting Me Too: I see you, I believe you, and I want change.
