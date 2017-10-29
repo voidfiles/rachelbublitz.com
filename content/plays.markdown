@@ -14,7 +14,7 @@ Please have "script request" in the subject line of the email. In the body inclu
 
 Lucy, a freshman in college, is excited by the new people in her life, but conflicted by the hard task of saying goodbye to her first love. As she struggles to find balance in her new life, a sexual encounter leaves her confused and concerned that she may have been a victim of rape. As she tries to piece together what brought her to situation, the play moves back and forth through time and space unraveling the events and interactions between Lucy and the two young men she’s torn between. 
 
-*Ripped* was a finalist for the 2017 Excellence in Playwriting Award from the Association for Theatre in Higher Education and will have a developmental production in [The Owl and Cat Theatre](https://www.owlandcat.com.au/)'s 2017/18 season. *Ripped* has also had readings with the [Wyoming Theater Festival](http://www.whitneyarts.org/about-us/2017-festival-lineup/), [San Francisco Playhouse](https://www.sfplayhouse.org/sfph/), and [Salt Lake Acting Company](http://www.saltlakeactingcompany.org/).
+*Ripped* was a finalist for the 2017 Excellence in Playwriting Award from the Association for Theatre in Higher Education. *Ripped* has also had readings with the [Wyoming Theater Festival](http://www.whitneyarts.org/about-us/2017-festival-lineup/), [San Francisco Playhouse](https://www.sfplayhouse.org/sfph/), and [Salt Lake Acting Company](http://www.saltlakeactingcompany.org/).
 
 Cast of 3; 1 f, 2 m. Approximate runtime of eighty minutes.
 
