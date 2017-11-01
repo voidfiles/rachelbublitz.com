@@ -1,7 +1,7 @@
 +++
 date = "2017-11-01T11:05:37-06:00"
 layout = "post"
-title = "October SubmissionMission Total"
+title = "October Submission Mission Total"
 
 +++
 
