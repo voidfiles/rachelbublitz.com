@@ -5,7 +5,7 @@ title = "Submission Mission Countdown: Submissions 393, 394, and 395!"
 
 +++
 
-My submission train slowed a little over the holiday, but it's chugging back it's normal pace now! I just sent off submissions 393, 394, and 395! Getting very very close.
+My submission train slowed a little over the holiday, but it's chugging back to it's normal pace now! I just sent off submissions 393, 394, and 395! Getting very very close.
 
 Submission #393 was sent off to [T. Schreiber Studio](https://tschreiber.org/productions/submit-writing/schreiber-shorts-2017/) for their Schreiber Shorts. There's a $5 fee, which I'm not a fan of, but I'm a complicated human being who makes contrary choices some times. Their theme was: ESCAPE, and I sent them my ten-minute play *EMPLOYEE OF THE MONTH*. If you're interested in throwing a play their way, the deadline is coming up on November 30th, so get on it! 
 
