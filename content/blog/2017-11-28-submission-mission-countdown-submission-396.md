@@ -1,7 +1,7 @@
 +++
 date = "2017-11-28T10:03:12-07:00"
 layout = "post"
-title = "Submission Mission Countdown: Submission 396!"
+title = "Giving Tuesday And Submission Mission Countdown: Submission 396!"
 
 +++
 
