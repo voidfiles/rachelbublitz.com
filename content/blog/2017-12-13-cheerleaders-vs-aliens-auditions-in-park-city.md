@@ -5,7 +5,7 @@ title = "CHEERLEADERS VS. ALIENS Auditions in Park City"
 
 +++
 
-*CHEERLEADERS VS. ALIENS* is coming to the [Egyptian Youtheatre](https://www.egyptiantheatrecompany.org/youtheatre) in May of 2018, and sign-ups for auditions are now available! If you know any young actors (13+) near Park City who'd be interested in joining the team, please send them over to [sign-ups ASAP](https://events.r20.constantcontact.com/register/eventReg?oeidk=a07eeut210r46876b2c&oseq=&c=&ch=)! 
+*CHEERLEADERS VS. ALIENS* is coming to the [Egyptian Youtheatre](https://www.egyptiantheatrecompany.org/youtheatre) in May of 2018, to be directed by the incredible Alicia Washington, artistic director of [Good Company Theatre](https://www.goodcotheatre.com/). And sign-ups for auditions are now available! If you know any young actors (13+) near Park City who'd be interested in joining the team, please send them over to [sign-ups ASAP](https://events.r20.constantcontact.com/register/eventReg?oeidk=a07eeut210r46876b2c&oseq=&c=&ch=)! 
 
 Auditions are January 13, 11:30am-1pm, with callbacks that same afternoon between 2-3pm.
 
