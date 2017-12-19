@@ -1,0 +1,12 @@
++++
+date = "2017-12-19T07:08:48-07:00"
+layout = "post"
+title = "Fantastic Failure"
+
++++
+
+Sometime last week it hit me- I wasn't sure if I was going to finish my sixth and final full-length for my six new play goal this year. In the past few weeks I've been grading essays and giving finals for my classes at Weber, doing rewrites on *MOMMY DANCES WITH THE DEVIL*, *BURST* and I'm currently in the middle of rewrites for *HAPPILY*, Christmas and Hanukkah shopping/preparations, script submissions, and so I felt more than a little stress looking over the last few weeks of the year trying to fit in the hours I'd need to get a brand new play complete.... So this is me officially throwing in the towel. There are only thirteen more days in the year and I will *not* have a first draft of my holiday play complete in that time. I have failed. BUT, but, but, but...
+
+I have written FIVE brand new full-length plays this year, and some of them are already going places: [*HAPPILY* will be read in Berkeley on January 8th](https://rachelbublitz.com/2017/11/21/date-and-director-announcement-for-quantum-dragon-theatres-the-forge-reading-series/), [*Let's Fix Andy* had a reading in the 2017 Wyoming Theater Festival](https://rachelbublitz.com/2017/09/18/chris-and-rachel-take-wyoming/) (and there are more exciting announcements surrounding this play coming down the pipeline), and of course the [*world premiere* of *CHEERLEADERS VS. ALIENS*](https://rachelbublitz.com/2017/11/14/cheerleaders-vs.-aliens-dates/) happening with the Egyptian Youtheatre in May of 2018! I have plans to completely gut and rewrite *NO MAP*, my first full-length from this year, and I've already had an informal reading of *BURST*, and it's on its second draft. All of this is to say that through I didn't complete my goal, I'm proud as punch that I wrote FIVE BRAND-SPANKING NEW FULL-LENGTH PLAYS THIS YEAR! 
+
+I think it's great to push yourself, I do it all the time, but I think its also important to know when it's okay to back off too. So Merry Christmas and Happy Hanukkah to me, instead of locking myself to my keyboard every night to finish this play, I'm going to hang out with my friends and family and read a book or two just for fun... I think I've earned it.
