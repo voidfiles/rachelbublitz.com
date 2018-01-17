@@ -22,7 +22,7 @@ Cast of 3; 1 f, 2 m. Approximate runtime of eighty minutes.
 
 *Let’s Fix Andy* deals with male body images, friendship, and growing into being an adult. Andy’s best friends, Logan, Marcus, and George decide it’s time they step in after he’s been dumped by his long time girlfriend Megan, to snap him out of his funk. All three of them have different ideas of what Andy actually needs, and so Andy is dragged to the gym, the bar, and a cabin in the woods before things come to a head and he declares that he doesn’t need fixing. By the end of the play, with all four playing video games in Andy’s safe place, his couch, they realize that there’s no fixing anyone, and all any of us can really ask for is friendship that is focused on acceptance for who we are.
 
-*Let'S Fix Andy* will have a reading with the 2017 [Wyoming Theater Festival](http://www.whitneyarts.org/about-us/2017-festival-lineup/).
+*Let'S Fix Andy* had a reading with the 2017 [Wyoming Theater Festival](http://www.whitneyarts.org/about-us/2017-festival-lineup/).
 
 Cast of 4; 4 m. Approximate runtime of ninety minutes.
 
@@ -32,7 +32,9 @@ Of Serpents & Sea Spray, commissioned by Custom Made Theatre Co., tells the stor
 
 *Of Serpents & Sea Spray* was commissioned by [Custom Made Theatre Co.](http://www.custommade.org/) and had a world premiere production in their 2015/16 season. 
 
-*Of Serpents & Sea Spray* will be produced with [This Is Water Theatre](http://thisiswatertheatre.com/20162017-season)'s 2016/17 season.
+*Of Serpents & Sea Spray* was produced with [This Is Water Theatre](http://thisiswatertheatre.com/20162017-season)'s 2016/17 season.
+
+*Of Serpents & Sea Spray* will be produced with [Sheridan College](http://www.sheridan.edu/) for their 2018 Spring Show.
 
 From the Custom Made Theatre Co. production:
 
