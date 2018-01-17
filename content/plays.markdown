@@ -34,8 +34,6 @@ Of Serpents & Sea Spray, commissioned by Custom Made Theatre Co., tells the stor
 
 *Of Serpents & Sea Spray* was produced with [This Is Water Theatre](http://thisiswatertheatre.com/20162017-season)'s 2016/17 season.
 
-*Of Serpents & Sea Spray* will be produced with [Sheridan College](http://www.sheridan.edu/) for their 2018 Spring Show.
-
 From the Custom Made Theatre Co. production:
 
 >"OF SERPENTS AND SEA SPRAY is a fast moving funny play that has a touching close, and life discovery that stretches to the stars. It is a perfect way to open your 2016 theatre season." Full article: [A RIDE ON PEGASUS IS MORE THAN ADVENTURE, IT IS ALSO SERPENTS AND SEA SPRAY by Vince Mediaa](http://www.vmediabackstage.com/#!A-RIDE-ON-PEGASUS-IS-MORE-THAN-ADVENTURE-IT-IS-ALSO-SERPENTS-AND-SEA-SPRAY/c112t/56976cf50cf20ee37c743801).
