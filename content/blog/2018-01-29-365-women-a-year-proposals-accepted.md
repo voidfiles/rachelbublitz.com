@@ -1,8 +1,7 @@
 +++
 date = "2018-01-29T10:55:18-07:00"
 layout = "post"
-title = "365 Women A Year Proposals Accepted #365way #newplay"
-slug: 365-women-a-year-proposals-accepted
+title = "365 Women A Year Proposals Accepted!"
 
 +++
 
