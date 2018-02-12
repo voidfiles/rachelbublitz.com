@@ -5,7 +5,7 @@ title = "First Look At CHEERLEADERS VS. ALIENS Art!"
 
 +++
 
-![CHEERLEADERS VS. ALIENS art.](/images/cheerleaders_vs_aliens_art.jpg) (Promotional *CHEERLEADERS VS. ALIENS* image by Jenn Silva)
+![CHEERLEADERS VS. ALIENS art.](/images/cheerleaders_vs_aliens_art.jpg) (Promotional *CHEERLEADERS VS. ALIENS* image by Sarah Garrett)
 
 Eeeeeeeeeeee! *CHEERLEADERS VS. ALIENS* had its first cast read through on Saturday, [tickets are now on sale](https://www.egyptiantheatrecompany.org/index.php?option=com_holdmyticket&view=event&id=299374), and I now there's promotional art ready for the show! It is all just SO FREAKIN' EXCITING! 
 
