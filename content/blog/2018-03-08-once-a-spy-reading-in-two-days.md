@@ -7,7 +7,7 @@ title = "ONCE A SPY Reading In Two Days"
 
 Last night we had the first rehearsal for the staged reading of [*ONCE A SPY*](https://newplayexchange.org/plays/48794/once-spy) at [20% Theatre Company Chicago](https://www.twentypercentchicago.com/)! My brilliant director, [Erin Kraft](https://www.erinkraft.com/), the literary manager for 20% Theatre Company, [Rachel Bykowski](https://twitter.com/rachb713), and I met in a room with some fine actors and I listened to *ONCE A SPY* out loud for the first time in years, and now I'm more excited than ever for the reading this Saturday!! Be sure to come out on Saturday night if you happen to be in the Chicago area, here are all the details:
 
-###[*ONCE A SPY* by Rachel Bublitz, directed by Erin Kraft](https://www.twentypercentchicago.com/darkroom18)
+### [*ONCE A SPY* by Rachel Bublitz, directed by Erin Kraft](https://www.twentypercentchicago.com/darkroom18)
 
 Saturday, March 10th at 7pm
 
