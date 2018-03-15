@@ -14,7 +14,7 @@ Here's the sneakiest of sneak peeks... A little video of our intrepid sci-fi obs
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4GTPEoFZiz0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-AND AND AND! Tickets are on sale! And you should buy one or ten or a hundred, because the show WILL 100% sell out. Here's the link for tickets: [*CHEERLEADERS VS. ALIENS* World Premiere Tickets!](http://www.egyptiantheatrecompany.org/index.php?option=com_holdmyticket&view=event&id=299374).
+AND AND AND! Tickets are on sale! And you should buy one or ten or a hundred, because the show WILL 100% sell out. Here's the link for tickets: [*CHEERLEADERS VS. ALIENS* World Premiere Tickets!](http://www.egyptiantheatrecompany.org/index.php?option=com_holdmyticket&view=event&id=299374)
 
 The show runs:
 
