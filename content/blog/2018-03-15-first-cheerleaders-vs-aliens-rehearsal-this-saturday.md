@@ -5,7 +5,7 @@ title = "First CHEERLEADERS VS. ALIENS Rehearsal This Saturday!!!"
 
 +++
 
-I have been waiting for this Saturday to come for a loooooong time, it's our first [*CHEERLEADERS VS. ALIENS*](https://newplayexchange.org/plays/119869/cheerleaders-vs-aliens) rehearsal!! I can't wait to jump in with my amazing director, [Alicia Washington](https://www.goodcotheatre.com/), and my killer script, on this script that is so near and dear to my heart. I know on the surface it sounds like a fun and silly play, and it absolutely is, but there's more to it than that, and I can't wait to share it with the world. 
+I have been waiting for this Saturday to come for a loooooong time, it's our first [*CHEERLEADERS VS. ALIENS*](https://newplayexchange.org/plays/119869/cheerleaders-vs-aliens) rehearsal!! I can't wait to jump in with my amazing director, [Alicia Washington](https://www.goodcotheatre.com/), and my killer cast, on this script that is so near and dear to my heart. I know on the surface it sounds like a fun and silly play, and it absolutely is, but there's more to it than that, and I can't wait to share it with the world. 
 
 Be sure to get your [*CHEERLEADERS VS. ALIENS* Egyptian Youtheatre World Premiere Production Tickets](http://www.egyptiantheatrecompany.org/index.php?option=com_holdmyticket&view=event&id=299374) asap!
 
