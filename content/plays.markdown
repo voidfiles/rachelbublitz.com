@@ -106,7 +106,7 @@ Cast of 8; 6 f, 2 m. Approximate runtime of thirty minutes.
 
 Julie would love to have a great first day working the Customer Service desk at Target, but maybe not as much as flirting with Frank, the employee assigned to train her. As the two discuss a possible date their personal lives become more and more clear, which leads to awkward territory.
 
-*Really Adult* was a [Actors Theatre of Louisville](https://actorstheatre.org/) 2017 Heideman Finalist.
+*Really Adult* was an [Actors Theatre of Louisville](https://actorstheatre.org/) 2017 Heideman Finalist.
 
 ### *Reading Babar in 2070*
 
