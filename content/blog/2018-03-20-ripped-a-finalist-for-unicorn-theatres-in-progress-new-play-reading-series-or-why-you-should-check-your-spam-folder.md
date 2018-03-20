@@ -1,0 +1,12 @@
++++
+date = "2018-03-20T09:51:04-06:00"
+layout = "post"
+title = "RIPPED a Finalist for Unicorn Theatre's In-Progress New Play Reading Series or Why You Should Check Your Spam Folder"
+
++++
+
+Had a small heart attack yesterday.... I was sending out submissions like a fiend, when I was checked the [Official Playwrights of Facebook](https://www.facebook.com/groups/OfficialPlaywrights/) page to see if there were any new opportunities posted, on there I caught a post by a fellow playwright who'd almost missed a production because the emails from the artistic director had all gone to her spam folder. Luckily, the artistic director was persistent and eventually they connected and all was right with the world. I commented, "This is my nightmare," and realized that it had been since never that I's checked *my own* spam folder. And wouldn't you just know it, among a lot of amazing business opportunities and offers to enhance the size of my penis, *there was a letter from a literary manager*! I got to live my own nightmare! Yay. Thankfully, it was just a notification, and not a please-respond-asap type of deal, but dang, the thought that I almost missed something, the very thing that I push my freaking butt every day over, made me want to cry. So check your spam folders. Now. Seriously, I'll wait........
+
+........... Now that you're back and you've checked, time for the good news I came thisclose to missing: [*RIPPED*](https://newplayexchange.org/plays/70552/ripped) is a *finalist* for [Unicorn Theatre](http://unicorntheatre.org/)'s [In-Progress New Play Reading Series](http://unicorntheatre.org/?page=about-new-play-development)! Out of *700* submissions through the [New Play Exchange](https://newplayexchange.org/dashboard) *RIPPED* has made it a small pile of 25 scripts. It's my first hit through the New Play Exchange, and I'm so excited! I should be finding out the ultimate decision late Spring, and I'll be keeping my fingers crossed until then. I've never been to Kansas City, Missouri, and this sure would be an amazing reason to make the trip!
+
+Also in my spam were a bunch of confirmations that theaters had received my submissions. SO CHECK YOUR SPAM! And set an alarm to do it regularly, mine deletes emails after 30 days and it hurts my stomach to think that maybe this wasn't the first "real" email to end up there.
