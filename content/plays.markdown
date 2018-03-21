@@ -38,15 +38,21 @@ When aliens invade a small town and abduct the high school football team to stea
 
 *Of Serpents & Sea Spray*, commissioned by Custom Made Theatre Co., tells the story of an orphan named Iro who is the subject of ridicule by other children and punishment by uncaring foster parents. During one of her many tours through solitary confinement in the closet, Iro’s imagination brings the her with a mission: find Pegasus. On her quest, taking with her only books and her imaginary friend Annika, Iro hides herself on an ocean liner, joins a circus, and has many other adventures… and along the way finds the truth about the death of her parents.
 
-*Of Serpents & Sea Spray* was commissioned by [Custom Made Theatre Co.](http://www.custommade.org/) and had a world premiere production in their 2015/16 season. 
+*Of Serpents & Sea Spray* was commissioned by [Custom Made Theatre Co.](http://www.custommade.org/) and had a world premiere production directed by Ariel Craft in their 2015/16 season. 
 
-*Of Serpents & Sea Spray* was produced with [This Is Water Theatre](http://thisiswatertheatre.com/20162017-season)'s 2016/17 season.
+![Production photo for *OF SERPENTS & SEA SPRAY* at Custom Made Theatre.](/images/athena.jpg) Maria Giere Marquis (Athena) and María Leigh (Iro), photo by Jay Yamada.
 
-From the Custom Made Theatre Co. production:
+![Production photo for *OF SERPENTS & SEA SPRAY* at Custom Made Theatre.](/images/circus.jpg) Andrew Calabrese (Pere) and Sabrina De Mio (Mere), photo by Jay Yamada.
+
+Reviews from the Custom Made Theatre Co. production:
 
 >"OF SERPENTS AND SEA SPRAY is a fast moving funny play that has a touching close, and life discovery that stretches to the stars. It is a perfect way to open your 2016 theatre season." Full article: [A RIDE ON PEGASUS IS MORE THAN ADVENTURE, IT IS ALSO SERPENTS AND SEA SPRAY by Vince Mediaa](http://www.vmediabackstage.com/#!A-RIDE-ON-PEGASUS-IS-MORE-THAN-ADVENTURE-IT-IS-ALSO-SERPENTS-AND-SEA-SPRAY/c112t/56976cf50cf20ee37c743801).
 
 >"In this world premiere, Bublitz has given us a fascinating look at how a young girl deals with unspeakable events. The funny, yet heart-wrenching story, includes one of the sweetest endings I've seen in some time." Full article: [Curtain Calls by Sally Hogarty: Last call for Shellie tickets by Sally Hogarty](http://www.eastbaytimes.com/lafayette/ci_29385541/curtain-calls-by-sally-hogarty-last-call-shellie)
+
+*Of Serpents & Sea Spray* was also produced with [This Is Water Theatre](http://thisiswatertheatre.com/20162017-season)'s 2016/17 season, directed by This Is Water Theatre's Artistic Director, Andrew Roblyer.
+
+![Production photo for *OF SERPENTS & SEA SPRAY* at This Is Water Theatre.](/images/ThisIsWaterPosterSerpents.jpg) 
 
 Cast of 6 with doubling; 3 f, 3 m. Approximate runtime of ninety minutes.
 
