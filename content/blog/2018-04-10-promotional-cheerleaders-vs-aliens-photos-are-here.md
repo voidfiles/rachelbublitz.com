@@ -9,11 +9,11 @@ Home again and trying to hit the ground running as much as possible as I get bac
 
 Today I have some very exciting things to share.... Promotional photos for the upcoming World Premiere of [*CHEERLEADERS VS. ALIENS*](https://newplayexchange.org/plays/119869/cheerleaders-vs-aliens) at the [Egyptian Youtheatre](https://www.egyptiantheatrecompany.org/youtheatre) are here! I know I'm biased, but these pictures LOOK AMAZING!
 
-![Promotional photo for the Egyptian Youtheatre production of *CHEERLEADERS VS. ALIENS*, photo by Amy Livingston.](/images/cheerleaders_gilda_sitting_stage.jpg) (Left to right: Lily Malin (Maya), Lindsay Miller (Leslie), Caroline Waldmann (Ali), Amanda Green (Gilda), Chelsea Cowley (Carol), and Katherine Ward (Margaret).)
+![Promotional photo for the Egyptian Youtheatre production of *CHEERLEADERS VS. ALIENS*, photo by Amy Livingston.](/images/cheerleaders_gilda_sitting_stage.jpg) (Left to right: Lily Malin (Maya), Lindsay Miller (Leslie), Caroline Waldmann (Ali), Amanda Green (Gilda), Chelsea Cowley (Carol), and Katherine Ward (Margaret). Aliens lurking in the dark: JT O’Reilly (Sirius), Anna Diamond (Gamma), and Mallory Kosiba (Canopus).)
 
-![Promotional photo for the Egyptian Youtheatre production of *CHEERLEADERS VS. ALIENS*, photo by Amy Livingston.](/images/cheerleaders_gilda_book_stage.jpg) (Gilda (Amanda Green) is front and center with her trusty science fiction novel *My Prom Date Was An Alien*, while cheerleaders Maya (Lily Malin), Leslie (Lindsay Miller), Ali (Caroline Waldmann), Carol (Chelsea Cowley), and Margaret (Katherine Ward) hope her advice isn't leading to their destruction.)
+![Promotional photo for the Egyptian Youtheatre production of *CHEERLEADERS VS. ALIENS*, photo by Amy Livingston.](/images/cheerleaders_gilda_book_stage.jpg) (Gilda (Amanda Green) is front and center with her trusty science fiction novel *My Prom Date Was An Alien*, while cheerleaders Maya (Lily Malin), Leslie (Lindsay Miller), Ali (Caroline Waldmann), Carol (Chelsea Cowley), and Margaret (Katherine Ward) hope her advice isn't leading to their destruction. Sirius (JT O'Reilly), Gamma (Anna Diamond), and Canopus (Mallory Koshiba) are don't know what's coming for them.)
 
-![Promotional photo for the Egyptian Youtheatre production of *CHEERLEADERS VS. ALIENS*, photo by Amy Livingston.](/images/gilda_cheerleaders_stairs_pose_girl_power.jpg) (First row: Amanda Green (Gilda). Second row: Caroline Waldmann (Ali). Third row, left to right: Katherine Ward (Margaret) and Chelsea Cowley (Carol). Forth row, left to right: Lindsay Miller (Leslie), and Lily Malin (Maya).)
+![Promotional photo for the Egyptian Youtheatre production of *CHEERLEADERS VS. ALIENS*, photo by Amy Livingston.](/images/gilda_cheerleaders_stairs_pose_girl_power.jpg) (First row: Amanda Green (Gilda). Second row: Caroline Waldmann (Ali). Third row, left to right: Katherine Ward (Margaret) and Chelsea Cowley (Carol). Forth row, left to right: Lindsay Miller (Leslie), and Lily Malin (Maya). Aliens: JT O’Reilly (Sirius), Anna Diamond (Gamma), and Mallory Kosiba (Canopus).)
 
 >We got this game!
 
@@ -45,7 +45,7 @@ Today I have some very exciting things to share.... Promotional photos for the u
 
 >Go go Greenville go go!
 
-![Promotional photo for the Egyptian Youtheatre production of *CHEERLEADERS VS. ALIENS*, photo by Amy Livingston.](/images/cheerleaders_gilda_fight_stage.jpg) (Time to kick some alien butt! On the left: Lindsay Miller (Leslie), Lily Malin (Maya), and Amanda Green (Gilda). On the right: Caroline Waldmann (Ali), Chelsea Cowley (Carol), and Katherine Ward (Margaret).)
+![Promotional photo for the Egyptian Youtheatre production of *CHEERLEADERS VS. ALIENS*, photo by Amy Livingston.](/images/cheerleaders_gilda_fight_stage.jpg) (Time to kick some alien butt! On the left: Lindsay Miller (Leslie), Lily Malin (Maya), and Amanda Green (Gilda). On the right: Caroline Waldmann (Ali), Chelsea Cowley (Carol), and Katherine Ward (Margaret). Aliens: JT O’Reilly (Sirius), Anna Diamond (Gamma), and Mallory Kosiba (Canopus).)
 
 All photos were taken by Amy Livingston.
 

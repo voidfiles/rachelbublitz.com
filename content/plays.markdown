@@ -34,6 +34,8 @@ When aliens invade a small town and abduct the high school football team to stea
 
 *Cheerleaders VS. Aliens* was commissioned by the [Egyptian Youtheatre](https://www.egyptiantheatrecompany.org/youtheatre) and is having a world premiere production in May of 2018.
 
+![Promotional photo for the Egyptian Youtheatre production of *CHEERLEADERS VS. ALIENS*, photo by Amy Livingston.](/images/cheerleaders_gilda_fight_stage.jpg) (Promotional photo from the Egyptian Youtheatre production. Time to kick some alien butt! On the left: Lindsay Miller (Leslie), Lily Malin (Maya), and Amanda Green (Gilda). On the right: Caroline Waldmann (Ali), Chelsea Cowley (Carol), and Katherine Ward (Margaret). Aliens: JT O’Reilly (Sirius), Anna Diamond (Gamma), and Mallory Kosiba (Canopus).)
+
 ### [*Of Serpents & Sea Spray*](https://newplayexchange.org/plays/19156/serpents-sea-spray)
 
 *Of Serpents & Sea Spray*, commissioned by Custom Made Theatre Co., tells the story of an orphan named Iro who is the subject of ridicule by other children and punishment by uncaring foster parents. During one of her many tours through solitary confinement in the closet, Iro’s imagination brings the her with a mission: find Pegasus. On her quest, taking with her only books and her imaginary friend Annika, Iro hides herself on an ocean liner, joins a circus, and has many other adventures… and along the way finds the truth about the death of her parents.
