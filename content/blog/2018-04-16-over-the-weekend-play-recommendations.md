@@ -18,6 +18,6 @@ But I did manage to read and recommend some new work on the [New Play Exchange](
 * ["*Anticipations of the Reaction of Mechanical and Scientific Progress Upon Human Life and Thought... Abridged. Or Gigglemug*" by Benjamin Gonzales](https://newplayexchange.org/plays/103768/anticipations-reaction-mechanical-and-scientific-progress-upon-human-life-and-thought)
 * ["*The Quickie*" by Donna Hoke](https://newplayexchange.org/plays/38660/quickie)
 
-Hoping to read and recommend a ton this week, though I'm also hoping to finish a first draft of a new TYA one-act, submit a fun-ton, and see a little musical you might have heard of; *HAMILTON*! So we'll see...
+Hoping to read and recommend a ton this week, though I'm also hoping to finish a first draft of a new TYA one-act, submit a fun-ton, and seeing a little musical you might have heard of; *HAMILTON*! So we'll see...
 
 Happy Monday everyone!!
