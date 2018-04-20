@@ -1,7 +1,7 @@
 +++
 date = "2018-04-20T11:28:34-06:00"
 layout = "post"
-title = "More New Play New Day Recommendations!"
+title = "More New Day New Play Recommendations!"
 
 +++
 
