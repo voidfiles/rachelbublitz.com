@@ -7,7 +7,7 @@ title = "RadioActive Interview Now Available To Stream"
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/435277764&amp;color=ff5500"></iframe>
 
-We were on the radio last night, we were interviewed by one of Laura Jone's co-hosts, Billy Palmer! The cast absolutely *killed* the scenes, they were so great! You can click above to listen in, our interview was shifted a bit and we start right at 32:33 and finish out the episode. 
+We were on the radio last night, we were interviewed by one of Laura Jone's co-hosts, Billy Palmer and their intern/show co-host Isabella Sabala! The cast absolutely *killed* the scenes, they were so great! You can click above to listen in, our interview was shifted a bit and we start right at 32:33 and finish out the episode. 
 
 Here are the cast members who joined us to share their vocal talent on air:
 
