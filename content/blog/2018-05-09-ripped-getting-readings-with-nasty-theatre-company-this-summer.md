@@ -5,7 +5,7 @@ title = "RIPPED Getting Readings With Nasty Theatre Company This Summer!"
 
 +++
 
-Great news! [*RIPPED*](https://newplayexchange.org/plays/70552/ripped) is getting more readings this summer! Two readings will be a part of [Nasty Theatre Company](https://www.nastytheatrecompany.com/)'s 2018 Season in Los Angelos, they'll be directed by [Michelle Roselle](https://twitter.com/michaelroselle).
+Great news! [*RIPPED*](https://newplayexchange.org/plays/70552/ripped) is getting more readings this summer! Two readings will be a part of [Nasty Theatre Company](https://www.nastytheatrecompany.com/)'s 2018 Season in Los Angelos, they'll be directed by [Michelle Roselle](https://twitter.com/lilfiletmignon).
 
 Details with cast, dates, and location will be announced soon, so stay tuned!!! 
 
