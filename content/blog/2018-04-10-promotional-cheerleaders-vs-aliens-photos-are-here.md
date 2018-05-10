@@ -15,35 +15,21 @@ Today I have some very exciting things to share.... Promotional photos for the u
 
 ![Promotional photo for the Egyptian Youtheatre production of *CHEERLEADERS VS. ALIENS*, photo by Amy Livingston.](/images/gilda_cheerleaders_stairs_pose_girl_power.jpg) (First row: Amanda Green (Gilda). Second row: Caroline Waldmann (Ali). Third row, left to right: Katherine Ward (Margaret) and Chelsea Cowley (Carol). Forth row, left to right: Lindsay Miller (Leslie), and Lily Malin (Maya). Aliens: JT O’Reilly (Sirius), Anna Diamond (Gamma), and Mallory Kosiba (Canopus).)
 
->We got this game!
-
->'Cause we're the roughest
-
->Oh yeah, and we're mean
-
->We're the toughest
-
->Yeah!
-
->We'll make you scream!
-
->So be afraid
-
->And watch your back
-
->Cheerleaders are here
-
->We don't cut no slack!
-
->Now you're shaking
-
->Like a clown!
-
->'Cause you know
-
->We're 'bout to bring you down!
-
->Go go Greenville go go!
+>We got this game!  
+>'Cause we're the roughest  
+>Oh yeah, and we're mean  
+>We're the toughest  
+>Yeah!  
+>We'll make you scream!  
+>So be afraid  
+>And watch your back  
+>Cheerleaders are here  
+>We don't cut no slack!  
+>Now you're shaking  
+>Like a clown!  
+>'Cause you know  
+>We're 'bout to bring you down!  
+>Go go Greenville go go!  
 
 ![Promotional photo for the Egyptian Youtheatre production of *CHEERLEADERS VS. ALIENS*, photo by Amy Livingston.](/images/cheerleaders_gilda_fight_stage.jpg) (Time to kick some alien butt! On the left: Lindsay Miller (Leslie), Lily Malin (Maya), and Amanda Green (Gilda). On the right: Caroline Waldmann (Ali), Chelsea Cowley (Carol), and Katherine Ward (Margaret). Aliens: JT O’Reilly (Sirius), Anna Diamond (Gamma), and Mallory Kosiba (Canopus).)
 
