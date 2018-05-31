@@ -25,6 +25,8 @@ I was just going to pick a few to share, but there are a millions I have to put 
 
 ![CHEERLEADERS VS. ALIENS production photo.](/images/all_people_curtain_call_C_v_A_egyptian_2018.jpg) (And final curtain call including all the actors, most of the designers, the tech crew, my director Alicia Washington, the artistic director of the Egyptian Youtheatre Jamie Wilcox, and me!)
 
+The amazing sets are the work of Matt Sincell, and the beautiful costumes were done by Candy Summerhays (who also did props!) and Megan Crivello!
+
 A HUGE and GIANT thank you to Jenn Silva for capturing all of these great shots! And there are more! So much more! To get the whole enchilada, you'll need to head over to [my official facebook page where I have an album dedicated to this production](https://www.facebook.com/pg/rachelnbublitz/photos/?tab=album&album_id=537054869752197) (is super easy, just click that link!).
 
 Happy Thursday!
