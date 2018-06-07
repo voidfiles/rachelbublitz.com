@@ -1,7 +1,7 @@
 +++
 date = "2018-06-07T07:03:09-06:00"
 layout = "post"
-title = "Yellowstone Here I Come"
+title = "Yellowstone Here I Come!"
 
 +++
 
