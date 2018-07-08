@@ -30,13 +30,13 @@ Here's what's been up so far, and the things scheduled for the rest of the year:
 
 ### June:
 
-*MY BODY*, ten-minute, production with [Artistic Vibes](http://www.artistic-vibes.com/).  
-*RIPPED*, full-length, staged reading with [Bristol Valley Theater](http://bvtnaples.org/).  
+*MY BODY*, ten-minute, production with [Artistic Vibes](http://www.artistic-vibes.com/).   
 [*SWALLOWED*](https://newplayexchange.org/plays/90782/swallowed), ten-minute, staged reading with [City Theatre](https://www.citytheatre.com/).
 
 ### July:
 
-*RIPPED*, full-length, staged readings with Nasty Theatre Company.
+*RIPPED*, full-length, staged readings with Nasty Theatre Company.  
+*RIPPED*, full-length, staged reading with [Bristol Valley Theater](http://bvtnaples.org/). 
 
 ### August:
 
