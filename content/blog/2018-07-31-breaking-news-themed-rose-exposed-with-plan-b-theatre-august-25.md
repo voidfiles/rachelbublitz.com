@@ -11,7 +11,7 @@ Hooray hooray I can finally spill ALL the beans about this year's [Rose Exposed]
 
 Here are those tasty details:
 
-###ROSE EXPOSED: BREAKING NEWS  
+### ROSE EXPOSED: BREAKING NEWS  
 is music from Gina Bachauer International Piano Foundation  
 and new short works from [Plan-B Theatre]((http://planbtheatre.org/)),  
 [PYGmalion Theatre Company](http://pygmalionproductions.org/),  
