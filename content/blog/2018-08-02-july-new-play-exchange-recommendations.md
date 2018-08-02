@@ -5,7 +5,7 @@ title = "July New Play Exchange Recommendations"
 
 +++
 
-Summer has been busy for me beyond just a working respect... Having both of my kids home has kept me on my toes. But after my millionth swim practice, I realized something... I could be reading plays and recommending them on the [New Play Exchange]() instead of just staring at my kids swimming in circles. I blame the smell of chlorine that kept me from this obvious answer for so long.
+Summer has been busy for me beyond just a working respect... Having both of my kids home has kept me on my toes. But after my millionth swim practice, I realized something... I could be reading plays and recommending them on the [New Play Exchange](https://newplayexchange.org/dashboard) instead of just staring at my kids swimming in circles. I blame the smell of chlorine that kept me from this obvious answer for so long.
 
 Here's what I got to reading and recommending last month, mostly poolside:
 
