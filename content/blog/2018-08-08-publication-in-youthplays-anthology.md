@@ -5,9 +5,9 @@ title = "Publication In YouthPLAYS Anthology"
 
 +++
 
-My ten-minute TYA play [*NO TALKING ALLOWED*](https://www.youthplays.com/play/no-talking-allowed-by-rachel-bublitz-505) has been published with [YouthPLAYS](https://www.youthplays.com/) as a stand alone piece, AND in an anthology! It's a fun and silly short piece for performers of all ages.
+My ten-minute TYA play [*NO TALKING ALLOWED!*](https://www.youthplays.com/play/no-talking-allowed-by-rachel-bublitz-505) has been published with [YouthPLAYS](https://www.youthplays.com/) as a stand alone piece, AND in an anthology! It's a fun and silly short piece for performers of all ages.
 
-Here's the synopsis for *NO TALKING ALLOWED*:
+Here's the synopsis for *NO TALKING ALLOWED!*:
 
 "Jordan gets kicked out of class for talking. But a zero on the test may be the least of Jordan’s problems when a pencil starts to talk—and then a locker and a mop and a slew of other inanimate objects. Maybe Jordan’s going crazy, but Jordan’s not the only one, as soon a hall monitor, the custodian, a teacher and the principal join in as they try to get to the bottom of all the yammering in this comedy inspired by an African folk tale."
 
@@ -19,7 +19,7 @@ Here's more about the anthology:
 
 You can buy both versions on the YouthPLAYS website ([youthplays.com](https://www.youthplays.com/)), by searching my last name, OR following these handy-dandy links:
 
-[*NO TALKING ALLOWED*](https://www.youthplays.com/play/no-talking-allowed-by-rachel-bublitz-505)  
+[*NO TALKING ALLOWED!*](https://www.youthplays.com/play/no-talking-allowed-by-rachel-bublitz-505)  
 [It's Elementary! Twelve Short Plays for Upper Elementary Actors](https://www.youthplays.com/play/its-elementary-twelve-short-plays-for-upper-elementary-school-actors-512)
 
 Perfect gift for the theater kid, educator, and/or enthusiast in your life!
