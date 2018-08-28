@@ -25,6 +25,6 @@ Here's a blurb on *BURST*:
 
 >On the brink of her next round of funding, Sarah Boyd, Founder and CEO of Tactix, must hold her company together through a pesky journalist's questions and glaring doubts thrown her way surrounding the promises her company has made. It's a heavy load, and Sarah knows that she is the only one great enough to bear it.
 
-I hope you can make it! I'd love our take on this brand-new-play of mine.
+I hope you can make it! 
 
 Happy Tuesday and last few days of August!
