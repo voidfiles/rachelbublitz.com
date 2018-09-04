@@ -15,7 +15,7 @@ SIXTY THREE!
 
 Sixty three scripts sent out on their merry way with kisses and well wishes! Which, brings my total for 2018 up to.................
 
-###441!!!
+### 441!!!
 
 I've submitted more this year so far than I've ever submitted in any other year of my whole entire playwright life! AND, I'm technically only *nine* submissions away from my #SubmissionMission for 2018! I think it's time to officially raise the bar, I'm setting it now up to 600 and see if that's a number I learn to regret. Only time and lots of submissions will tell!
 
