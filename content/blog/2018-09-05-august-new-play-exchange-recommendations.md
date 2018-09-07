@@ -5,7 +5,7 @@ title = "August New Play Exchange Recommendations"
 
 +++
 
-I did not read and recommend a ton of play last month on the [New Play Exchange](https://newplayexchange.org/dashboard), but I thoroughly enjoyed the ones that I did! Here's a list of my August recommendations, please read, recommend, and PRODUCE these plays in a theater near me...
+I did not read and recommend a ton of plays last month on the [New Play Exchange](https://newplayexchange.org/dashboard), but I thoroughly enjoyed the ones that I did! Here's a list of my August recommendations, please read, recommend, and PRODUCE these plays in a theater near me...
 
 ["*Stand*" by Matthew Ivan Bennett](https://newplayexchange.org/plays/193811/stand)  
 ["*Little Happy Secrets*" by Melissa Leilani Larson](https://newplayexchange.org/plays/2969/little-happy-secrets)  
