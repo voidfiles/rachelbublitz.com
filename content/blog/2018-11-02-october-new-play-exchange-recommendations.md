@@ -5,7 +5,7 @@ title = "October New Play Exchange Recommendations!"
 
 +++
 
-In October I passed by a really special threshold.... I met and passed my 200th new play recommendation on the [New Play Exchange](https://newplayexchange.org/dashboard)! That's so many new plays! It makes me so happy to have thousands and thousands of brand new plays ready to go at my fingertips. Thank you New Play Exchange!!
+In October I passed a really special milestone.... I met and passed my 200th new play recommendation on the [New Play Exchange](https://newplayexchange.org/dashboard)! That's so many new plays! It makes me so happy to have thousands and thousands of brand new plays ready to go at my fingertips. Thank you New Play Exchange!!
 
 And for the month of October, here are the plays I read and recommended:
 
