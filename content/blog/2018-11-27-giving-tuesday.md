@@ -13,4 +13,6 @@ Giving Tuesday is today! It's the perfect time to throw whatever money you can s
 * [Shotgun Players](https://shotgunplayers.org/online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=20C0C91A-AD58-47CB-86C6-B55D4D9FA1C9&utm_source=Shotgun+Players+Mailing+List&utm_campaign=c411309ae7-2018-11-27-artist-campaign-giving-tuesday&utm_medium=email&utm_term=0_5413d54b08-c411309ae7-142541737&mc_cid=c411309ae7&mc_eid=ebd4259b3f)
 * [Killing My Lobster](https://app.etapestry.com/onlineforms/LobsterTheaterProject/Donations-1-1.html)
 
+All are uplifting their communities of artists and creating wonderful work while they're at it.
+
 Where are you giving this year?
