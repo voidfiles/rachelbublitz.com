@@ -9,28 +9,28 @@ MORE great news! 2019 is going to be insane...
 
 [*RIPPED*](https://newplayexchange.org/plays/70552/ripped) is getting a second production with Ogden based [Good Company Theatre](https://www.goodcotheatre.com/) in Utah! Their full season looks incredible, and I am THRILLED to be a part of it, check it out:
 
-[*CONSTELLATIONS* by Nick Payne](https://www.goodcotheatre.com/copy-of-passion)  
+[*CONSTELLATIONS* by Nick Payne](https://www.goodcotheatre.com/constellations)  
 Running January 18 - February 3, 2019
 
-[*YOU BET YOUR BLACK ASS, BROADWAY*](https://www.goodcotheatre.com/copy-of-constellations) A Good Company Theatre Original  
+[*YOU BET YOUR BLACK ASS, BROADWAY*](https://www.goodcotheatre.com/black-broadways) A Good Company Theatre Original  
 February 14 - 17, 2019
 
-[*GLORIA* by Branden Jacobs-Jenkids](https://www.goodcotheatre.com/copy-of-you-bet-your-black-ass-broa)  
+[*GLORIA* by Branden Jacobs-Jenkids](https://www.goodcotheatre.com/gloria)  
 March 8 - 24, 2019
 
-[*THE CHILDREN* by Lucy Kirkwood](https://www.goodcotheatre.com/copy-of-the-jungle)  
+[*THE CHILDREN* by Lucy Kirkwood](https://www.goodcotheatre.com/the-children)  
 April 26 - May 12, 2019
 
-[*THE VIEW UPSTAIRS* by Max Vernon](https://www.goodcotheatre.com/copy-of-gloria)  
+[*THE VIEW UPSTAIRS* by Max Vernon](https://www.goodcotheatre.com/the-view-upstairs)  
 June 7 - 23, 2019
 
-[*THE JUNGLE* by Nathan Dame and Robert Baumgartner](https://www.goodcotheatre.com/copy-of-the-view-upstairs)  
+[*THE JUNGLE* by Nathan Dame and Robert Baumgartner](https://www.goodcotheatre.com/the-jungle)  
 August 2 - 11, 2019
 
-[*RIPPED* by Rachel Bublitz](https://www.goodcotheatre.com/copy-of-the-jungle-1)  
+[*RIPPED* by Rachel Bublitz](https://www.goodcotheatre.com/ripped)  
 September 13 - 29, 2019
 
-[*BLU* by Virginia Grise](https://www.goodcotheatre.com/copy-of-ripped)  
+[*BLU* by Virginia Grise](https://www.goodcotheatre.com/blu)  
 October 25 - November 10, 2019
 
 Season tickets go on sale today!
