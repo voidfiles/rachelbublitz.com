@@ -8,7 +8,7 @@ We're are three weeks into 2019, can you believe it? Which means I'm on the thir
 
 Here's my [New Play Exchange](https://newplayexchange.org/dashboard) recommendation:
 
->" A haunting look at trauma and time. Are places our memory keepers, and would avoiding or destroying them set us free? This question is at the center of EM Lewis’ beautiful script. Time is played with in a highly theatricality manner, and the spectacle written into the stage direction has me wishing for a near to me production of this play. So well crafted, highly recommend."
+>"A haunting look at trauma and time. Are places our memory keepers, and would avoiding or destroying them set us free? This question is at the center of EM Lewis’ beautiful script. Time is played with in a highly theatricality manner, and the spectacle written into the stage direction has me wishing for a near to me production of this play. So well crafted, highly recommend."
 
 I can't wait for next week! What will I read or watch? This is the best challenge ever.
 
