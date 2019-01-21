@@ -1,7 +1,7 @@
 +++
 date = "2019-01-21T07:57:10-07:00"
 layout = "post"
-title = "52 Plays By Women Week Three: LA MUJER BARBUDA by Christina Luzárraga"
+title = "52 Plays By Women Week Four: LA MUJER BARBUDA by Christina Luzárraga"
 +++
 
 Currently watching snow blanketing my neighborhood, but luckily I don't have to go out there to read plays! This week for [52 Play by Women](https://twitter.com/52playsbywomen) I read [Christina Luzárraga's *LA MUJER BARBUDA*](https://newplayexchange.org/plays/206827/la-mujer-barbuda), which I found on the [New Play Exchange](https://newplayexchange.org/dashboard). I've read shorter works from Luzárraga, so it was really exciting to pick up a full-length and see what her work looks like in long form. And I found out that I'm a big fan!
