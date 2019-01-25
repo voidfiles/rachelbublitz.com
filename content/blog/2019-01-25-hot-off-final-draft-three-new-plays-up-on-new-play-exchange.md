@@ -1,5 +1,5 @@
 ---
-title: "Hot Off Final Draft, Three New Plays Up on New Play Exchange"
+title: "Hot Off The Presses: Three New Drafts Up on New Play Exchange"
 date: 2019-01-25T15:33:09-07:00
 layout: post
 ---
