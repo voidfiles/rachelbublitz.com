@@ -9,7 +9,7 @@ This past week was a blur of new plays, energetic and talented students, wonderf
 * *HOW SWEET THE SOUND* by Eryn McVay  
 * *TONY THE FANTASTIC FIREMAN LIVE! ONE SHOW ONLY!* by Malia Wessel  
 * *DUST IN THE STREETS* by Ryan Han  
-* *AGAIN, AGAIN* by Katherine Gee Perrone  
+* *AGAIN! AGAIN!* by Katherine Gee Perrone  
 * *RORY'S STORY* by Grace Heller  
 * *SILVER SIXPENCE* by Jessi Pitts  
 * *when a whale falls* by Jay Chavez    
