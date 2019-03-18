@@ -15,15 +15,21 @@ directed by Theresa Robbins Dudeck
 June 12, 13, 14, and 15 at 7pm  
 June 15 and 16 at 2pm  
 
+>As Tactix, an  environmental tech company, sits on the verge of its next round of funding, founder and CEO Sarah Boyd must persevere through a late night interview with a particularly tough reporter and the waffling of her CTO. It's a heavy load, and Sarah knows that she is the only one great enough to bear it.​  
+
 *BETHANY SEES THE STARS* by Emily Golden  
 Directed by Stephen Alexander  
 July 10, 11, 12, and 13 at 7pm  
 July 13 and 14 at 2pm  
 
+>When 15-year-old Bethany receives a letter inviting her to be a crew member on the first manned mission to Mars, she consults with the stars to decide whether she is willing to leave the Earth behind once and for all.   
+
 *THE HARDER COURAGE* by Leslie Slape  
 Directed by Rob Ceballos  
 August 7, 8, 9, and 10 at 7pm  
 August 10 and 11 at 2pm  
+
+>*THE HARDER COURAGE* by Leslie Slape is based on true events in southwest Washington in 1891-92. It tells the touching story of a friendship between a sheriff and a condemned prisoner, while exploring themes of family, vigilante justice, capital punishment, war, PTSD, overcoming our fears, and the healing power of story. ​
 
 More fun details are on their way, so stay tuned.
 
