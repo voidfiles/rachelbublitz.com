@@ -1,5 +1,5 @@
 ---
-title: "2019 04 10 52 Plays by Women Week 15"
+title: "52 Plays by Women Week 15"
 date: 2019-04-10T07:07:05-06:00
 layout: post
 ---
