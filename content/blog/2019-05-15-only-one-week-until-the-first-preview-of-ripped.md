@@ -12,7 +12,7 @@ First preview is Wednesday May 22nd (that's just in ONE week!), and we open Satu
 
 "LUCY" for $5 off any ticket during the run.
 
-"FIRSTLOOK" for a $5 ticket to any preview performance (5/22, 5/23, and 5/24).
+"FIRSTLOOK" for a $5 ticket to any preview performance (May 22nd, 23rd, or 24th).
 
 So............  
 HAVE YOU BOUGHT YOUR TICKETS YET??? You can do that right here: [www.zspace.org/rippedshow](http://www.zspace.org/rippedshow)
