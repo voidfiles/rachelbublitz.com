@@ -1,5 +1,5 @@
 ---
-title: "RIPPED Has Opened and It's Amazing"
+title: "RIPPED Has Opened and It's Amazing!"
 date: 2019-05-28T13:44:38-06:00
 layout: post
 ---
@@ -20,6 +20,8 @@ I am pretty sure I am the happiest playwright in the world right now.
 
 I just uploaded an updated hot-off-the-press draft of *RIPPED* to the New Play Exchange, [check that out here](https://newplayexchange.org/plays/70552/ripped), or [email me](mailto:rnbublitz@gmail.com) if you'd like a perusal copy.
 
-Finally, COME SEE THIS SHOW! It is a hard play. I'm not gonna lie or sugar coat that. It was hard to write, and I know I ask a lot from all the artists who come to work on it with me. But I also think it's something a lot of folks need to see right now. Come and bask in all that hard work. And, I have plenty of space to laugh and feel joy as well. It's got the full range of emotions. So, come on out. Laugh with us. Maybe even cry. Come and let theater move you.
+Finally, COME SEE THIS SHOW! It is a hard play. I'm not gonna lie or sugar coat that. It was hard to write, and I know I ask a lot from all the artists who come to work on it with me. But I also think it's something a lot of folks need to see right now. Come and bask in all that hard work. There's also plenty of space to laugh and feel joy as well. It's got the full range of emotions. So, come on out. Laugh with us. Maybe even cry. Come and let theater move you.
 
-We run through June 15th, buy tickets here: [www.zspace.org/rippedshow](http://www.zspace.org/rippedshow). And when you DO see the show, be sure to tell your friends (or tell folks now if you've already seen it!). This production deserves to be playing to full audiences every single night.
+We run through June 15th, buy tickets here: [www.zspace.org/rippedshow](http://www.zspace.org/rippedshow).
+
+And when you DO see the show, be sure to tell your friends (or tell folks now if you've already seen it!). This production deserves to be playing to full audiences every single night.
