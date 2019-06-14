@@ -18,7 +18,7 @@ And that's not all!!! We are now an official [Theatre Bay Area](https://www.thea
 
 And and and, if that wasn't enough, former SF Chronicle critic Robert Hurwitt had this to say about *RIPPED*:
 
->""A beautifully staged and skillfully, irresistibly performed three-person dramatic exploration by Rachel Bublitz of the complex ambiguities and politics of sex on college campuses today. A brilliant performance by Krystle Piamonte anchors a memorable world premiere."
+>"A beautifully staged and skillfully, irresistibly performed three-person dramatic exploration by Rachel Bublitz of the complex ambiguities and politics of sex on college campuses today. A brilliant performance by Krystle Piamonte anchors a memorable world premiere."
 
 And and and and and and and, check out this amazing promo video for the show:
 
