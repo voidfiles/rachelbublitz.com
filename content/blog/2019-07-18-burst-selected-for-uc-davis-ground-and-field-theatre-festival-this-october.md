@@ -1,5 +1,5 @@
 ---
-title: "BURST Selected for Uc Davis' Ground & Field Theatre Festival this October"
+title: "BURST Selected for UC Davis' Ground & Field Theatre Festival this October"
 date: 2019-07-18T08:16:24-06:00
 layout: post
 ---
