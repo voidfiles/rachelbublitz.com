@@ -8,7 +8,7 @@ Well, last night was AWESOME!
 
 Last night was the reading of [*RIPPED*](https://newplayexchange.org/plays/70552/ripped) at [The Road Theatre Company](https://roadtheatre.org/)'s [Summer Playwrights Festival 10](https://roadtheatre.org/summer-playwrights-festival-10-schedule/), and fun was had by all, especially the playwright typing up this blog post.
 
-The reading was incredible, my director, [Lauren Murphy Yeoman](https://roadtheatre.org/member/yeoman-lauren-murphy/), made such smart choices with the staging aspect, which gave the audience a taste at the physicality of the play without sacrificing the language, because after all, the actors were still all on book. And my actors! Oh, the actors were nuanced and complex, and I just want to put them all in my pocket for future projects. [Monique Gelineau](https://www.moniquemariegelineau.com/) played Lucy, quite a challenging role, *especially* with only 2 or 3 rehearsals, [Chase Cargill](https://www.chasecargill.com/) played Jared, [Ben Theobold](https://roadtheatre.org/member/theobald-ben/) played Bradley, and we had [Christine Joelle](http://resumes.actorsaccess.com/christinejoelle) read my stage directions.
+The reading was incredible, my director, [Lauren Murphy Yeoman](https://roadtheatre.org/member/yeoman-lauren-murphy/), made such smart choices with the staging aspect, which gave the audience a taste at the physicality of the play without sacrificing the language, because after all, the actors were still all on book. And my actors! Oh, the actors were nuanced and complex, and I just want to put them all in my pocket for future projects. [Monique Gelineau](https://www.moniquemariegelineau.com/) played Lucy, quite a challenging role, *especially* with only 2 or 3 rehearsals, [Chase Cargill](https://www.chasecargill.com/) played Jared, [Ben Theobald](https://roadtheatre.org/member/theobald-ben/) played Bradley, and we had [Christine Joelle](http://resumes.actorsaccess.com/christinejoelle) read my stage directions.
 
 After a great performance we opened up to the audience for a talk-back, lead by The Road Theatre's [Ann Hearn Tobolowsky](https://roadtheatre.org/member/hearn-ann/). It's so gratifying to sit in a talk back and hear how much an audience was grabbed by your work, and that's just what happened last night. We had a really thoughtful conversation about the subjects in the play, one that felt like it could have gone on all night.
 
@@ -20,7 +20,7 @@ Also thank you [Stephanie Alison Walker](https://newplayexchange.org/users/281/s
 
 And a huge thank you to [Jennie Webb](https://newplayexchange.org/users/2457/jennie-webb), a powerhouse dramaturg and playwright. Jennie is a resident at [Theatre Botanicum](https://theatricum.com/), and co-founded the [Los Angeles Female Playwrights Initiative](https://twitter.com/TheLAFPI). She *also* has a play in the festival, [*INTO THE GOBPILE*](https://roadtheatre.org/intothegobpile/) (Saturday at 8pm!), which I would also love for everyone to go and see for me.
 
-Meeting all three of them face to face, and getting to chat with them in a non-electronic manner totally made my night. 
+Meeting all three of them face to face, and getting to chat with them in a non-electronic manner totally made my night.
 
 Thank you to everyone at The Road Theatre Company for selecting my work for this festival, it has been an amazing experience! Crossing my fingers I get to work with them again, because they are the whole package for sure.
 
