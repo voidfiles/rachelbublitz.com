@@ -12,7 +12,7 @@ I wanted it to be not romantic. I wanted it to center on two women, friends. I w
 
 So my brain kept cranking away.
 
-Then abortion laws started to change overnight. Which shined a light on a ton of already in place law that had already been limiting choices for people with uteruses. And all of that was getting me pretty pissed off. I wanted to write about that. About what that was going to mean if these laws started to snow ball and start limiting things on a national level. And then I put the two together.... A two-hander comedy about abortion.
+Then abortion laws started to change overnight. Which shined a light on a ton of already in place law that had already been limiting choices for people with uteri. And all of that was getting me pretty pissed off. I wanted to write about that. About what that was going to mean if these laws started to snow ball and start limiting things on a national level. And then I put the two together.... A two-hander comedy about abortion.
 
 I get what you're going to say, a comedy about abortion is going to be a tough sell and completely erase all the benefit of writing a comedic two-hander to begin with. To that I say, probably. But also, I can write that play another time. I had to write this play. I had to write this play now.
 
