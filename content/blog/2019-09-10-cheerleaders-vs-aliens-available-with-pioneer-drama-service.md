@@ -18,6 +18,6 @@ Thank you Pioneer Drama Service for saying yes, and taking on this title! And to
 
 And now, dear readers, I want to thank you too! Thank you in advance for buying my play! So....... GO PURCHASE YOURSELF YOUR VERY OWN COPY! And tell all the drama teachers in your life about this spunky, silly, sci-fi play!
 
-[Click here for the order link](https://www.pioneerdrama.com/SearchDetail.asp?PC=CHEERLEADE&src=def)! Happy Monday, everyone!
+[Click here for the order link](https://www.pioneerdrama.com/SearchDetail.asp?PC=CHEERLEADE&src=def)! 
 
 ![Picture of *CHEERLEADERS VS. ALIENS* cover art.](/images/Cheerleaders_vs_Aliens_publishing_image_2.jpeg)
