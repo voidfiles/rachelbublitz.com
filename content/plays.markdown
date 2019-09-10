@@ -24,11 +24,11 @@ Cast of 3; 1 f, 2 m. Approximate runtime of eighty minutes.
 
 *Let’s Fix Andy* deals with male body images, friendship, and growing into being an adult. Andy’s best friends, Logan, Marcus, and George decide it’s time they step in after he’s been dumped by his long time girlfriend Megan, to snap him out of his funk. All three of them have different ideas of what Andy actually needs, and so Andy is dragged to the gym, the bar, and a cabin in the woods before things come to a head and he declares that he doesn’t need fixing. By the end of the play, with all four playing video games in Andy’s safe place, his couch, they realize that there’s no fixing anyone, and all any of us can really ask for is friendship that is focused on acceptance for who we are.
 
-*Let'S Fix Andy* is a finalist for [Playwrights Foundation](http://playwrightsfoundation.org/)'s 2018 Bay Area Playwrights Festival, and had a reading with the 2017 [Wyoming Theater Festival](http://www.whitneyarts.org/about-us/2017-festival-lineup/).
+*Let's Fix Andy* is a finalist for [Playwrights Foundation](http://playwrightsfoundation.org/)'s 2018 Bay Area Playwrights Festival, and had a reading with the 2017 [Wyoming Theater Festival](http://www.whitneyarts.org/about-us/2017-festival-lineup/).
 
 Cast of 4; 4 m. Approximate runtime of ninety minutes.
 
-### [*Cheerleaders VS. Aliens*](https://newplayexchange.org/plays/119869/cheerleaders-vs-aliens)
+### [*Cheerleaders VS. Aliens*](https://www.pioneerdrama.com/SearchDetail.asp?PC=CHEERLEADE&src=def)
 
 When aliens invade a small town and abduct the high school football team to steal their brain jelly, no one steps up to save them. Not any parents, not the principal, not the police, not the fire department, not the governor, not even the marines. Thankfully there’s one last group no one ever thought of as heroic, and they’re ready and able to kick some alien butt. That’s right, the cheerleaders. Lead by science-fiction enthusiast and self proclaimed mega nerd Gilda, the Greenville High School Cheerleading Squad uses rhymes, cartwheels, glitter, and a fun-ton of tin foil to save the day.
 
@@ -36,11 +36,13 @@ When aliens invade a small town and abduct the high school football team to stea
 
 ![Promotional photo for the Egyptian Youtheatre production of *CHEERLEADERS VS. ALIENS*, photo by Amy Livingston.](/images/cheerleaders_gilda_fight_stage.jpg) (Promotional photo from the Egyptian Youtheatre production. Time to kick some alien butt! On the left: Lindsay Miller (Leslie), Lily Malin (Maya), and Amanda Green (Gilda). On the right: Caroline Waldmann (Ali), Chelsea Cowley (Carol), and Katherine Ward (Margaret). Aliens: JT O’Reilly (Sirius), Anna Diamond (Gamma), and Mallory Kosiba (Canopus).)
 
+*Cheerleaders VS. Aliens* is available to purchase and license through [Pioneer Drama Service](https://www.pioneerdrama.com/SearchDetail.asp?PC=CHEERLEADE&src=def). 
+
 ### [*Of Serpents & Sea Spray*](https://newplayexchange.org/plays/19156/serpents-sea-spray)
 
 *Of Serpents & Sea Spray*, commissioned by Custom Made Theatre Co., tells the story of an orphan named Iro who is the subject of ridicule by other children and punishment by uncaring foster parents. During one of her many tours through solitary confinement in the closet, Iro’s imagination brings the her with a mission: find Pegasus. On her quest, taking with her only books and her imaginary friend Annika, Iro hides herself on an ocean liner, joins a circus, and has many other adventures… and along the way finds the truth about the death of her parents.
 
-*Of Serpents & Sea Spray* was commissioned by [Custom Made Theatre Co.](http://www.custommade.org/) and had a world premiere production directed by Ariel Craft in their 2015/16 season. 
+*Of Serpents & Sea Spray* was commissioned by [Custom Made Theatre Co.](http://www.custommade.org/) and had a world premiere production directed by Ariel Craft in their 2015/16 season.
 
 ![Production photo for *OF SERPENTS & SEA SPRAY* at Custom Made Theatre.](/images/athena.jpg) Maria Giere Marquis (Athena) and María Leigh (Iro), photo by Jay Yamada.
 
@@ -54,7 +56,7 @@ Reviews from the Custom Made Theatre Co. production:
 
 *Of Serpents & Sea Spray* was also produced with [This Is Water Theatre](http://thisiswatertheatre.com/20162017-season)'s 2016/17 season, directed by This Is Water Theatre's Artistic Director, Andrew Roblyer.
 
-![Production photo for *OF SERPENTS & SEA SPRAY* at This Is Water Theatre.](/images/ThisIsWaterPosterSerpents.jpg) 
+![Production photo for *OF SERPENTS & SEA SPRAY* at This Is Water Theatre.](/images/ThisIsWaterPosterSerpents.jpg)
 
 Cast of 6 with doubling; 3 f, 3 m. Approximate runtime of ninety minutes.
 
@@ -84,7 +86,7 @@ Luke, an almost thirty year old assistant manager at Target, has put together a 
 
 *Break Room*, was commissioned by the San Francisco Olympians Festival and read at the EXIT Theatre in November of 2015.
 
-Cast of 2; 1 f, 1 m. Approximate runtime of 35 minutes. 
+Cast of 2; 1 f, 1 m. Approximate runtime of 35 minutes.
 
 ### [*Toxic*](https://newplayexchange.org/plays/123895/toxic)
 
@@ -128,7 +130,7 @@ Cast of 3; 2 f, 1 m.
 
 A play on "A Christmas Carol", *Mom's Ham* follows a woman’s desperate attempt to make a perfect Christmas feast in honor of her mother’s recent passing.
 
-*Mom's Ham* was read at Berkeley Rep with Monday Night PlayGround and was a finalist for Best of PlayGround 18. In addition, *Mom's Ham*, was a national semi-finalist for the Kennedy Center American College Theater Festival Conference. 
+*Mom's Ham* was read at Berkeley Rep with Monday Night PlayGround and was a finalist for Best of PlayGround 18. In addition, *Mom's Ham*, was a national semi-finalist for the Kennedy Center American College Theater Festival Conference.
 
 Cast of 6-7, 3-4 f, 3 m.
 
@@ -175,6 +177,6 @@ Jane and Sandy get more than they bargained for when they break into Santa's wor
 
 Cast of 8; 3 f, 1 m, 4 gender neutral.
 
------ 
+-----
 
 Not all plays listed, for a more comprehensive list, [please visit my page on the New Play Exchange](https://newplayexchange.org/users/275/rachel-bublitz).
