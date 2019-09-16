@@ -8,4 +8,6 @@ Hoo-boy do I have a week ahead of me! [*RIPPED*](https://newplayexchange.org/pla
 
 Crossing my fingers I can get all this done so that next week I can jump head-first into a mountain of submissions. Because, after all, submission season is upon us!
 
+AND, and, and, after all of that, and submissions, I have another brand new full-length play to write, which I will be spilling the beans on soon.
+
 Okay! Time to get it done.
