@@ -1,5 +1,5 @@
 ---
-title: "September New Play Exchange Recommendations"
+title: "September New Play Exchange Recommendation"
 date: 2019-10-01T07:47:38-06:00
 layout: post
 ---
