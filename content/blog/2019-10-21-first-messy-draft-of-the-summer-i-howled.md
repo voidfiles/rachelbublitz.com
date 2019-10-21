@@ -14,7 +14,7 @@ For now, here's a very early blurb/synopsis about the play:
 
 *THE SUMMER I HOWLED* will be posted on [New Play Exchange](https://newplayexchange.org/users/275/rachel-bublitz) after I've made another pass through the script and fixed some of the problems.
 
-Also! Mark your calendars! *THE SUMMER I HOWLED* will premiere in October, 2020, directed by Jamie Wilcox! We'll also have a week long workshop if the play in the summer of 2020.
+Also! Mark your calendars! *THE SUMMER I HOWLED* will premiere in October, 2020, directed by Jamie Wilcox at the Egyptian YouTheatre! We'll also have a week long workshop if the play in the summer of 2020.
 
 Stay tuned for more updates and exciting announcements as we move closer.
 
