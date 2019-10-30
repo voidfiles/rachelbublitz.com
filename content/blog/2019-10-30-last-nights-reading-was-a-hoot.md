@@ -1,5 +1,5 @@
 ---
-title: "2019 10 30 Last Nights Reading Was a Hoot"
+title: "Last Nights Reading Was a Hoot"
 date: 2019-10-30T12:11:59-06:00
 layout: post
 ---
@@ -10,4 +10,4 @@ Another highlight was having my daughter with me, as a reader. She was assigned 
 
 Weeeeeeeee.... Can't wait to dive into rewrites. Rewrites are the best. They are, and don't tell anyone I said this, so so so much better than first drafts.
 
-Halloween 2020, I am coming for you! 
+Halloween 2020, I am coming for you!
