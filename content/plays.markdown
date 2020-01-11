@@ -1,181 +1,132 @@
 ---
-title: "Plays and Productions"
+title: "Plays"
 ---
 
 ## Script Requests
 
 To request any of the scripts listed below send an email to: [Rnbublitz@gmail.com](mailto:rnbublitz@gmail.com)
 
-Please have "script request" in the subject line of the email. In the body include which play or plays you are interested in and the theater or school requesting the script. You can also find samples of some of my scripts on the [National New Play Network](https://newplayexchange.org/users/275/rachel-bublitz). Thank you.
+Please have "script request" in the subject line of the email. In the body include which play or plays you are interested in and the theater or school requesting the script.
 
-## Full Length Plays
+Find a more complete list of my work on the [New Play Exchange](https://newplayexchange.org/users/275/rachel-bublitz). Thank you.
 
-### [*Ripped*](https://newplayexchange.org/plays/70552/ripped)
+---
 
-Lucy, a freshman in college, is torn between her excitement about the new people in her life and having to leave her old life and loves behind. As she struggles to find a balance between the new and the old, a sexual encounter leaves her confused and concerned that she may have been a victim of rape. The play moves back and forth through time and space as Lucy tries to piece together the unraveling interactions between herself and the two young men she’s torn between, illuminating the events behind her uncertainty and sparking questions regarding consent.
+## [*Ripped*](https://newplayexchange.org/plays/70552/ripped)
 
-*Ripped* is a finalist for the 2018 [Detroit New Work Festival](http://www.outvisibletheatre.com/playwriting-opportunities/newworks/), and will have a reading in Detroit in April of 2018. *Ripped* is also scheduled to have a reading with [Bristol Valley Theatre](http://bvtnaples.org/) in June of 2018.
+![Theatre Bay Area recommended image for RIPPED](/images/TBA_rec_Ripped_2019.jpg)  
+*Krystle Piamonte (Lucy) and Edwin Jacobs (Bradley). Photo by Lorenzo Fernandez-Kopec.*
 
-*Ripped* was a finalist for the 2017 Excellence in Playwriting Award from the Association for Theatre in Higher Education. *RIPPED* has also had readings with the [Wyoming Theater Festival](http://www.whitneyarts.org/about-us/2017-festival-lineup/), [San Francisco Playhouse](https://www.sfplayhouse.org/sfph/), and [Salt Lake Acting Company](http://www.saltlakeactingcompany.org/).
+Lucy goes to college. Lucy brings mace. No need for Lucy to actually use it, right? But something happened that wasn’t supposed to happen. Or did it? Oh well, Lucy must be having that quintessential college experience: drinking, boys, and being completely decimated by the people she trusts.
 
 Cast of 3; 1 f, 2 m. Approximate runtime of eighty minutes.
 
-### [*Let's Fix Andy*](https://newplayexchange.org/plays/119863/lets-fix-andy)
+>“The genius of “Ripped” is that of all the plays I saw this year, this one kept me questioning my own reactions to it, even six months later. This play—which had a notable reading at Z Space’s 2018 inaugural Problematic Play Festival—invited debate with its daring excavation of the “gray” areas of intent, consent and reliable witness, directed in a taut, compelling production by Lisa Steindler.”  
+>[The Best Bay Area Theater of 2019 by Nicole Gluckstern on KQED Arts](https://www.kqed.org/arts/13872051/the-best-bay-area-theater-of-2019%E2%80%AC?fbclid=IwAR0NL4jJppfCvh1XZjR3-PnI1ofKeldD5cspZTK4aihybiTkLNg_H7YXNkI)
 
-*Let’s Fix Andy* deals with male body images, friendship, and growing into being an adult. Andy’s best friends, Logan, Marcus, and George decide it’s time they step in after he’s been dumped by his long time girlfriend Megan, to snap him out of his funk. All three of them have different ideas of what Andy actually needs, and so Andy is dragged to the gym, the bar, and a cabin in the woods before things come to a head and he declares that he doesn’t need fixing. By the end of the play, with all four playing video games in Andy’s safe place, his couch, they realize that there’s no fixing anyone, and all any of us can really ask for is friendship that is focused on acceptance for who we are.
+## [*Burst*](https://newplayexchange.org/plays/138560/burst)
 
-*Let's Fix Andy* is a finalist for [Playwrights Foundation](http://playwrightsfoundation.org/)'s 2018 Bay Area Playwrights Festival, and had a reading with the 2017 [Wyoming Theater Festival](http://www.whitneyarts.org/about-us/2017-festival-lineup/).
+Sarah Boyd is an extraordinary human being. Not only did she build her company from scratch using nothing but willpower and fortitude, she also sits on the precipice of truly saving this planet. Because on top of being one of the fastest growing tech companies in history, Tactix, with Sarah at its helm, will usher this planet into the post-plastic era. A time where we need not worry or fret over the great destruction being done to our world from this non-biodegradable foe. With her eyes steady on her next round of funding, Sarah must persevere through a late night interview with a particularly tough reporter, a lawsuit aimed at a person from her past, and the waffling of her CTO. It's a heavy load, and Sarah knows that she is the only one great enough to bear it.
 
-Cast of 4; 4 m. Approximate runtime of ninety minutes.
+Cast of 3; 3 f. Approximate runtime of 85 minutes.
 
-### [*Cheerleaders VS. Aliens*](https://www.pioneerdrama.com/SearchDetail.asp?PC=CHEERLEADE&src=def)
+## [*The Night Witches*](https://newplayexchange.org/plays/278583/night-witches)
 
-When aliens invade a small town and abduct the high school football team to steal their brain jelly, no one steps up to save them. Not any parents, not the principal, not the police, not the fire department, not the governor, not even the marines. Thankfully there’s one last group no one ever thought of as heroic, and they’re ready and able to kick some alien butt. That’s right, the cheerleaders. Lead by science-fiction enthusiast and self proclaimed mega nerd Gilda, the Greenville High School Cheerleading Squad uses rhymes, cartwheels, glitter, and a fun-ton of tin foil to save the day.
+![Post card for THE NIGHT WITCHES.](/images/NIGHT_WITCHES_2019_Fringe.jpeg)
 
-*Cheerleaders VS. Aliens* was commissioned by the [Egyptian Youtheatre](https://www.egyptiantheatrecompany.org/youtheatre) and is having a world premiere production in May of 2018.
+The first women to fly in combat flew for Russia during the second world war, they were known as the Night Witches. They flew in planes made of canvas and wood, and dropped their bombs on their German enemy every fifteen minutes during the night to keep them from sleeping. Using movement, song, and lyrically styled dialogue we follow these brave women through one evening during the war.
 
-![Promotional photo for the Egyptian Youtheatre production of *CHEERLEADERS VS. ALIENS*, photo by Amy Livingston.](/images/cheerleaders_gilda_fight_stage.jpg) (Promotional photo from the Egyptian Youtheatre production. Time to kick some alien butt! On the left: Lindsay Miller (Leslie), Lily Malin (Maya), and Amanda Green (Gilda). On the right: Caroline Waldmann (Ali), Chelsea Cowley (Carol), and Katherine Ward (Margaret). Aliens: JT O’Reilly (Sirius), Anna Diamond (Gamma), and Mallory Kosiba (Canopus).)
+>"The production by Park City’s Egyptian YouTheater is spellbinding and haunting, pushing the boundaries of what a youth theater production can achieve. The nine young actresses captured the hearts of theatergoers."  
+>[Julie Hirschi for the Salt Lake Tribune](https://www.sltrib.com/artsliving/2019/08/09/great-salt-lake-fringe/)
 
-*Cheerleaders VS. Aliens* is available to purchase and license through [Pioneer Drama Service](https://www.pioneerdrama.com/SearchDetail.asp?PC=CHEERLEADE&src=def). 
+Three lengths available:  
+Cast of 9+; 9+ f. Approximate runtime of 35 minutes.  
+Cast of 9+; 9+ f. Approximate runtime of 60 minutes.  
+Cast of 11+; 11+ f. Approximate runtime of 80 minutes.
 
-### [*Of Serpents & Sea Spray*](https://newplayexchange.org/plays/19156/serpents-sea-spray)
+## [*Cheerleaders VS. Aliens*](https://www.pioneerdrama.com/SearchDetail.asp?PC=CHEERLEADE&src=def)
 
-*Of Serpents & Sea Spray*, commissioned by Custom Made Theatre Co., tells the story of an orphan named Iro who is the subject of ridicule by other children and punishment by uncaring foster parents. During one of her many tours through solitary confinement in the closet, Iro’s imagination brings the her with a mission: find Pegasus. On her quest, taking with her only books and her imaginary friend Annika, Iro hides herself on an ocean liner, joins a circus, and has many other adventures… and along the way finds the truth about the death of her parents.
+![Image of published script.](/images/Cheerleaders_vs_Aliens_publishing_image_2.jpeg)
 
-*Of Serpents & Sea Spray* was commissioned by [Custom Made Theatre Co.](http://www.custommade.org/) and had a world premiere production directed by Ariel Craft in their 2015/16 season.
+When aliens invade a small town and abduct the Greenville High School football team in order steal their “brain jelly,” it’s up to some cheerleaders, their soccer star friend, a self-proclaimed sci-fi nerd, and “the new girl” to save the hapless boys — and the very world as we know it!
 
-![Production photo for *OF SERPENTS & SEA SPRAY* at Custom Made Theatre.](/images/athena.jpg) Maria Giere Marquis (Athena) and María Leigh (Iro), photo by Jay Yamada.
+Flexible cast of 20; 10 f, 4 m, and 6 not specified. Approximate runtime of 90 minutes.
 
-![Production photo for *OF SERPENTS & SEA SPRAY* at Custom Made Theatre.](/images/circus.jpg) Andrew Calabrese (Pere) and Sabrina De Mio (Mere), photo by Jay Yamada.
+*Cheerleaders VS. Aliens* is available to purchase and license through [Pioneer Drama Service](https://www.pioneerdrama.com/SearchDetail.asp?PC=CHEERLEADE&src=def).
 
-Reviews from the Custom Made Theatre Co. production:
-
->"OF SERPENTS AND SEA SPRAY is a fast moving funny play that has a touching close, and life discovery that stretches to the stars. It is a perfect way to open your 2016 theatre season." Full article: [A RIDE ON PEGASUS IS MORE THAN ADVENTURE, IT IS ALSO SERPENTS AND SEA SPRAY by Vince Mediaa](http://www.vmediabackstage.com/#!A-RIDE-ON-PEGASUS-IS-MORE-THAN-ADVENTURE-IT-IS-ALSO-SERPENTS-AND-SEA-SPRAY/c112t/56976cf50cf20ee37c743801).
-
->"In this world premiere, Bublitz has given us a fascinating look at how a young girl deals with unspeakable events. The funny, yet heart-wrenching story, includes one of the sweetest endings I've seen in some time." Full article: [Curtain Calls by Sally Hogarty: Last call for Shellie tickets by Sally Hogarty](http://www.eastbaytimes.com/lafayette/ci_29385541/curtain-calls-by-sally-hogarty-last-call-shellie)
-
-*Of Serpents & Sea Spray* was also produced with [This Is Water Theatre](http://thisiswatertheatre.com/20162017-season)'s 2016/17 season, directed by This Is Water Theatre's Artistic Director, Andrew Roblyer.
-
-![Production photo for *OF SERPENTS & SEA SPRAY* at This Is Water Theatre.](/images/ThisIsWaterPosterSerpents.jpg)
-
-Cast of 6 with doubling; 3 f, 3 m. Approximate runtime of ninety minutes.
-
-### [*Once A Spy*](https://newplayexchange.org/plays/48794/once-spy)
+## [*Once A Spy*](https://newplayexchange.org/plays/48794/once-spy)
 
 A full length play commissioned by [DIVAfest](http://www.divafest.info)'s staged reading festival, [Loud & Unladylike](http://www.loudandunladylike.com), inspired by the life of WWII spy Nancy Wake.
 
 *Once A Spy* concentrates on 12 scenes of Nancy's life that occurred during, before, or after the war, showing the transformation of someone who happens to live through times of chaos, and the price that fighting for freedom cost Nancy.
 
-*Once A Spy* had two staged readings with the Loud & Unladylike Festival, one in June of 2015, the other in July of 2015, both took place in San Francisco. *Once A Spy* was also read in [20% Theatre Company Chicago](https://www.twentypercentchicago.com/)'s DarkRoom Series in March of 2018.
-
 Cast of 6 with doubling; 3 f, 3 m. Approximate runtime of ninety minutes.
 
-### [*Mommy Dances With The Devil*](https://newplayexchange.org/plays/145102/mommy-dances-devil)
+## [*Mommy Dances With The Devil*](https://newplayexchange.org/plays/145102/mommy-dances-devil)
 
 After moving across the country, Laurel, the mother of a young child, is desperate to make a friend beyond her cheerio-throwing, Barney-obsessed baby and her over-worked, rarely-home husband, which leads her to jump for a spot in a mommy group with a mysterious reputation. Laurel is cemented in the group before she learns of their devious agenda and is forced to either shut up and join suit, or burn their coven to the ground.
 
-*Mommy Dances With The Devil* was commissioned by [PlayGround](playground-sf.org) in 2015, a part of the [June Anne Baker Prize](http://www.playground-sf.org/commissioning.shtml).
-
 Cast of 5; 5 f. Approximate runtime of ninety minutes.
 
-## One Act Length Plays
+*Mommy Dances With The Devil* was commissioned by [PlayGround](playground-sf.org), a part of the [June Anne Baker Prize](http://www.playground-sf.org/commissioning.shtml).
 
-### [*Break Room*](https://newplayexchange.org/plays/45988/break-room)
+## [*No Talking Allowed!*](https://www.youthplays.com/play/no-talking-allowed-by-rachel-bublitz-505)
 
-Luke, an almost thirty year old assistant manager at Target, has put together a celebration for his co-worker and girlfriend, Chloe, who happens to still be in high school. Unfortunately, what’s good news for Luke devastates Chloe, and she lashes out with the only weapon she has until a new balance can be reached between them. Break Room is one continuous scene with two characters.
+![Image of published script.](/images/no_talking_allowed.jpg)
 
-*Break Room*, was commissioned by the San Francisco Olympians Festival and read at the EXIT Theatre in November of 2015.
+Jordan gets kicked out of class for talking. But a zero on the test may be the least of Jordan’s problems when a pencil starts to talk—and then a locker and a mop and a slew of other inanimate objects. Maybe Jordan’s going crazy, but Jordan’s not the only one, as soon a hall monitor, the custodian, a teacher and the principal join in as they try to get to the bottom of all the yammering in this comedy inspired by an African folk tale.
 
-Cast of 2; 1 f, 1 m. Approximate runtime of 35 minutes.
+Cast of 6-12 of any gender. Approximate runtime of 10-15 minutes.
 
-### [*Toxic*](https://newplayexchange.org/plays/123895/toxic)
+*No Talking Allowed!* is available for purchase and/or licensing through [YouthPLAYS](https://www.youthplays.com/play/no-talking-allowed-by-rachel-bublitz-505).
 
-Football is life, and boys are men in this twenty minute one act about gender roles. Chris is having a day the worst day of his young life, he’s been dumped by his girlfriend, and is possibly kicked off the football team, when he accidentally hits a raccoon. When he discovers the animal is dead everything proves too much and Chris falls to pieces, which prompts Brandon, his best friend and most true worshiper, to follow suit. Because if the star of your life isn’t a star, what does that make you? Toxic is a fast ride about status, masculinity, and how people are and are not allowed to behave.
+## [*The Elves*](https://www.youthplays.com/play/the-elves-by-rachel-bublitz-526&ref=search.php%3Fquicksearchbox%3Dthe%2Belves)
 
-Cast of 2; 2 m. Approximate runtime of 20 minutes.
+![Image of published script.](/images/elves.jpg)
 
-### *Clever Catherine*, a play for young audiences
+Sandy and Dennis have the perfect plan: crash the “pre-ride” festivities on Christmas Eve at Santa’s Workshop…and make off with more toys than they can dream of. But Santa’s elves have other ideas. Can Sandy and Dennis escape the clutches of these rhyming terrors, or will the two toy-hungry kids find themselves on the post-ride menu…?
 
-Farmer comes across a beautiful golden mortar and decides to present it to the King as a gift, despite his daughter Catherine’s warnings that the King will ask for a golden pestle to match. When the King learns of Catherine's uncanny predictions, it launches a series of riddles going back and forth between the two of them culminating in a royal marriage proposal for the clever girl. But if you marry a clever girl, you get a clever queen, and Catherine cannot help but meddle in the affairs of state. Now Catherine must use all her wits to save her marriage and prove to the King that he needs her to help him run the kingdom.
+Cast of 8; 2 f, 2 m, 4 not specified. Approximate runtime of 10 minutes.
 
-You can license *Clever Catherine* through [YouthPLAYS](http://youthplays.com/play_details.php?play_id=330), OR [purchase the script here](http://smile.amazon.com/Clever-Catherine-Rachel-Bublitz/dp/1620883139/ref=sr_1_fkmr0_1?ie=UTF8&qid=1444837017&sr=8-1-fkmr0&keywords=cleaver+catherine+bublitz).
+*The Elves* is available for purchase and/or licensing through [YouthPLAYS](https://www.youthplays.com/play/the-elves-by-rachel-bublitz-526&ref=search.php%3Fquicksearchbox%3Dthe%2Belves).
+
+## [*Clever Catherine*](http://youthplays.com/play_details.php?play_id=330)
+
+![Image of published script.](/images/clever_catherine.jpg)
+
+When a farmer comes across a beautiful golden mortar and decides to present it to the King as a gift, despite his daughter Catherine’s warnings that the King will ask for a golden pestle to match. When the King learns of Catherine's uncanny predictions, it launches a series of riddles going back and forth between the two of them culminating in a royal marriage proposal for the clever girl. But if you marry a clever girl, you get a clever queen, and Catherine cannot help but meddle in the affairs of state. Now Catherine must use all her wits to save her marriage and prove to the King that he needs her to help him run the kingdom.
 
 Cast of 5-7, 1 f, 2 m, 2-4 gender neutral. Approximate runtime of thirty minutes.
 
-### [*Much Ado About Mathletes*](https://newplayexchange.org/plays/2547/much-ado-about-mathletes), a play for high school or middle school students
+*Clever Catherine* is available for purchase and/or licensing through [YouthPLAYS](http://youthplays.com/play_details.php?play_id=330).
+
+## [*Much Ado About Mathletes*](https://www.histage.com/much-ado-about-mathletes)
+
+![Image of published script.](/images/much_ado_about.jpeg)
 
 Mr. Roberts tries to put a boy on an all-girl mathletes team, and he is met with opposition causing the team to think about exclusion and growing up.
 
-*Much Ado About Mathletes* was being produced through San Francisco State University, and again with Redwood Day School.
-
 Cast of 8; 6 f, 2 m. Approximate runtime of thirty minutes.
 
-## Ten Minute Plays
+*Much Ado About Mathletes* is available for purchase and/or licensing through [Eldridge Plays & Musicals](https://www.histage.com/much-ado-about-mathletes).
 
-### [*Really Adult*](https://newplayexchange.org/plays/116343/really-adult)
+## [*Let's Fix Andy*](https://newplayexchange.org/plays/119863/lets-fix-andy)
 
-Julie would love to have a great first day working the Customer Service desk at Target, but maybe not as much as flirting with Frank, the employee assigned to train her. As the two discuss a possible date their personal lives become more and more clear, which leads to awkward territory.
+Andy’s best friends, Logan, Marcus, and George decide it’s time they step in after he’s been dumped by his long time girlfriend Megan, to snap him out of his funk. All three of them have different ideas of what Andy actually needs, and so Andy is dragged to the gym, the bar, and a cabin in the woods before things come to a head and he declares that he doesn’t need fixing. By the end of the play, with all four playing video games in Andy’s safe place, his couch, they realize that there’s no fixing anyone, and all any of us can really ask for is friendship that is focused on acceptance for who we are.
 
-*Really Adult* was an [Actors Theatre of Louisville](https://actorstheatre.org/) 2017 Heideman Finalist.
+Cast of 4; 4 m. Approximate runtime of 90 minutes.
 
-### *Reading Babar in 2070*
+## [*Funny, Like An Abortion*](https://newplayexchange.org/plays/450187/funny-abortion)
 
-In the slightly distant future, a little girl discovers the high price of unchecked human development and story time will never be the same.
+Monroe finds herself knocked up, and since abortions are illegal in the United States, she throws a surprise abortion party with her best friend Jade. Monroe prepares over twenty at home abortion options for them to sort through, neither will walk away until they select the best of all of these terrible options. But that's not all! Come on down for juggling, a tap dancing number, and a horrific view at what our future may hold. A comedic two-hander in one scene.
 
-*Reading Babar in 2070* was produced in Best of [PlayGround](http://playground-sf.org/index.php) 19 and was published in the Best of PlayGround 19 anthology.
+Cast of 2; 2 f. Approximate runtime of 80 minutes.
 
-Cast of 3; 2 f, 1 m.
+## [*Red Days*](https://newplayexchange.org/plays/232234/red-days)
 
-### [*Mom's Ham*](https://newplayexchange.org/plays/62099/moms-ham)
+As the air quality in Salt Lake climbs to crisis levels, we follow Dianna through four seasons, trying to balance school, her running team, and pursuing her passion. But as she nears the end of her senior year, she's forced to decide if her running dream truly belongs to her, or if it's more her mother's, while around her the serious effects of the air quality wreak havoc on those athletes who dare breath hard in the open air.
 
-A play on "A Christmas Carol", *Mom's Ham* follows a woman’s desperate attempt to make a perfect Christmas feast in honor of her mother’s recent passing.
-
-*Mom's Ham* was read at Berkeley Rep with Monday Night PlayGround and was a finalist for Best of PlayGround 18. In addition, *Mom's Ham*, was a national semi-finalist for the Kennedy Center American College Theater Festival Conference.
-
-Cast of 6-7, 3-4 f, 3 m.
-
-### [*Lean In With Liz!*](https://newplayexchange.org/plays/62085/lean-liz)
-
-A new mom fights with her 13 year-old self about going back to work or staying home longer with the new baby.
-
-*Lean In With Liz!* was read at Berkeley Rep and Shotgun's Ashby Stage, for Monday Night PlayGround and an encore reading for SWAN Day.
-
-*Lean In With Liz!* was a national semi-finalist for the Kennedy Center's Gary Garrison 10 Minute Play Competition and was read in Denver of 2016 at the regional conference.
-
-*Lean In With Liz!* has been produced with Cutler Bay Community Theater, Lewis-Clark State College, Greenbrier Valley Theatre, and Artistic Vibes.
-
-Cast of 3; 3 f.
-
-### [*My Body*](https://newplayexchange.org/plays/2541/my-body)
-
-In a world in which men are trusted to make decisions about what they can and cannot do with their own bodies, the women hold all of the cards.
-
-"*My Body* is clever, skillfully written, and one of the most effective gender-reversal analogies of the reproductive rights issue that we've ever encountered."
-[The Disreputables](http://www.disreputables.org/index.html)
-
-*My Body* received bicoastal staged readings, read in both [Playwright's Center of San Francisco](http://playwrightscentersf.org/)'s benefit for Planned Parenthood, Repro Rights! as well as [The Disreputables](http://www.disreputables.org/index.html) two evening event SLUT! Both of these readings took place in October, 2012.
-
-*My Body* was produced for the 2013 [sUBVERSIVE sHORTS](http://www.subversivetheatre.org/) Showcase.
-
-*My Body* was published in the 2013 [Smith and Kraus](http://www.smithandkraus.com/htdocs/index.php) ten-minute play anthology. [You can purchase the anthology here](http://www.amazon.com/Best-Ten-Minute-Plays-2014-Minute/dp/1575258862).
-
-Cast of 3; 2 f, 1 m.
-
-### *Composition*, a ten-minute musical
-
-Inspired by and using the song "Compose" from [Misner & Smith](http://misnerandsmith.com/), Nora navigates getting into an ivy-league college while trying to protect her younger from their alcoholic mother.
-
-*Composition* was read at Berkeley Rep with Monday Night PlayGround in November of 2016.
-
-Cast of 5-6; 4-5 f, 1 m.
-
-### [*The Elves*](https://newplayexchange.org/plays/131721/elves)
-
-Jane and Sandy get more than they bargained for when they break into Santa's workshop in order to steal Christmas. Warning: this play contains rhyming and children-eating elves.
-
-*The Elves* was produced by PianoFight for their 2016 theater competition ShortLived.
-
-Cast of 8; 3 f, 1 m, 4 gender neutral.
+Cast of 4; 3 f, 1 m. Approximate runtime of 90 minutes.
 
 -----
 
