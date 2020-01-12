@@ -1,31 +1,22 @@
 {{ partial "header.html" . }}
-<div class="mw7 center">
+<div class="mw7 ph2 center">
     {{ .Content }}
 </div>
-{{ range where .Data.Pages "Params.length" "full" }}
-<section class="mw7 center">
-    <h2 class="serif fw1 ph3 ph0-l"><a href="{{ .Params.Link }}">{{ .Params.Title }}</a></h2>
-    <article class="bt bb b--black-10">
-      <div class="flex flex-column flex-row-ns">
-        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <img src="{{ .Params.image }}" class="db" alt="{{ .Params.image_title }}">
-          <p class="ml0 gray">{{ .Params.image_description }}</p>
-          <dl class="lh-title mt0">
-            <dd class="f6 b ml0">Cast</dd>
-            <dd class="ml0">{{ .Params.cast }}</dd>
 
-            <dd class="f6 b ml0">Runtime</dd>
-            <dd class="ml0">{{ .Params.runtime }}</dd>
-          </dl>
-        </div>
-        <div class="w-100 w-60-ns pl3-ns">
-          <div class="f5 f4-m f3-l measure lh-copy">
-            {{ .Content }}
-          </div>
-        </div>
-      </div>
-    </article>
-</section>
+<div class="mw7 ph2 mv5 center" id="full-length">
+  <h2 class="f2 serif">Full Length</h2>
+</div>
+
+{{ range sort (where .Data.Pages "Params.length" "full") "Params.order" }}
+  {{ partial "detailed_play.html" . }}
+{{ end }}
+
+<div class="mw7 ph2 mv5 center" id="shorts">
+  <h2 class="f2 serif" >Shorts</h2>
+</div>
+
+{{ range sort (where .Data.Pages "Params.length" "short") "Params.order" }}
+  {{ partial "detailed_play.html" . }}
 {{ end }}
 {{ partial "footer.html" . }}
 

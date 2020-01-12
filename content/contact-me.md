@@ -1,5 +1,7 @@
 ---
 title: Contact
+type: single
+layout: single
 ---
 
 Email: [Rnbublitz@gmail.com](mailto:rnbublitz@gmail.com)
@@ -28,11 +30,3 @@ Please have "script request" in the subject line of the email. In the body inclu
 
 
 [Rachel Bublitz's Twitter](https://twitter.com/RachelBublitz)
-
-
-
-## Newsletter
-
-
-
-Sign up for my newsletter: [tinyletter.com/rachelbublitz](http://tinyletter.com/rachelbublitz)

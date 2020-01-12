@@ -1,5 +1,5 @@
 {{ partial "header.html" . }}
-<section class="mw7 center">
+<section class="mw7 center ph2">
     {{ range (.Data.Pages ).GroupByDate "Jan, 2006" "desc" }}
     <h2 class="groupby">{{ .Key }}</h2>
     <ul>

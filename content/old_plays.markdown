@@ -12,24 +12,6 @@ Find a more complete list of my work on the [New Play Exchange](https://newplaye
 
 ---
 
-## [*Ripped*](https://newplayexchange.org/plays/70552/ripped)
-
-![Theatre Bay Area recommended image for RIPPED](/images/TBA_rec_Ripped_2019.jpg)  
-*Krystle Piamonte (Lucy) and Edwin Jacobs (Bradley). Photo by Lorenzo Fernandez-Kopec.*
-
-Lucy goes to college. Lucy brings mace. No need for Lucy to actually use it, right? But something happened that wasn’t supposed to happen. Or did it? Oh well, Lucy must be having that quintessential college experience: drinking, boys, and being completely decimated by the people she trusts.
-
-Cast of 3; 1 f, 2 m. Approximate runtime of eighty minutes.
-
->“The genius of “Ripped” is that of all the plays I saw this year, this one kept me questioning my own reactions to it, even six months later. This play—which had a notable reading at Z Space’s 2018 inaugural Problematic Play Festival—invited debate with its daring excavation of the “gray” areas of intent, consent and reliable witness, directed in a taut, compelling production by Lisa Steindler.”  
->[The Best Bay Area Theater of 2019 by Nicole Gluckstern on KQED Arts](https://www.kqed.org/arts/13872051/the-best-bay-area-theater-of-2019%E2%80%AC?fbclid=IwAR0NL4jJppfCvh1XZjR3-PnI1ofKeldD5cspZTK4aihybiTkLNg_H7YXNkI)
-
-## [*Burst*](https://newplayexchange.org/plays/138560/burst)
-
-Sarah Boyd is an extraordinary human being. Not only did she build her company from scratch using nothing but willpower and fortitude, she also sits on the precipice of truly saving this planet. Because on top of being one of the fastest growing tech companies in history, Tactix, with Sarah at its helm, will usher this planet into the post-plastic era. A time where we need not worry or fret over the great destruction being done to our world from this non-biodegradable foe. With her eyes steady on her next round of funding, Sarah must persevere through a late night interview with a particularly tough reporter, a lawsuit aimed at a person from her past, and the waffling of her CTO. It's a heavy load, and Sarah knows that she is the only one great enough to bear it.
-
-Cast of 3; 3 f. Approximate runtime of 85 minutes.
-
 ## [*The Night Witches*](https://newplayexchange.org/plays/278583/night-witches)
 
 ![Post card for THE NIGHT WITCHES.](/images/NIGHT_WITCHES_2019_Fringe.jpeg)
