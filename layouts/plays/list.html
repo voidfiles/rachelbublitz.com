@@ -1,0 +1,32 @@
+{{ partial "header.html" . }}
+<div class="mw7 center">
+    {{ .Content }}
+</div>
+{{ range where .Data.Pages "Params.length" "full" }}
+<section class="mw7 center">
+    <h2 class="serif fw1 ph3 ph0-l"><a href="{{ .Params.Link }}">{{ .Params.Title }}</a></h2>
+    <article class="bt bb b--black-10">
+      <div class="flex flex-column flex-row-ns">
+        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
+          <img src="{{ .Params.image }}" class="db" alt="{{ .Params.image_title }}">
+          <p class="ml0 gray">{{ .Params.image_description }}</p>
+          <dl class="dib mt0 mr5">
+            <dd class="f3 ml0">Cast</dd>
+            <dd class="f6 ml0">{{ .Params.cast }}</dd>
+          </dl>
+          <dl class="dib mt0 mr5">
+            <dd class="f3 ml0">Runtime</dd>
+            <dd class="f6 ml0">{{ .Params.runtime }}</dd>
+          </dl>
+        </div>
+        <div class="w-100 w-60-ns pl3-ns">
+          <div class="f5 f4-m f3-l measure lh-copy">
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
+    </article>
+
+{{ end }}
+{{ partial "footer.html" . }}
+

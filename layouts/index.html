@@ -1,31 +1,4 @@
 {{ partial "header.html" . }}
-<section class="main index">
-    <div class="container">
-        <div class="content">
-            {{ .Content }}
-            <hr >
-            {{ if isset .Site.Params "latestpostcount" }}
-                <div class="posts">
-                {{ $nbPosts := len (where .Data.Pages "Section" "blog") }}
-                {{ if gt $nbPosts 0 }}
-                    <p>Latest posts</p>
-                    <ul>
-                    {{ range (first .Site.Params.latestpostcount (where .Pages "Section" "blog")).GroupByDate "Jan, 2006" "desc" }}
-                        <li class="groupby">{{ .Key }}</li>
-                        {{ range .Pages.ByPublishDate }}
-                            {{ partial "li.html" . }}
-                        {{ end }}
-                    {{ end }}
-                    </ul>
-
-                    {{ if gt $nbPosts .Site.Params.latestpostcount }}
-                        <a href="./blog/" class="see-more">See more ...</a>
-                    {{ end }}
-                {{ end }}
-                </div>
-            {{ end }}
-        </div>
-    </div>
-</section>
+{{ .Content }}
 {{ partial "footer.html" . }}
 

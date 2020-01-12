@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+
+<section class="main post non-narrow zero-top-spacing">
+    <div class="container">
+        <div class="content">
+            <div class="front-matter">
+                <div class="title-container">
+                    {{ partial "page-heading" . }}
+                </div>
+            </div>
+            <div class="markdown">
+                {{ .Content }}
+                <br>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ partial "footer.html" . }}
