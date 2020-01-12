@@ -1,21 +1,12 @@
 {{ partial "header.html" . }}
-<section class="main">
-    <div class="container">
-        <div class="content">
-            <div class="posts">
-                <div class="page-heading">Latest</div>
-                {{ range (.Data.Pages ).GroupByDate "Jan, 2006" "desc" }}
-                    <h3 class="groupby">{{ .Key }}</h3>
-                    <ul>
-                    {{ range .Pages.ByPublishDate }}
-                        {{ partial "li.html" . }}
-                    {{ end }}
-                    </ul>
-                {{ end }}
-                </ul>
-            </div>
-        </div>
-    </div>
+<section class="mw7 center">
+    {{ range (.Data.Pages ).GroupByDate "Jan, 2006" "desc" }}
+    <h2 class="groupby">{{ .Key }}</h2>
+    <ul>
+    {{ range .Pages.ByPublishDate }}
+        {{ partial "li.html" . }}
+    {{ end }}
+    </ul>
+    {{ end }}
 </section>
 {{ partial "footer.html" . }}
-

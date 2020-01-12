@@ -10,13 +10,12 @@
         <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
           <img src="{{ .Params.image }}" class="db" alt="{{ .Params.image_title }}">
           <p class="ml0 gray">{{ .Params.image_description }}</p>
-          <dl class="dib mt0 mr5">
-            <dd class="f3 ml0">Cast</dd>
-            <dd class="f6 ml0">{{ .Params.cast }}</dd>
-          </dl>
-          <dl class="dib mt0 mr5">
-            <dd class="f3 ml0">Runtime</dd>
-            <dd class="f6 ml0">{{ .Params.runtime }}</dd>
+          <dl class="lh-title mt0">
+            <dd class="f6 b ml0">Cast</dd>
+            <dd class="ml0">{{ .Params.cast }}</dd>
+
+            <dd class="f6 b ml0">Runtime</dd>
+            <dd class="ml0">{{ .Params.runtime }}</dd>
           </dl>
         </div>
         <div class="w-100 w-60-ns pl3-ns">
@@ -26,7 +25,7 @@
         </div>
       </div>
     </article>
-
+</section>
 {{ end }}
 {{ partial "footer.html" . }}
 

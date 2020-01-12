@@ -1,40 +1,31 @@
 {{ partial "header.html" . }}
+<section class="mw7 center">
+    <h2 class="serif fw1 ph3 ph0-l">
+        {{ if .Params.heading }}
+            {{ .Params.heading }}
+        {{ else }}
+            {{ .Title }}
+        {{ end }}
+    </h2>
+    <article class="bt bb b--black-10">
+      <div class="flex flex-column flex-row-ns">
+        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
+          <img src="{{ .Params.image }}" class="db" alt="{{ .Params.image_title }}">
+          <p class="ml0 gray">{{ .Params.image_description }}</p>
+          <dl class="lh-title mt0">
+            <dd class="f6 b ml0">Cast</dd>
+            <dd class="ml0">{{ .Params.cast }}</dd>
 
-<section class="main post non-narrow zero-top-spacing">
-    <div class="container">
-        <div class="content">
-            <div class="front-matter">
-                <div class="title-container">
-                    {{ partial "page-heading" . }}
-                </div>
-            </div>
-            <div class="markdown">
-                {{ .Content }}
-                <br>
-            </div>
-            {{ if .Site.Params.posts_navigation }}
-                <div class="navigation">
-                    {{ if .PrevInSection }}
-                    <div>
-                        <img class="icon" src="/img/back.svg" alt="back" />
-                        <a href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a>
-                    </div>
-                    {{ end }}
-                    <div style="width: 100%;"></div>
-                    {{ if .NextInSection }}
-                    <div>
-                        <a href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}</a>
-                        <img class="icon" src="/img/next.svg" alt="next" />
-                    </div>
-                    {{ end }}
-                </div>
-            {{ end }}
-            <br>
-            <div class="disqus">
-                {{ template "_internal/disqus.html" . }}
-            </div>
+            <dd class="f6 b ml0">Runtime</dd>
+            <dd class="ml0">{{ .Params.runtime }}</dd>
+          </dl>
         </div>
-    </div>
+        <div class="w-100 w-60-ns pl3-ns">
+          <div class="f5 f4-m f3-l measure lh-copy">
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
+    </article>
 </section>
-
 {{ partial "footer.html" . }}
