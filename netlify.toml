@@ -4,3 +4,6 @@
   command = "hugo"
 
   environment = { HUGO_VERSION = "0.60.1" }
+
+[context.deploy-preview]
+command = "hugo -b $DEPLOY_PRIME_URL"

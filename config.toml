@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Rachel Bublitz"
-baseURL = "http://rachelbublitz.com/"
+baseURL = "https://rachelbublitz.com/"
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
