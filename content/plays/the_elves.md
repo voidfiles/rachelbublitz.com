@@ -3,14 +3,14 @@ title: "The Elves"
 date: "2015-12-20"
 layout: play
 length: short
-order: 2
-audience: tya
+order: 7
+audience: All ages
 cast: 8; 2 f, 2 m, 4 not specified
-runtime: Approximatly 10 minutes
+runtime: 10 minutes
 image: /images/elves.jpg
 image_title: Image of published script.
 license:
-    name: YouthPlays
+    name: YouthPLAYS
     link: https://www.youthplays.com/play/the-elves-by-rachel-bublitz-526&ref=search.php%3Fquicksearchbox%3Dthe%2Belves
 ---
 

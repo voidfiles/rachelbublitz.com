@@ -3,9 +3,13 @@ title: "Burst"
 date: "2015-12-20"
 layout: play
 length: full
-order: 2
+audience: 16+
+image: /images/slac_burst_poster_square.jpeg
+image_title: Salt Lake Acting Company flyer for reading of BURST
+image_description: Salt Lake Acting Company staged reading flyer
+order: 3
 cast: Cast of 3; 3 f
-runtime: Aproximatley 85 minutes
+runtime: 85 minutes
 npx: https://newplayexchange.org/plays/138560/burst
 ---
 

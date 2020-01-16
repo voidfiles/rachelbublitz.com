@@ -4,13 +4,13 @@ link: http://google.com
 date: "2015-12-20"
 layout: play
 length: full
-audience: Adult
-image: /images/TBA_rec_Ripped_2019.jpg
-image_title: Theatre Bay Area recommended image for RIPPED
-image_description: Krystle Piamonte (Lucy) and Edwin Jacobs (Bradley). Photo by Lorenzo Fernandez-Kopec.
+audience: 16+
+image: /images/RIPPED_san_diego.jpg
+image_title: Production photo from World Premiere at Z Space
+image_description: World Premiere at Z Space. Krystle Piamonte (Lucy) and Edwin Jacobs (Bradley). Photo by Lorenzo Fernandez-Kopec.
 order: 1
 cast: 3; 1 f, 2 m
-runtime: Approximatly eighty minutes.
+runtime: Eighty minutes.
 npx: https://newplayexchange.org/plays/70552/ripped
 ---
 
