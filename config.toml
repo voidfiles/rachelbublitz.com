@@ -1,10 +1,11 @@
 languageCode = "en-us"
 title = "Rachel Bublitz"
-baseURL = "http://rachelbublitz.com/"
+baseURL = "https://rachelbublitz.com/"
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   blog = "/:year/:month/:day/:slug/"
+  plays = "plays/:slug/"
 
 [params]
 dateform = "Jan 2, 2006"

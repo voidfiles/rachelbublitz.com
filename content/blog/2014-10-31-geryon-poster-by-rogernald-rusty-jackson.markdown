@@ -8,7 +8,7 @@ One of the things that makes the [San Francisco Olympians Festival](http://www.s
 
 Here it is:
 
-![The image of Geryon was created of Rogernald “Rusty” Jackson!](http://www.sfolympians.com/wp-content/uploads/2014/10/Geryon.jpg)
+![The image of Geryon was created of Rogernald “Rusty” Jackson!](https://www.sfolympians.com/wp-content/uploads/2014/10/Geryon.jpg)
 
 *The image of GERYON was created of Rogernald “Rusty” Jackson.
 

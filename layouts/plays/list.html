@@ -1,0 +1,30 @@
+{{ partial "header.html" . }}
+
+{{ .Content }}
+
+<div class="mw7 ph2 center" id="full-length"></div>
+  <h2 class="f2 serif">Script Requests</h2>
+  <p>To request any of the scripts listed above send an email to: <a href="mailto:rnbublitz@gmail.com">Rnbublitz@gmail.com</a></p>
+  <p>Please have "script request" in the subject line of the email. In the body include which play or plays you are interested in and the theatre or school requesting the script. Thank you.</p>
+  <hr>
+</div>
+
+
+
+<div class="mw7 ph2 mv5 center" id="full-length">
+  <h2 class="f2 serif">Full Length</h2>
+</div>
+
+{{ range sort (where .Data.Pages "Params.length" "full") "Params.order" }}
+  {{ partial "detailed_play.html" . }}
+{{ end }}
+
+<div class="mw7 ph2 mv5 center" id="shorts">
+  <h2 class="f2 serif" >Shorts</h2>
+</div>
+
+{{ range sort (where .Data.Pages "Params.length" "short") "Params.order" }}
+  {{ partial "detailed_play.html" . }}
+{{ end }}
+{{ partial "footer.html" . }}
+

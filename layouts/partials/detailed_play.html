@@ -1,0 +1,42 @@
+<section class="mw7 center ph2">
+    <h2 class="serif f2">
+      <a href="{{ .Permalink }}" class="link dim black b">{{ .Params.Title }}</a>
+    </h2>
+    <article class="bt bb b--black-10">
+      <div class="flex flex-column flex-row-ns">
+        <div class="pr3-ns mb0-ns w-100 w-40-ns mt3">
+          {{ if .Params.image }}
+          <div class="aspect-ratio aspect-ratio--1x1">
+            <a href="{{ .Params.image }}" class="link black dim">
+              <div class="aspect-ratio--object cover" style="background:url({{ .Params.image }}) center;"></div>
+            </a>
+          </div>
+          {{ if .Params.image_description }}
+            <p class="ml0 gray fw1 f6">{{ .Params.image_description }}</p>
+          {{ end }}
+          {{ end }}
+          <dl class="lh-title mt0">
+            <dd class="f5 b ml0">Audience</dd>
+            <dd class="ml0 mb2">{{ .Params.audience }}</dd>
+
+            <dd class="f5 b ml0">Cast</dd>
+            <dd class="ml0 mb2">{{ .Params.cast }}</dd>
+
+            <dd class="f5 b ml0">Runtime</dd>
+            <dd class="ml0 mb2">{{ .Params.runtime }}</dd>
+            {{ with .Params.npx }}
+            <dd class="f5 b ml0"><a class="link dim black" href="{{ . }}">New Play Exchange</a></dd>
+            {{ end }}
+          </dl>
+        </div>
+        <div class="w-100 w-60-ns pl3-ns">
+          <div class="measure lh-copy">
+            {{ with .Params.license }}
+              <b>{{ $.Params.Title }}</b> is available for purchase and/or licensing through <a class="link dim black" href="{{ .link }}">{{ .name }}</a>.
+            {{ end }}
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
+    </article>
+</section>
