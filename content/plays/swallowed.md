@@ -3,7 +3,7 @@ title: "Swallowed"
 date: "2015-12-20"
 layout: play
 length: short
-order: 14
+order: 16
 audience: 12+
 cast: 3; 2f, 1m
 runtime: 10 minutes
