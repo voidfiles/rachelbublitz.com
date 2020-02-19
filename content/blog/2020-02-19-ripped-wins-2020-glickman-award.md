@@ -16,6 +16,19 @@ By the way, the first thing my daughter, Audrey, asked me when I told her the am
 
 I will most likely be out April 20th to receive the award at the Theatre Bay Area Conference held at Freight & Salvage in Berkeley, but more about that once travel is figured out. For now, WOW WOW WOW WOOHOO YAY AHHHHHHHHH YESSSSSSSSSS!!!!!!!!!!
 
+GIANT THANK YOU AGAIN to everyone who helped bring this play to life:
+
+Everyone at [Z Space](http://www.zspace.org/)!  
+Lisa Steindler, my brilliant director!  
+Maya Herbsman, for keeping everyone safe with her intimacy directing.  
+The insanely talented actors who brought my characters to life; Daniel Chung, Krystle Piamonte, and Edwin Jacobs.  
+The brilliant designers and design team who totally knocked it out of the park and surpassed my dreams; Colm McNally (lighting and set), Camille Simoneau (assistant lighting), Sara Huddleston (sound), Christina Dinkel (costumes), Hannah Clague (props).  
+Our kick-ass stage manager Christina Hogan!  
+Our production assistant who can make angry cleaning noises like no one else, Kat Cuchiara-Armstrong!  
+And the creative producer Rose Oser, who also happens to be the first person at Z Space to read my script, and one of my greatest champions through all of this.  
+THANK YOU TEAM! 
+
+
 AND, for everyone out there thinking that maybe, just maybe, they should bring the *award winning* play *RIPPED* to their theater, YOU ARE CORRECT! You absolutely should!!! [Email me](mailto:rnbublitz@gmail.com) for a perusal copy of the script or find the latest draft on the [New Play Exchange](https://newplayexchange.org/plays/70552/ripped).
 
 And please read [the San Francisco Chronicle article announcing the good news](https://datebook.sfchronicle.com/theater/ripped-by-rachel-bublitz-wins-2020-will-glickman-award)! It gives more information about the Glickman Award, which by the way started the year I was born!!!! It feels a little bit like it was meant to be.
