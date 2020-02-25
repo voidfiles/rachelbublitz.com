@@ -8,7 +8,8 @@ audience: 16+
 cast: 2; 1f, 1m
 runtime: 10 minutes
 image: /images/my_body_barrington_2020.jpg
-image_title: Photo from 2020 production with Barrington Stage Company. Directed by Julianne Boyd, artistic director of Barrington Stage Company. Actors pictured: Doug Harris and Keri Safran. Photo by Emma Rothenberg-Ware.
+image_title: Photo from 2020 production with Barrington Stage Company.
+image_description: Photo from 2020 production with Barrington Stage Company. Directed by Julianne Boyd, artistic director of Barrington Stage Company. Actors pictured: Doug Harris and Keri Safran. Photo by Emma Rothenberg-Ware.
 npx: https://newplayexchange.org/plays/2541/my-body
 ---
 
