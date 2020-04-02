@@ -12,7 +12,7 @@ Welcome to part two of my Relentless Playwriting blog series! Today I'm going to
 
 Right now, this is easier said than done... "Rachel, we're supposed to be social distancing! GET WITH THE TIMES!"
 
-And I get that. That's why instead of listing my the typical resources I recommend (joining forming playwright meet-ups, inviting friends/actors/artists into your house to read your work, seeing as much theatre as possible and talking to folks after) I have a COVID-19 amended list of suggestions.
+And I get that. That's why instead of listing my the typical resources I recommend (joining/forming playwright meet-ups, inviting friends/actors/artists into your house to read your work, seeing as much theatre as possible and talking to folks after) I have a COVID-19 amended list of suggestions.
 
 ### Virtual Playwright Meet-ups
 
