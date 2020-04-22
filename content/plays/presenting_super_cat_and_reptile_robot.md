@@ -6,8 +6,8 @@ length: short
 order: 6
 audience: All ages
 image: /images/super_cat_reptile_robot.jpg
-image_title: Poster for Plan B Theatre's Elementary School Tour, designed by Aaron Swenson.
-image_description: Poster for Plan B Theatre's Elementary School Tour, designed by Aaron Swenson.
+image_title: Poster for Plan-B Theatre's Elementary School Tour, designed by Aaron Swenson.
+image_description: Poster for Plan-B Theatre's Elementary School Tour, designed by Aaron Swenson.
 cast: 2; 2 any gender
 runtime: 30 minutes
 npx: https://newplayexchange.org/plays/232233/presenting-super-cat-reptile-robot-tremendous-tickle-trouble
