@@ -27,6 +27,12 @@
             {{ with .Params.npx }}
             <dd class="f5 b ml0"><a class="link dim black" href="{{ . }}">New Play Exchange</a></dd>
             {{ end }}
+            {{ with .Params.license }}
+              <dd class="f5 b ml0">Licensed By</dd>
+              <dd class="ml0 mb2">
+                <a class="link dim black" href="{{ .link }}">{{ .name }}</a>.
+              </dd>
+            {{ end }}
           </dl>
         </div>
         <div class="w-100 w-60-ns pl3-ns">
