@@ -3,7 +3,7 @@ title: "Really Adult"
 date: "2015-12-20"
 layout: play
 length: short
-order: 3
+order: 5
 audience: 16+
 cast: 2; 1f, 1m
 runtime: 10 minutes

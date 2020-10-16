@@ -5,13 +5,15 @@ date: "2015-12-20"
 layout: play
 length: full
 audience: All ages
-image: /images/NIGHT_WITCHES_2019_Fringe.jpeg
-image_title: Postcard for Egyptian YouTheatre production of "The Night Witches"
-image_description: World Premiere at the Great Salt Lake Fringe Festival, produced by Egyptian YouTheatre.
+image: /images/TheNightWitches_RachelBublitz-smaller.jpg
+image_title: Poster from University of Utah production. Poster by Anna Oldroyd.
+image_description: Poster from University of Utah production. Poster by Anna Oldroyd.
 order: 2
 cast: 9+ f or 11+ f (80 minute version)
 runtime: three lengths available; 35 minutes, 60 minutes, or 80 minutes (11+ cast)
-npx: https://newplayexchange.org/plays/278583/night-witches
+license:
+    name: Dramatic Publishing
+    link: https://www.dramaticpublishing.com/the-night-witches
 ---
 
 The Night Witches, of the 588th Night Bomber Regiment, flew in planes made of canvas and wood, and dropped their bombs on their German enemy every fifteen minutes through the night to keep them from sleeping. They were constantly being shuffled and moved to perform new duties; mechanics would become navigators, navigators would become pilots, and pilots would become commanders. Nina and Vera have just finished their training as navigators and are moments away from their first combat mission. As they fight their nerves, the women around them use different means of bolstering their spirits, some more successfully than others. But when the time comes, ready or not, to the sky they must go. However, tonight is different than any night they’ve faced before; their enemy has employed a new tactic taking them completely by surprise. Using movement, song, and lyrically styled dialogue we follow these brave women through one fateful evening during the war.
