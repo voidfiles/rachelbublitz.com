@@ -3,7 +3,7 @@ title: "Reading Babar In 2070"
 date: "2015-12-20"
 layout: play
 length: short
-order: 2
+order: 4
 audience: 12+
 cast: 3; 2f, 1m
 runtime: 10 minutes
