@@ -10,6 +10,6 @@ Very excited to announce that [*BURST*](https://newplayexchange.org/plays/138560
 
 *BURST* will be performed on the final day of the festival, Sunday, August 1st at 2pm (PST). *BURST* will be directed by Christina Carlisi, with the acting talents of Allison Blaize (Sarah), Paris Perrault (Weaver), and Samantha Tan (Alexis).
 
-I cannot wait to dig into this play again, I feel so lucky to have a brand new set of artists to play with, and that the play will be heard by a whole new audience! It's also really special to be working with The Road Theatre again. In 2019 they did a reading of [*RIPPED*](https://newplayexchange.org/plays/70552/ripped), and it was a special experience from the beginning to the end.
+I cannot wait to dig into this play again, I feel so lucky to have a brand new set of artists to play with, and that the play will be heard by a whole new audience! It's also really special to be working with The Road Theatre again. In 2019 they did a reading of [*RIPPED*](https://newplayexchange.org/plays/70552/ripped), and it was a fantastic experience from the beginning to the end.
 
 More to come, as we get closer. For now mark off that first day of August for some good ol' online theater!
