@@ -3,7 +3,7 @@ title: "Mommy Dances With The Devil"
 date: "2015-12-20"
 layout: play
 length: full
-order: 7
+order: 9
 audience: 16+
 cast: 5; 5f
 runtime: 85 minutes
