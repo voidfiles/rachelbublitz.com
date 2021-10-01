@@ -1,5 +1,5 @@
 ---
-title: "Official Resident of Egyptian Youtheatre"
+title: "Official Resident of Egyptian YouTheatre"
 date: 2021-10-01T10:40:30-06:00
 layout: post
 ---
