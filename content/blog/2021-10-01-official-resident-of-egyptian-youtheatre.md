@@ -8,7 +8,7 @@ Happy October!
 
 I have some fun news to share..........(drum roll)........
 
-I have been named the Resident Playwright for the [Egyptian YouTheatre]https://egyptiantheatrecompany.org/index.php/youtheatre!
+I have been named the Resident Playwright for the [Egyptian YouTheatre](https://egyptiantheatrecompany.org/index.php/youtheatre)!
 
 (sounds of celebrations and playwright joy)
 
