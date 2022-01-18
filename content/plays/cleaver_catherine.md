@@ -5,7 +5,7 @@ layout: play
 length: short
 order: 9
 audience: All ages
-cast: 5-7, 1 f, 2 m, 2-4 any gender
+cast: 5-7, 1 she/her, 2 he/his, 2-4 any gender
 runtime: 30 minutes
 image: /images/clever_catherine.jpg
 image_title: Image of published script.

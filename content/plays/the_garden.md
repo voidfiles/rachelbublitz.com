@@ -5,7 +5,7 @@ layout: play
 length: short
 order: 17
 audience: 12+
-cast: 2; 2f
+cast: 2; 2 she/her
 runtime: 10 minutes
 npx: https://newplayexchange.org/plays/239997/garden
 ---

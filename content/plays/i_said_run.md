@@ -5,7 +5,7 @@ layout: play
 length: short
 order: 14
 audience: 12+
-cast: 4; 4f
+cast: 4; 4 she/her
 runtime: 10 minutes
 image: /images/One-ActsPoster2020_I_SAID_RUN.jpeg
 image_title: Poster for Redwood Day School production.

@@ -5,7 +5,7 @@ layout: play
 length: short
 order: 4
 audience: 12+
-cast: 3; 2f, 1m
+cast: 3; 2 she/her, 1 he/his
 runtime: 10 minutes
 image: /images/babar.jpg
 image_title: Production still from PlayGround world premiere.

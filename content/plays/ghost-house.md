@@ -8,7 +8,7 @@ image: /images/GhostHouse_BPS.jpeg
 image_title: Cover art for "Ghost House" from Playscripts.
 image_description: Cover art for "Ghost House" from Playscripts.
 order: 2
-cast: 4-10; 0-10f, 0-10m
+cast: 4-10
 runtime: 30-40 minutes
 license:
     name: Playscripts

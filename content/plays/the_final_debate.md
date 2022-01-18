@@ -5,7 +5,7 @@ layout: play
 length: short
 order: 18
 audience: 12+
-cast: 3; 2f, 1 any gender
+cast: 3; 2 she/her, 1 any gender
 runtime: 10 minutes
 image: /images/finaldebate.jpeg
 image_title: Production photo from World Premiere at Plan-B Theatre.

@@ -7,7 +7,7 @@ order: 9
 audience: 12+
 image: /images/red_days_bad_air.jpeg
 image_title: Image of air pollution in Salt Lake City, UT.
-cast: 4; 3f, 1m
+cast: 4; 3 she/her, 1 he/his
 runtime: 90 minutes
 npx: https://newplayexchange.org/plays/232234/red-days
 ---

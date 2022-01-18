@@ -5,7 +5,7 @@ layout: play
 length: short
 order: 1
 audience: 16+
-cast: 2; 1f, 1m
+cast: 2; 1 she/her, 1 he/his
 runtime: 10 minutes
 image: /images/my_body_barrington_2020.jpg
 image_title: Production photo from World Premiere at Z Space

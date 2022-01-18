@@ -5,7 +5,7 @@ layout: play
 length: short
 order: 4
 audience: 16+
-cast: 2; 2m
+cast: 2; 2 he/his
 runtime: 20 minutes
 npx: https://newplayexchange.org/plays/123895/toxic
 ---

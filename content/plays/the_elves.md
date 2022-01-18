@@ -5,7 +5,7 @@ layout: play
 length: short
 order: 7
 audience: All ages
-cast: 8; 2 f, 2 m, 4 not specified
+cast: 8; 2 she/her, 2 he/his, 4 not specified
 runtime: 10 minutes
 image: /images/elves.jpg
 image_title: Image of published script.

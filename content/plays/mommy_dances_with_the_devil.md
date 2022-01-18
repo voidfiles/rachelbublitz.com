@@ -5,7 +5,7 @@ layout: play
 length: full
 order: 9
 audience: 16+
-cast: 5; 5f
+cast: 5; 5 she/her
 runtime: 85 minutes
 npx: https://newplayexchange.org/plays/145102/mommy-dances-devil
 ---

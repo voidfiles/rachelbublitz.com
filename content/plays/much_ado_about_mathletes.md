@@ -5,7 +5,7 @@ layout: play
 length: short
 order: 10
 audience: All ages
-cast: 8; 6 f, 2 m
+cast: 8; 6 she/her, 2 he/his
 runtime: 30 minutes
 image: /images/much_ado_about.jpeg
 image_title: Image of published script.

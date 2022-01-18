@@ -8,7 +8,7 @@ image: /images/slac_burst_poster_square.jpeg
 image_title: Salt Lake Acting Company flyer for reading of BURST
 image_description: Salt Lake Acting Company staged reading flyer
 order: 3
-cast: Cast of 3; 3 f
+cast: Cast of 3; 3 she/her
 runtime: 85 minutes
 npx: https://newplayexchange.org/plays/138560/burst
 ---

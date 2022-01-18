@@ -5,7 +5,7 @@ layout: play
 length: full
 order: 8
 audience: 16+
-cast: 4; 4f
+cast: 4; 4 he/his
 runtime: 90 minutes
 npx: https://newplayexchange.org/plays/119863/lets-fix-andy
 ---

@@ -5,7 +5,7 @@ layout: play
 length: short
 order: 15
 audience: 16+
-cast: 4; 3f, 1m
+cast: 4; 3 she/her, 1 he/his
 runtime: 10 minutes
 npx: https://newplayexchange.org/plays/90783/employee-month
 ---

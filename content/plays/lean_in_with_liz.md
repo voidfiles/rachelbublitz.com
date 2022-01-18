@@ -5,7 +5,7 @@ layout: play
 length: short
 order: 13
 audience: 12+
-cast: 3; 3f
+cast: 3; 3 she/her
 runtime: 10 minutes
 npx: https://newplayexchange.org/plays/62085/lean-liz
 ---

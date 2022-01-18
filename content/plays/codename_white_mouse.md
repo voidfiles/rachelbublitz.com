@@ -8,7 +8,7 @@ audience: 16+
 image: /images/nancy_wake.jpeg
 image_title: Photo of Nancy Wake, inspiration for play.
 image_description: Photo of Nancy Wake, inspiration for play.
-cast: 6 with doubling; 3f, 3m
+cast: 6 with doubling; 3 she/her, 3 he/his
 runtime: 90 minutes
 npx: https://newplayexchange.org/plays/48794/codename-white-mouse
 ---

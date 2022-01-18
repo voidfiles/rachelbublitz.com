@@ -5,7 +5,7 @@ layout: play
 length: full
 order: 10
 audience: 12+
-cast: 15; 7f, 3m, 5 any gender
+cast: 15; 7 she/her, 3 he/his, 5 any gender
 runtime: 80 minutes
 npx: https://newplayexchange.org/plays/529011/summer-i-howled
 ---

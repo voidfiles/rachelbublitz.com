@@ -5,7 +5,7 @@ layout: play
 length: short
 order: 5
 audience: 16+
-cast: 2; 1f, 1m
+cast: 2; 1 she/her, 1 he/his
 runtime: 35 minutes
 npx: https://newplayexchange.org/plays/45988/break-room
 ---

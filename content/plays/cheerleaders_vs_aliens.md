@@ -3,9 +3,9 @@ title: "Cheerleaders VS. Aliens"
 date: "2015-12-20"
 layout: play
 length: full
-order: 4
+order: 5
 audience: All ages
-cast: 20; 10 f, 4 m, 6 any gender
+cast: 20; 10 she/her, 4 he/his, 6 any gender
 runtime: 90 minutes
 image: /images/Egyptian_carol_tig_2018.jpg
 image_title: Production photo from World Premiere at Egyptian YouTheatre

@@ -9,7 +9,7 @@ image: /images/RIPPED_san_diego.jpg
 image_title: Production photo from World Premiere at Z Space
 image_description: World Premiere at Z Space. Krystle Piamonte (Lucy) and Edwin Jacobs (Bradley). Directed by Lisa Steindler. Photo by Lorenzo Fernandez-Kopec.
 order: 1
-cast: 3; 1 f, 2 m
+cast: 3; 1 she/her, 2 he/his
 runtime: Eighty minutes.
 npx: https://newplayexchange.org/plays/70552/ripped
 ---

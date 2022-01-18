@@ -8,7 +8,7 @@ image: /images/OperationChicken.jpeg
 image_title: Cover art for "Operation Chicken Takeover" from Playscripts.
 image_description: Cover art for "Operation Chicken Takeover" from Playscripts.
 order: 3
-cast: 10; 0-10f, 0-10m
+cast: 10
 runtime: 25-30 minutes
 license:
     name: Playscripts

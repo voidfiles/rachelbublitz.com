@@ -5,7 +5,7 @@ layout: play
 length: full
 order: 5
 audience: 16+
-cast: 2; 2f
+cast: 2; 2 she/her
 runtime: 80 minutes
 npx: https://newplayexchange.org/plays/450187/funny-abortion
 ---

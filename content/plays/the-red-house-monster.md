@@ -9,7 +9,7 @@ image: /images/red_house_monster_cover.jpeg
 image_title: Cover art for "The Red House Monster" from Stage Partners.
 image_description: Cover art for "The Red House Monster" from Stage Partners.
 order: 4
-cast: 4-5; 4-5 f, 0-1 m
+cast: 4-5; 4-5 she/her, 0-1 he/his
 runtime: 35-45 minutes
 license:
     name: Stage Partners

@@ -9,7 +9,7 @@ image: /images/TheNightWitches_RachelBublitz-smaller.jpg
 image_title: Poster from University of Utah production. Poster by Anna Oldroyd.
 image_description: Poster from University of Utah production. Poster by Anna Oldroyd.
 order: 2
-cast: 9+ f or 11+ f (80 minute version)
+cast: 9+ she/her or 11+ she/her (80 minute version)
 runtime: three lengths available; 35 minutes, 60 minutes, or 80 minutes (11+ cast)
 license:
     name: Dramatic Publishing
