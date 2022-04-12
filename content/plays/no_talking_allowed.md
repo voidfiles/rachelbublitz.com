@@ -5,7 +5,7 @@ layout: play
 length: short
 order: 8
 audience: All ages
-cast: 6-12 of any gender
+cast: 6-12 
 runtime: 10-15 minutes
 image: /images/no_talking_allowed.jpg
 image_title: Image of published script.
