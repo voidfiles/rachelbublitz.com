@@ -1,5 +1,5 @@
 ---
-title: "BURST Finalist for NNPN 2022 Showcase"
+title: "BURST is a Finalist for NNPN 2022 Showcase"
 date: 2022-04-25T10:00:25-06:00
 layout: post
 ---
