@@ -11,7 +11,9 @@ image_description: World Premiere at Z Space. Krystle Piamonte (Lucy) and Edwin 
 order: 1
 cast: 3; 1 she/her, 2 he/his
 runtime: Eighty minutes.
-npx: https://newplayexchange.org/plays/70552/ripped
+license:
+    name: Original Works Publishing
+    link: https://www.originalworksonline.com/ripped
 ---
 
 Lucy goes to college. Lucy brings mace. No need for Lucy to actually use it, right? But something happened that wasn’t supposed to happen. Or did it? Oh well, Lucy must be having that quintessential college experience: drinking, boys, and being completely decimated by the people she trusts.
