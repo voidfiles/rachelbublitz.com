@@ -8,4 +8,4 @@ Thrilled to announce that *Burst* will be published with [Dramatic Publishing](h
 
 Getting *Burst* published will mean it can reach many more people, I'm hoping that translates to lots of productions. I know [*The Night Witches*](https://www.dramaticpublishing.com/the-night-witches) get a lot of attention with Dramatic Publishing, fingers crossed its no different for *Burst*.
 
-Stay tuned, I'll be sure to post when it's ready and available! 
+Stay tuned, I'll be sure to post when it's ready and available!  
