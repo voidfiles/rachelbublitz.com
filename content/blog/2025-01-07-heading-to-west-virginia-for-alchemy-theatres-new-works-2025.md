@@ -14,7 +14,7 @@ Fast forward to *this* past Fall, and I notice that an Alchemy Theatre is produc
 
 In fact, I was so delighted that I decide to reach out to thank them for the productions and offer to send them copies of my other published works. They let me know they'd love for me to send scripts their way. I send them a box of plays, and let them know if they'd ever want to collaborate more, I would be very interested in that. In a blink Nora Ankrom, executive director of Alchemy Theatre, who I've been corresponding with, invites me out to West Virginia as a guest speaker!
 
-Long story short: I leave for Alchemy Theatre and their [New Works 2025](https://www.alchemytheatretroupe.org/show/new-works-2025/) on Thursday morning!
+Long story short: I leave for Alchemy Theatre and their [New Works 2025](https://www.alchemytheatretroupe.org/show/new-works-2025/) this week!
 
 ![Production poster for New Works 2025 at Alchemy Theatre.](/images/IMG_1060.jpg)
 
