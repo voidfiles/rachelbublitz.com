@@ -1,5 +1,5 @@
 ---
-title: "The Best Men's Stage Monologues 2024 Out Now"
+title: "The Best Men's Stage Monologues 2024 — Out Now"
 date: 2025-01-29T11:37:59-07:00
 layout: post
 ---
