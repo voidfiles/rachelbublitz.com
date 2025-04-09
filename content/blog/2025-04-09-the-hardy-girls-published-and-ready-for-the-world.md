@@ -5,7 +5,7 @@ layout: post
 ---
 
 ![Cover art for *The Hardy Girls*, published by Stage Partners.](/images/HardyGirls_cover_sq.jpg)  
-*Cover art for *[THE HARDY GIRLS](https://www.yourstagepartners.com/hardy-girls#get_scripts)*, published by [Stage Partners](https://www.yourstagepartners.com/).*
+*Cover art for [THE HARDY GIRLS](https://www.yourstagepartners.com/hardy-girls#get_scripts), published by [Stage Partners](https://www.yourstagepartners.com/).*
 
 I have a few secret projects up my sleeve, and I cannot tell you how excited I am that I can finally announce one of them!!! *[The Hardy Girls](https://www.yourstagepartners.com/hardy-girls#get_scripts)* is a new full-length play, inspired by the first book in "The Hardy Boys" series, and because I've waited to announce, I can now give it to you fully ready! You read that right: *[The Hardy Girls](https://www.yourstagepartners.com/hardy-girls#get_scripts)* is published and available for licensing today!
 
@@ -17,11 +17,11 @@ Want to know more about this mystery/comedy? Here's the synopsis:
 
 *[The Hardy Girls](https://www.yourstagepartners.com/hardy-girls#get_scripts)* has a super flexible cast of 10 to 20 and runs between 100 and 120 minutes. The play also includes some of my all-time favorite lines, like:
 
->*"Good gracious, Fran, there’s another girl here! When did you and your mother get
-another girl?"*
+>"*Good gracious, Fran, there’s another girl here! When did you and your mother get
+another girl?*"
 
 And:
 
->*"Stop. You absolutely cannot add rhyming to your quirks. I’m at my limit."*
+>"*Stop. You absolutely cannot add rhyming to your quirks. I’m at my limit*."
 
-So what are you waiting for? *[The Hardy Girls](https://www.yourstagepartners.com/hardy-girls#get_scripts)* isn't going to read itself! 
+So what are you waiting for? *[The Hardy Girls](https://www.yourstagepartners.com/hardy-girls#get_scripts)* isn't going to read itself!
