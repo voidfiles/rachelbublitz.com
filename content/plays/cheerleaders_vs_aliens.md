@@ -3,7 +3,7 @@ title: "Cheerleaders VS. Aliens"
 date: "2015-12-20"
 layout: play
 length: full
-order: 5
+order: 6
 audience: All ages
 cast: 20; 10 she/her, 4 he/his, 6 any gender
 runtime: 90 minutes

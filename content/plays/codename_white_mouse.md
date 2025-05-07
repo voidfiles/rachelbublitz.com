@@ -3,7 +3,7 @@ title: "Codename: White Mouse"
 date: "2015-12-20"
 layout: play
 length: full
-order: 6
+order: 7
 audience: 16+
 image: /images/nancy_wake.jpeg
 image_title: Photo of Nancy Wake, inspiration for play.
