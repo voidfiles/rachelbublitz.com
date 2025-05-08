@@ -5,7 +5,7 @@ layout: play
 length: full
 order: 1
 audience: 16+
-image: /images/FLAA_cover_original_works.jpeg
+image: /images/FLAA_cover_original_works_square.jpeg
 image_title: FUNNY, LIKE AN ABORTION cover art
 image_description: Cover art for FUNNY, LIKE AN ABORTION, published with Original Works Publishing
 cast: 2; 2 she/her
