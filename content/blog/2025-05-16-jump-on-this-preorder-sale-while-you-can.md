@@ -10,5 +10,5 @@ layout: post
 
 [Happy Friday!](https://www.originalworksonline.com/funnylikeanabortion)
 
-![Production photo from Mile Square Theatre's Rolling World Premiere of FUNNY, LIKE AN ABORTION](http://localhost:1313/images/mstfunnylike841.jpeg)
+![Production photo from Mile Square Theatre's Rolling World Premiere of FUNNY, LIKE AN ABORTION](/images/mstfunnylike841.jpeg)
 *Joy Katherine Donze as Monroe in Mile Square Theatre's Rolling World Premiere of [FUNNY, LIKE AN ABORTION](https://www.originalworksonline.com/funnylikeanabortion), directed by Madsie Flynn. Photo by David White Studio.*
