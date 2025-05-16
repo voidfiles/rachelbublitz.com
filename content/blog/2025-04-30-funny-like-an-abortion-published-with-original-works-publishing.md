@@ -4,7 +4,7 @@ date: 2025-04-30T10:08:38-06:00
 layout: post
 ---
 
-![Promo for *Funny, Like An ABORTION*, published by Original Works Publishing.](/images/Funny-Like-carousel.jpg)  
+![Promo for *FUNNY, LIKE AN ABORTION*, published by Original Works Publishing.](/images/Funny-Like-carousel.jpg)  
 
 [*Funny, Like An Abortion*](https://www.originalworksonline.com/funnylikeanabortion) received a National New Play Network Rolling World Premiere with Mile Square Theatre, Cleveland Public Theatre, and The VORTEX, and then had two additional full productions, one co-production by Theatre Unchained and American Lives Theatre, and another co-production with Fat Theatre Project and Danztheatre Ensemble, and now my beautiful, heart-breaking, gut-busting, two-hander comedy is published and ready for all of your ordering and licensing needs!!!
 

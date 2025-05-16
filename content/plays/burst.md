@@ -7,7 +7,7 @@ audience: 16+
 image: /images/Burst_Alleyway.jpg
 image_title: Production photo from World Premiere at Alleyway Theatre
 image_description: Tracie Lane Thomason (Sarah Boyd) and Christine Turturro (Alexis Lyons), in Alleyway Theatre's World Premiere of BURST. Photo by Sarah Potter.
-order: 3
+order: 4
 cast: Cast of 3; 3 she/her
 runtime: 85 minutes
 license:
