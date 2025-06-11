@@ -4,6 +4,18 @@ date: 2025-06-04T10:54:03-06:00
 layout: post
 ---
 
+{{< rawhtml >}}
+<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAF1YoPj8Ww/A3jWJ5q3EonSo-AJ5gqyKw/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
+{{< /rawhtml >}}
+
+
 It's June, friends, summer is officially upon is! Which means, at least for the teaching artists among us, it's time to start reading plays in order to plan your season for the 2025/26 school year. If that's you, never fear! I'll be highlighting one of my school age plays each week until September to widen your reading list and give you a bunch of exciting options. These plays range from comedic to horror to comedic to historic to comedic.... Did I mention comedy? I really like jokes.
 
 The first play I'm going to highlight is my most recently published play for school aged actors: [*The Hardy Girls*](https://www.yourstagepartners.com/hardy-girls). *The Hardy Girls* was commissioned by [Stage Partners](https://www.yourstagepartners.com/), and is published with them. Here are four reasons you should grab a copy and peruse for yourself:

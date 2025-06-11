@@ -4,6 +4,17 @@ date: 2025-06-11T08:57:55-06:00
 layout: post
 ---
 
+{{< rawhtml >}}
+<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGpbFTA0zg/e0NGcdNCuM0W_jYYYGRnOg/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
+{{< /rawhtml >}}
+
 It's a new week in sweaty June, and I've got another play for your summer reading list: [*Of Serpents & Sea Spray*](https://www.yourstagepartners.com/of-serpents-sea-spray)! *Of Serpents & Sea Spray* is inspired by the Greek myth of Pegasus, and was commissioned by, and received its World Premiere with, [Custom Made Theatre Company](https://www.custommade.org/). The play is available through [Stage Partners](https://www.yourstagepartners.com/).
 
 *Of Serpents & Sea Spray* is a wonder filled full-length play about an orphan who turns to mythology after a horrible tragedy. And here are my four reasons why you should give this play a read and consider it for next season:
