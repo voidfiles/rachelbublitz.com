@@ -32,7 +32,7 @@ One of my favorite aspects of this play is that Cheerleaders are the heroes! The
 
 #### Looking for unique merchandising opportunity?  
 
-In [Alchemy Theatre](https://www.alchemytheatretroupe.org/)'s production of *Cheerleaders VS. Aliens* they had the fun idea to sell merch with "Team Cheerleaders" and "Team Aliens" written across them, giving friends and family of the actors a way to show their support from the audience. This is just one example of the amount of potential fun you can have with this script! Because, really, with a play this hilarious, the fun is limitless.
+In [Alchemy Theatre](https://www.alchemytheatretroupe.org/)'s production of *Cheerleaders VS. Aliens* they had the fun idea to sell merch with "Team Cheerleaders" and "Team Aliens" written across them, giving friends and family of the actors a way to show their support from the audience. This is just one example of the amount of potential fun you can have with this script! Because, really, with a play this hilarious, the fun potential is limitless.
 
 Here's the synopsis for *Cheerleaders VS. Aliens*:
 
