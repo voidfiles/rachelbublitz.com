@@ -38,19 +38,19 @@ Here's a bit ,ore about *Holly, Jolly, & Extra Folly*, including all the play ti
 
 >*A ragtag medley of holiday plays set to delight readers and audiences alike. Ranging from hilarious and rhyming to touching and sweet, with a ghost story thrown in to keep you on your feet! This collection includes the following short plays:*
 
->**Mom's Ham*  
+>* *Mom's Ham*  
 
->**Who's Got Christmas Spirit???*  
+>* *Who's Got Christmas Spirit???*  
 
->**Santa's Old Friend*  
+>* *Santa's Old Friend*  
 
->**How Gretchen Stole Christmas*  
+>* *How Gretchen Stole Christmas*  
 
->**Warm the Bones*  
+>* *Warm the Bones*  
 
->**Reindeer Games*  
+>* *Reindeer Games*  
 
->**Oy, Oy, Oy, Merry Christmas!*  
+>* *Oy, Oy, Oy, Merry Christmas!*  
 
 [*Holly, Jolly, & Extra Folly*](https://www.yourstagepartners.com/holly-jolly-extra-folly) is a full-length collection of ten-minute plays, with the option to license as few or many as you'd like. Find *Holly, Jolly, & Extra Folly* with [Stage Partners](https://www.yourstagepartners.com/).
 
