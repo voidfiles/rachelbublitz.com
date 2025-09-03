@@ -1,5 +1,5 @@
 ---
-title: "Southeastern Premiere of Burst with New City Players"
+title: "Southeastern Premiere of BURST with New City Players"
 date: 2025-05-31T08:31:17-06:00
 layout: post
 ---
