@@ -1,5 +1,5 @@
 ---
-title: "FUNNY, LIKE AN ABORTION Award Nomination"
+title: "FUNNY, LIKE AN ABORTION Award Nominations"
 date: 2025-10-15T10:07:04-06:00
 layout: post
 ---
