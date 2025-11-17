@@ -24,7 +24,7 @@ The reading and light staging of *Hear Us Roar* will be performed this week, Nov
 
 ![Rehearsal photo by Ashlee Macdonald](/images/goalietoss.jpg) *Rehearsal photo by Ashlee Macdonald, with (actors in scene left to right) Stevie Anson (Jack), Kailey Gonzaga (Megan), and Isis Freiberg (Sabrina).*
 
-And where are these amazing rehearsal process photographs coming from? A brilliant friend of mine, Ashlee Macdonald, is a documentary photographer and asked if she could document our workshop. Of course I said YES! I'll be posting more after the performances this week, or check out more right now on my [Instagram](https://www.instagram.com/playwrightbublitz/).
+And where are these amazing rehearsal process photographs coming from? A brilliant friend of mine, [Ashlee Macdonald](https://www.instagram.com/ashlifepic/), is a documentary photographer and asked if she could document our workshop. Of course I said YES! I'll be posting more after the performances this week, or check out more right now on my [Instagram](https://www.instagram.com/playwrightbublitz/).
 
 ![Rehearsal photo by Ashlee Macdonald](/images/centerstuff.jpeg) *Rehearsal photo by Ashlee Macdonald, with (left to right) Akina Yamazaki (Crystal, aka Cheese), CoCo Berwald (Erin), and Ellie Lyman (April).*
 
