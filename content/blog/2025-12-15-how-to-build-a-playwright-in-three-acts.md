@@ -8,9 +8,7 @@ layout: post
 
 *HUGE* announcement: I WROTE A FREAKING BOOK!!!!!
 
-I have been working on {{< rawhtml >}}
-<span style="text-decoration: underline;">How to Build a Playwright in Three Acts</span>
-{{< /rawhtml >}}, published through [Stage Partners](https://www.yourstagepartners.com/), for years. Turns out books have a lot more words in them than plays!
+I have been working on [How To Build A Playwright in Three Acts](https://www.yourstagepartners.com/how-to-build-a-playwright-in-three-acts#tab-1), published through [Stage Partners](https://www.yourstagepartners.com/), for years. Turns out books have a lot more words in them than plays!
 
 This whole wild idea started with my experience teaching playwriting and wanting to find scenes that I could use to break down single dramatic tools, which was always harder than I thought it should be. I had decided to just start writing my own, right when I happened to have a meeting with Stage Partners. On a lark, I pitched these scenes as the seeds for a book on playwriting. And they said yes! Which was super amazing, but then I had to figure out how to write an actual book!
 
